@@ -16,4 +16,6 @@ Swansea University - Advanced Computer Science (Distinction)
 
 Inonu University - Computer Engineering (3.2 / 4.0)
 
+---
+
 
