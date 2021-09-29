@@ -1,0 +1,26 @@
+Minutes of Meeting: Bob, Max Wilson, Mohammed, Liam, Elif,  Dylan, Naif
+------------------------------------------------------------------------------
+Date:       15 Aug 2018
+Start time: 13.30
+End time:   15.00
+
+Date and time of next meeting: 
+
+
+Topics Discussed: 
+	-- Agent-based call center vis
+	-- Cannot compare accross year with treemap	
+	-- Slice and dice versus other algorithms like squarified treemap
+	-- Adding labels to treemap
+	-- Translation visualization
+	-- Tilebars related work
+	-- Adding multivariate glyphs to geo-space
+	-- Paul Brindley and Max Wilson on fuzzy boundaries
+	-- Molecular dynamics visualization
+
+Progress:
+	-- 
+
+
+TODO:
+	-- Add "Max" to minutes of meeting file name

@@ -1,0 +1,43 @@
+Minutes of Meeting: Bob, Dylan, Elif
+----------------------------------------------
+Date:      29 May 2018
+Start time: 14:30
+End time:   15:20
+
+Date and time of next meeting: 12 June 2018 14:15
+
+
+Topics Discussed: 
+	-- USB sticks
+	-- Meeting #50
+	-- "Improving Bayesian Reasoning: The effects of phrasing, visualization
+	    and spatial ability"
+	-- "Evaluation of static and dynamic visualization traning approaches for users with different 
+	   spatial abilities"
+	-- Morgan Claypool synthensis lectures on visualization
+	-- Gender bias in citations- Petra Isenberg
+	-- NSF publishes data and ethnicity data
+	-- 2 rejected diversity panel proposals- Vis 2017, Siggraph 2018
+	-- Telemeeting with Ron Metoyer et al.
+
+	
+        
+
+Progress:
+	-- Bob reviews survey paper 
+	-- Next draft of survey
+	-- Next paper summary
+	-- All hepatitis years added to treemap
+
+
+
+TODO:
+
+	-- Ask Dylan, Liam, Rich, Sean Walton to proof-read the survey after Bob's feedback.
+	-- Bob review next draft of survey
+	-- Write a 2-page summary of " Understanding visualization by understanding individual users"- Review A3 of data vis module
+	-- Use Google Scholar to find who cites above paper, place intereseting pops in an online folder
+	-- Start poster for CoS DTC Conference
+	-- No new summaries for CGVC 2018 survey, however citations can be added to overview table.
+	-- Next survey paper summary
+	-- Software- Hierarchy as disease-state-year-place year as horizontal rectangle

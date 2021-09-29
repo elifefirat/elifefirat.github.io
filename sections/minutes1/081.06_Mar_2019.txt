@@ -1,0 +1,33 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       06 March 2019
+Start time: 11.00
+End time:   12.00
+
+Date and time of next meeting: 13 March 11.00, Visible Lunch on Thursday
+
+Topics Discussed: 
+	-- IEEE CG&A Education Department
+	-- Treemap Test
+
+           
+
+Progress:
+	-- When the user clicks on region, Treemap shows three
+           levels of hierarchy: US, region, state
+
+
+
+TODO:
+	-- Bob assess A1
+	-- Copy and paste what Bob wrote last week for software feature into the draft
+           of software features documents- and then show Bob next draft
+	-- Add Alex Telea's colormap with 16 colors (Add the word "text" onto Bob's URL)
+	-- Send Bob latest draft of diversity chapther- Print
+	-- Place diversity chapther in IEEE CG&A template
+	-- Add VLAT Treemap images to online folder of Treemaps
+
+
+	
+
+	

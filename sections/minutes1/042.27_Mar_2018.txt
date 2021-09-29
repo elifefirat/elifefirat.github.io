@@ -1,0 +1,36 @@
+Minutes of Meeting: Bob, Dylan, Elif
+----------------------------------------------
+Date:      27 March 2018
+Start time: 14:15
+End time:   16:20
+
+Date and time of next meeting: 
+
+Topics Discussed: 
+	-- CGVC 2018 submission
+	-- Leave out 22
+
+	
+         
+
+
+Progress:
+	-- Summary of paper
+	-- Next draft of Pseudo-code
+	-- Initital conversation  with Swigg
+	-- Work on getting treemap display
+
+
+
+
+TODO:
+	-- Summarize "Improving visualization skills in engineering education"
+	-- Create and "Out of scope" folder
+	-- Next Draft of Pseudo-code
+	-- Make sure you are following rule #5
+	-- Add a debug flag to every method with corresponding print statemaps
+	-- Review Bob's debugging guidelines
+	-- Try to get samples of t-shirts
+	-- Render a treemap of 51 states
+
+	

@@ -1,0 +1,37 @@
+Minutes of Meeting: Bob, Richard, Elif, Liam
+----------------------------------------------
+Date:       16th November 2017
+Start time: 11:00
+End time:   12.20
+
+Date and time of next meeting:Visible Lunch today, 23th November 2017 11.00 Dylan-Elif
+
+
+Topics Discussed: 
+	-- Fire in office
+	-- Eurographics Educations Papers
+	-- Eurographics eg.org
+	-- A personal fridge
+
+ 
+
+
+Progress:		
+	-- Bar chart of state vs number of cases
+	-- 5 regtangles using Qpainter and OpenGL
+	-- Web pages updated
+
+
+
+TODO:
+        -- Add labels to axes in bar chart
+	-- Summarize five design sheet paper using this template described in "how to read visualization  paper"
+           include references and bibliography
+	-- Collect pdfs of all litrature search papers in online folder
+	-- Google "Visualization and Education"-look at scholary articles and other links
+	-- Check Eurographics 2017 Wb page in education papers for more related work-Check last 5 years
+	-- Add labels to your 51 states rectangles and adjust their width by the normalize number of cases in each state
+	-- Add a new object called "state"
+	-- Test out Github and softwares on laptop- see if it works
+	-- Watch lecture on "Class Hierarchies: Lecture 05"
+

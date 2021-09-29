@@ -1,0 +1,31 @@
+Minutes of Meeting: Bob, Liam, Elif, Chao
+----------------------------------------------
+Date:       1st December 2017
+Start time: 11:00
+End time:   13.00
+
+Date and time of next meeting:Wednesday for Chao, Thursday for Elif, Friday for Liam
+
+
+Topics Discussed: 
+	-- Lecture on sub-systems 
+ 
+
+
+Progress:		
+	-- VisTrails Paper summary
+	-- Added labels to Treemap states
+	-- Watched lecture on sub-systems 
+
+
+
+TODO:
+        -- Prepare visible lunch conferences papers
+	-- Start using Latex for paper summaries
+        -- Next version of previous two paper summaries
+	-- Prepare for quiz on Protocols
+	-- Add regions and state to treemap
+	-- Introduce a region object
+
+
+

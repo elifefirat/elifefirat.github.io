@@ -1,0 +1,38 @@
+Minutes of Meeting: Bob, Elif, Dylan, Wang
+------------------------------------------------------------------------------
+Date:       12.06.2019
+Start time: 12.00
+End time:   12.55
+
+Date and time of next meeting: 19 June 2019 
+
+
+Topics Discussed: 
+	-- Arved attends PGR Conference
+
+
+
+Progress:
+	-- Email sent to 1st, 2nd, MSc students for treemap user study
+	-- Experimental procedure written down
+	-- PCoords Video
+	-- Amazon gift vouchers from Julie
+	-- Choice of color map as a menu option
+	-- Tooltips over PCoords
+	-- User right-clicks on any point and delete option comes up
+	-- Updated interview questions
+
+
+TODO:
+	-- Offer interview questions both online and on paper
+	-- Choose paper session for EuroVis 2019 Conference report
+	-- Next draft of Treemap paper
+	-- Show color legend somewhere
+	-- Fix bug with tooltips appering where they shouldnt
+	-- User right clicks on edge and delete edge menu option appears
+	-- Look into bug while deleting points
+	-- Talk at CoS conference
+	-- Conduct user-study on Friday
+
+	   
+	    	

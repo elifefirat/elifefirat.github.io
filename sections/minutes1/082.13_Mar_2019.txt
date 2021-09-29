@@ -1,0 +1,47 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       13 March 2019
+Start time: 11.00
+End time:   12.10
+
+Date and time of next meeting: 20 March 11.00, Visible Lunch on Thursday
+
+Topics Discussed: 
+	-- Treemap software instructions
+	-- Treemap hypothesis: Labels, legend, hierarcy, coordinate system/layout algorithm
+
+           
+
+Progress:
+	-- Assessed Part 2 of A1
+	-- Bob reviews diversity paper draft
+	-- Next draft of treemap software features
+
+
+
+
+TODO:
+	-- Create a bar chart for A1, Part 2 showing
+	   number of correct vs incorrect questions on treemap
+	-- Scan assessment sheets before giving them back (scan alphabetical order by surname)
+	-- Next draft of software features description
+	-- Add more yellow color , move green to the middle, add light blue to color map
+	-- Review color map with Dylan to see it matches Alex Telea's
+	-- Try changing border thickness of treemap rectangles depending on hierarchy level
+	-- Next draft of diversity paper on IEEE CG&A format
+	-- Scan all page 1 and page 2 of assessment sheets for A1- Separate 3rd year and masters students
+	-- Scan Part 1- Year 3: Page 1 
+ 	-- Scan Part 2- Year 3: Page 2 
+	-- Scan Part 3- Msc   : Page 1 
+	-- Scan Part 4- Msc   : Page 2
+	-- Print out all A1 submissons that were not submitted in paper format- Give to Bob
+	-- Try to obtain original Treemap images from the book of trees
+	-- Organize Treemap images into 4 categories:
+	   1. VLAT
+	   2. no legend or label
+	   3. with labels
+	   4. with legend
+	   5. tree? images
+	
+
+	

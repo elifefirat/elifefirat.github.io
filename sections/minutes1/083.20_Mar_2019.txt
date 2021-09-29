@@ -1,0 +1,41 @@
+Minutes of Meeting: Bob, Elif, Dylan, Mohammed
+------------------------------------------------------------------------------
+Date:       20 March 2019
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 27 March 11.00
+
+Topics Discussed: 
+	-- Large volume of email
+
+
+           
+
+Progress:
+	-- Next draft of diversity paper
+	-- Reviews from EuroVis returned
+	-- Scanned in assessment sheets for DataVis module
+	-- Next draft of treemap features
+	-- Book of trees pdf found-Sorted treemap images
+	-- Bar chart of A1-Part2-Questions
+	-- Next version of colormap
+	-- First version of borders
+
+
+
+
+TODO:
+	-- Ask Liam and Carlo to proofread diversity paper, ask them also to send me their reviews
+	-- Submit diversity paper to education track IEE CG&A
+	-- Bob read EuroVis reviews
+	-- Next draft of treemap software features
+	-- Extract high res images, pg 151 top, pg 155 bottom, pg 156 top (try to find original)
+	-- Sort DataVis A1 into 3 piles
+	-- Next verion of bar charts A1, part 2 with two questions about hierarcy (Q7)
+	-- Add yellow and dark green to color map
+	-- Use a lighter shade of grey for borders
+	-- Get highlight working when showing states
+	
+
+	

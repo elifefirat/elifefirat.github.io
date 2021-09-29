@@ -1,0 +1,40 @@
+Minutes of Meeting: Bob, Elif, Dylan, Mohammed
+------------------------------------------------------------------------------
+Date:       03 April 2019
+Start time: 11.00
+End time:   12.20
+
+Date and time of next meeting: 10 April 11.00
+
+Topics Discussed: 
+	-- Treemaps to use: Map of the market, entertainment.png, medalcountry.png,  
+           Vlat treemaps, populatedcities, treemapin.jpg (find out what it is)
+	-- Hypothesis: The more rectangles a treemap contains the more difficult it is to interpret
+	-- A1 Treemaps: Label-16, Legend-3, None-3, Legend+Label-47
+
+           
+
+Progress:
+	-- Diversity paper submitted
+	-- First treemap questions
+	-- Next version of software features description
+	-- Rounded rectangles
+	-- Border color & highlight color
+	-- Tree view color legend
+	-- First contact with the Swigg
+	-- First paper outline
+
+
+TODO:
+	-- Ask Carlo which dates he was invitedto teach on
+	-- Aim for 61 total treemap questions-All multiple choice with 4 choices + skip
+	-- Classify each question: Color internal node, leaf node, layout, legend or not, of rectangles
+	-- Try to take photos of Treemaps with phone (Next to window)
+	-- Choose a few high quality Treemap from A1-10 (download pdf)
+	-- Investigate online version of test-Google forms
+	-- Next draft of software features description
+	-- Make tree color legend a bit shorter
+	-- Make sure color legend placement is updated
+	-- Laise with the Swigg about on price and menu
+	-- Next draft of paper outline
+	

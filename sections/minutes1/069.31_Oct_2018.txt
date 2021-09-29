@@ -1,0 +1,49 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       31 Oct 2018
+Start time: 11.00
+End time:   12.45
+
+Date and time of next meeting: 7 Nov 11.00 
+
+
+Topics Discussed: 
+	-- Purchases
+	-- "Exploring Visuospatial Thinking in Chemistry..." : Chemistry, Litrature based
+	-- "The Effect of 3D simulations.." : Chemistry, Classroom
+	-- "The use of 3D ..." Chemistry, Classroom
+	-- "Visual Representation.. " not included
+	-- "Students Understanding of molecular..": Chemistry, Classroom 
+	-- "Identification and rectification.." : Chemistry, Classroom 	
+	-- "The effects of computer..": Chemistry, Classroom 
+	-- "Spatial ability and the impact.." : Chemistry, Classroom 
+	-- "The role of visualization..": Geology, Classroom 
+	
+	   
+
+Progress:
+	-- Elif gets new laptop!
+	-- "Final" draft of diversity chapter
+	-- Next draft of treemap questions
+	-- Next version of classification table
+	-- Next draft of perception and vis litaracy introductions
+	-- More chemistry papers for survey
+	-- User clicks on US square on tree view and sees region+states
+
+
+TODO:
+	-- Choose paper session for visible lunch report
+	-- Evaluate Assignment 1 papers using final version of treemap questions
+	-- Write introduction to "Active Learning and Creativity" section
+	-- Add a 'G' symbol to table next to papers focusing on graph literacy
+	-- Create a subject-based folder online for each survey paper e.g Chemistry
+	-- Look for papers that cite [BPC*14] and related papers
+	-- Try to fix flicking bug with region square
+	-- Update color legend according to user selection max+min
+	-- Add years to tree- Show first 10 years-with on-mouse-over correspondence
+	-- Experiment with add all years using smaller squares
+	-- Add on-mouse-over information to US square on tree
+	-- Have a look at 4 Vis papers selected by Bob and see if they are relevant
+
+	
+	

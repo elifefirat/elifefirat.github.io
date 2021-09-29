@@ -1,0 +1,61 @@
+Minutes of Meeting: Bob, Dylan, Elif
+----------------------------------------------
+Date:       13 Feb 2018
+Start time: 15:20
+End time:   17.00
+
+Date and time of next meeting: 16 Feb Liam-Elif, 20 Feb Dylan-Elif
+
+Topics Discussed: 
+	-- PhD Plan/Plan
+	-- Summarize Survey Papers
+
+
+            
+
+
+Progress:
+	-- Next version of search Methodology
+	-- COS DTC seminar on conducting litreature surveys
+
+
+
+
+
+TODO:
+	-- Combine survey papers in a single pdf documents(in chronically order)
+	-- Next draft of litrature search methodology
+	-- Summary of survey papers
+	-- Step 1-4 of pseudo-code
+	-- Enroll third year students onto master data visualization module
+
+        ---------------------------------------------------------------------------------
+
+                                         Year Week State Case Incidence Disease
+   DataTuple (Stores 1 record/row)--->   1973 1    MA    10   10/10k     D         
+                                                         
+   DataTupleManager(Stores whole table)
+
+   Main
+   1 Treemapifier= New Treemapifier();
+   2 Treemapifier.SetFileReader(New FileReader())
+   3 Treemapifier.SetDataManager(New DataTupleManager())
+   4 Treemapifier.SetFileReader(New ReadData(Treemapifier.GetDataManager()))
+
+
+   For Each Disease, D
+       Derieve DiseaseRateByState(D)
+   End For
+ 
+   For Each State, S
+       DerieveDiseaseRate(D,S)
+   End For
+        
+        D,S,Y,C---> store like that
+
+   Photo: http://cs.swansea.ac.uk/~cselif/Screenshots/11.Project%20Plan.jpg
+
+
+       
+
+	

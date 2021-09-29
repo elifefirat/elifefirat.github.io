@@ -1,0 +1,43 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       03.07.2019
+Start time: 12.00
+End time:   12.40
+
+Date and time of next meeting: 10 July 2019 + Visible Lunch
+
+
+Topics Discussed: 
+	-- Q50-Pre-test-Absent label cause problems
+	-- Q40-Pre-test-Requires interpretation of hierarchy+layout algortihm
+	-- Classification: Leaf nodes, color, internal nodes/hierarchy,
+           labels+legends, layout algorithm
+	-- Eurovis 2014 Workshop on Visualization Literacy
+
+
+
+Progress:
+	-- Bob reviews draft of Treemap paper
+	-- Bob reviews 2 paper summaries
+	-- Next survey paper summaries
+	-- Diversity paper submited
+	-- Bar chart for pre-test sorted by % correct x-axis
+	-- User can click ans drag points on Cartesian coordinates plot
+           and PCoords plotes updates accordinly and opposite condition
+
+
+
+TODO:
+	-- Next draft of Treemap paper
+	-- Next paper summary for survey (EduClust)
+	-- Create an overview table for survey
+	-- Reschedule Skype call with Alena
+	-- Make a report of the bottom 10 and top 10 questions for both pre- and post-test
+	-- Look up how to add confidence intervals to bar charts-try to use standart notation
+	-- Check Mario Romero Vega's webpage for more Vis Literacy paper
+	-- Add a "Future Work" section each survey paper summary
+	-- Save and re-load point data on Cartesian and PCoords, look at file format of Alferd Inselberg
+
+
+	   
+	    	

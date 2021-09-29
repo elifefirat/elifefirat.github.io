@@ -1,0 +1,53 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       3 Oct 2018
+Start time: 11.00
+End time:   12.45
+
+Date and time of next meeting: 10 Oct 11.00 113 CoFo Room
+
+
+Topics Discussed: 
+	-- Moving
+	-- Treemaps do not have axis lables
+	-- The impact of concept mapping and visualization on the learning of secondary school
+	   chemistry: Classroom, Student, Chemistry 
+	-- A model of the preceptual and conceptual processes in graph comprehension:
+           Litreacy, ? study, Teacher
+	-- Making sense of graphs: Literacy, None,Teacher
+	-- Graph literacy: A cross-cultural perspective: Literacy, Teacher, Controlled user study
+	-- How do people make sense of unfamiliar visualization: Literacy, Controlled study, Teacher
+	-- Bar and line graph comprehension: Literacy Controlled, Teacher
+	-- Understanding users' comprehension and preferences: course-sourcing, Literacy, Teacher
+	   
+
+
+Progress:
+	-- Bob reviews diversity chapther
+	-- Next draft of diversity chaphter
+	-- Bob reads VLAT: Development of a visualization literacy assessment test
+	-- Next draft of treemap questions
+	-- Next paper summary
+	-- First draft of sketch
+	-- User option: User chooses region
+	-- Chose a laptop
+	-- Accomadation on London
+
+TODO:
+	-- Next draft of treemap questions
+	-- Draft introduction to next sub-section 3.2
+	-- Focus on adding papers to overview table- No more paper summary till skecth deadline
+	-- Find 31,34, 16 from VLAT references
+	-- Investigate 8,10,31,33,42,52- Look related work
+	-- Bob review sketch
+	-- Next draft of sketch and add biographies
+	-- Next draft of diversity chapther
+	-- Ask vis group how to make vis class more inclusive
+	-- Highlight chosen region on tree-view
+	-- Add boundries to internal nodes of treemap
+	-- User clicks on a region in treeview and corresponding leaf nodes are rendered dynamically
+	-- Prioritize sketch and diversity chapther over software
+	-- Print out laptpop spec
+	-- Order laptop- Fill out purchase order form
+	
+	

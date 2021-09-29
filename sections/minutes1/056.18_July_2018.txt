@@ -1,0 +1,32 @@
+Minutes of Meeting: Bob, Dylan, Elif
+----------------------------------------------
+Date:       18 July 2018
+Start time: 10.00
+End time:   11.15
+
+Date and time of next meeting: 25 July 11.00, Demo to Ben Shneiderman 
+
+
+Topics Discussed: 
+	-- QRec Class
+	        
+
+Progress:
+	-- Bob rewiews diversity chapter
+	-- Next summary of paper for survey
+	-- Software performance improved
+	-- Polo shirt prototype
+
+TODO:
+	-- Next draft of diversity chapter
+	-- Try saving treemap data to a file rather than computing it
+	   from scratch each time you run your program
+	-- Move to read file : #20
+	-- Table only : #23, 24, 25, 27, 30 (2003), 32(2009) make a new online folder "Tableonly"
+	-- Move to out of scope folder: # 28, 29, 33, 35, 36, 37
+	-- Update file names as surnameoffirstauthor-year-firstwordintitle
+	-- Next paper summary #41
+	-- Try to get software working in a stable way for demonstration
+	-- Prepare demo for Ben Shneiderman 
+	-- Add another disease
+	

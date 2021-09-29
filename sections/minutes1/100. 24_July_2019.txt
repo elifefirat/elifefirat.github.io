@@ -1,0 +1,37 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       24.07.2019
+Start time: 11.30
+End time:   12.20
+
+Date and time of next meeting: 14 August 2019 + Visible Lunch
+
+
+Topics Discussed: 
+	-- Bob away 29 July-7 Aug, 15-16 Aug, 26-31 Aug,
+	-- Chi Videos- Total submisson size 120mb
+
+
+
+Progress:
+	-- Bob reviews pre-test questions & classification
+	-- Meeting with Alan Dix
+	-- Looked at Liam's user-study paper
+	-- New axes labels
+	-- User clicks on points in 3rd axis directly, slides them up and down to change size
+	-- Removed "Delete" and Clean all--> Clear
+
+
+TODO:
+	-- Bob review post-test questions & classification
+	-- Write up Alan and Alena asking where you can find a good explantion of theme analyses e.g a book chapther (cc: Bob)
+	-- Try to  hava a new draft for each meeting before CHI deadline
+	-- Look at PCoords and Edulcust papers for more related work (cited by, Google scholar)
+	-- A survey draft focusing on the viz literacy scope
+	-- New bar chart: Questions on x-axis(pre-test) ranked by successrate and with classification indicators
+	-- Add treemap literacy classification sub-section to draft
+	-- Try to remove long (tall) tooltip flashing
+	-- User option: Third axis (toggle on/off)
+	-- User right clicks on rectangle, choices "resize", small black square appears, and user can click and drag small square to resize rectangle
+	-- Look up the defination of "sensemaking" in Nguyen Phong's thesis "Visualization og analystic provenance for sensemaking"
+	    	

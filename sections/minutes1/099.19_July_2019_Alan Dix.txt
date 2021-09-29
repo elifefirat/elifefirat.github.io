@@ -1,0 +1,44 @@
+Minutes of Meeting: Bob, Elif, Dylan, Alan Dix
+------------------------------------------------------------------------------
+Date:       10.07.2019
+Start time: 11.30
+End time:   13.00
+
+Date and time of next meeting: 24 July 2019 + Visible Lunch
+
+
+Topics Discussed: 
+	-- Bob away 29 July-7 Aug, 26-31 Aug
+	-- Paper feedback
+	-- Garsth station, Engineering
+	-- Parametric tests assume a known distribution
+	-- Analysis of text
+	-- Thematic analysis of text- Clustering process- Write up talks through themes
+	-- Talks through themes
+	-- AVI 2020
+
+
+
+Progress:
+	-- Bob reviews treemap paper draft
+	-- Sent Alena link to paper and questions
+	-- Print out of	questions for Bob to review
+	-- Started to work on 3rd dimension
+	-- New menu
+
+
+
+TODO:
+	-- Next draft of treemap paper- Include all the bar charts Bob has asked you to create so far with a descriptive caption
+	-- Have a look Liam's user study paper write hypothesis
+	-- Add EduClust and PCoords to related work section
+	-- Have a look at computer & education paper - Especially where Bob took notes
+	-- User clickes on points in third axis directly, slides them up and down to change size
+	-- Rename axes: X, Y, S
+	-- Remove "delete" from "menu"
+	-- Clean all --> Clear all
+	-- Add absract and classroom experimental procedure section to paper
+	-- Add "Alan" to minutes of meeting filename
+	-- Find out of CHI accepts supplementary videos and what the allowed length of time (and maximum file size)
+	   
+	    	

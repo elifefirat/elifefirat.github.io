@@ -1,0 +1,37 @@
+Minutes of Meeting: Bob, Dylan, Elif
+----------------------------------------------
+Date:      8 May 2018
+Start time: 15:30
+End time:   16:30
+
+Date and time of next meeting: 15 May 2018 14:15
+
+
+Topics Discussed: 
+	-- Aim for a new draft each week
+	-- Evaluation
+	
+         
+
+
+Progress:
+	-- Bob reviews survey paper
+	-- Next draft of psuedo-code
+	-- Next version of psuedo-code
+	-- Next paper summary
+	-- Year incorparated into treemap
+
+
+
+TODO:
+
+	-- Next draft of survey paper
+	-- Next version of psuedo-code
+	-- Search for "Educlust-A Visual Education Platform for Teaching Clustering Algortihms"
+	-- Search for "VisMooc: Visualize video clickstream data from massive open online courses"
+	-- Search for "Visual Analysis of Mooc forums with iForum"
+	-- Search for "Exploring online learners' interactive dynamcis by visually analyze their time-achored comments"
+	-- List years in chronological order in menu
+	-- Disable year choices for those diseases with missing year data
+	-- Fix bug with mouse over
+	-- User Option: Show table of disease, state, year, cases

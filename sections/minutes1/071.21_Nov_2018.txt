@@ -1,0 +1,45 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       21 Nov 2018
+Start time: 11.00
+End time:   12.45
+
+Date and time of next meeting: 28 Nov 11.00, Visible Lunches
+
+
+Topics Discussed: 
+	-- Lots of reading
+	-- "International Experiences in Developing..", Engineering, Classroom, Teacher
+	-- "Educational Software for Teaching.. ", Engineering, Case Study, Student+Teacher
+	-- "The Development and Assesment of a Course..", Engineering, Classroom, Teacher
+	-- "A Design Challenge", Not Included
+	-- "3D solid modelling Inclusion", Not Included
+	-- "Visual representation in science Education..", Perception, Litrature-based
+	-- "Flexible sketches.." Not Included
+
+
+Progress:
+	-- Visible Lunch-Perception and Cognition 2 (InfoVis)
+	-- Next draft of survey
+	-- Bob reviews first 3 pages of survey
+	-- Assesment of A1 with Treemap questions
+	-- Flickering
+
+
+TODO:
+	-- Update engineering section of survey
+	-- Make some visual representations of Treemap assesment result (A1)
+           e.g Bar Chart showing correct and incorrect for each question
+	-- Find out how many student did not create Treemap
+	-- Dylan help Elif find clikering bug
+	-- Look at Dylan and Lima have implemented their on-mouse-over function
+	-- Make sure that your on-mouse-over function does not call re-render
+           Look for render <--> on-mouse-over infinite loop
+	-- Modify program so that it does no redraw when nothing happening (user input)
+	-- Fix bug with on-mouse-over Treemap after cliking a region and then hovering on Treemap
+	-- Review Bob's coding conventions- Update code to follow rules
+	-- Line up redundant lines of code
+
+
+	
+	

@@ -1,0 +1,36 @@
+Minutes of Meeting: Bob, Dylan, Elif
+----------------------------------------------
+Date:      24 April 2018
+Start time: 14:15
+End time:   16:40
+
+Date and time of next meeting: 1 May 2018 14:15
+
+
+Topics Discussed: 
+	-- Last Lab for Data Vis Module
+	-- Patti Raj and Swigg
+
+	
+         
+
+
+Progress:
+	-- Next draft of survey
+	-- Next paper summary
+	-- On mouse over
+	-- Color scale
+	-- Step function
+
+
+
+TODO:
+	-- Add introduction section to survey
+	-- Introduce sections into survey: Engineering, Active Learning & Creativity, Algorithm Cognition,
+				           Perception, Teaching Visualization, Novel Education
+	-- Order sections by average age-order papers chronocially within each sub-section
+	-- Add an overview table of papers
+	-- Next paper summary
+	-- Try to verify correctness of treemap-check Wisconsin-Measles
+	-- Indicate year on mouse over
+	-- Move forward with Swigg 

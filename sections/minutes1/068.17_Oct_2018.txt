@@ -1,0 +1,49 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       17 Oct 2018
+Start time: 11.00
+End time:   12.45
+
+Date and time of next meeting: 31 Oct 11.00 
+
+
+Topics Discussed: 
+	-- Women in Technology Event 16 Oct '18
+	-- Next draft of treemap questions
+	-- "Information-Processing Analysis of Graph Perception": Litarcy, Controlled Study, Teachers
+	-- "Next kinds of Literacy...": Litarcy, Litrature based, Teachers
+	-- "Extracting Explicit and Implict Information...": Litracy, Controlled Study, Teachers
+	-- "Graphical Perception Theory Experimentation...": Litracy, Controlled Study, Teachers
+	-- "Toward a Comprehensive Model of Graph Comprehension...": Litracy, Litrature based, Teachers
+	-- "Choosing Specifiers...": Literacy, Litrature based, Teachers
+	
+	   
+
+Progress:
+	-- Bob reviews diversity chapter
+	-- Eurovis Sketch submitted (Reviewed by Bob)
+	-- Next draft of treemap questions
+	-- Grey borders
+	-- User option- User clicks on region on tree view and corresponding leaf
+	   nodes are updated dynamically
+
+
+TODO:
+	-- Try to get a trancript of women in science event for free or £20
+	-- Update diversity chapter- Notify Ronald of update
+	-- Next draft of treemap questions
+	-- Try to find definations of  "Perception" in infoVis books
+	-- Look for definations of visualization litarcy on research papers
+	-- Draft introduction of visualization litarcy section
+	-- New Y axis for table:
+           Top: Perception, Litarcy, Active Learning & Creativity
+	   Bottom: The rest by average age of publication
+	-- Show Bob next version of table - Print out
+	-- Do a "Cites this paper" Google search on the Chemistry paper to find newer papers
+	-- Correct Alaska - West, Alabama-Southeast, Lousiana- Southeast, Missouri- Southeast, Delaware- Northeast, 
+           District of Columbia- Northeast
+	-- User Option: User clicks on US in treeview and treemap is updated with region rectangles only (leave out states + year)
+	-- User Option: User clicks on US in treeview and treemap updates with region and state
+
+	
+	

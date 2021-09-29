@@ -1,0 +1,41 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       24 April 2019
+Start time: 11.00
+End time:   12.20
+
+Date and time of next meeting: 1 May 11.00
+
+
+Topics Discussed: 
+	-- Joss's class runs 11 weeks starting on 1 May
+	-- Survey Table Idea: Number of rest questions included in each test
+           
+
+Progress:
+	-- Screen capture software installed and tested-OBS
+	-- Next draft of post interview questions
+	-- Next draft of test questions and spreadsheet
+	-- Online questions are randomized.
+
+TODO:
+	-- Contact Sally Robb about class on to April 2019- Bob tested out
+           software in Haldane PC Lab 9 on 18 April and could not find Tableau
+           public application (was not working), ask how many student are enrolled
+	-- Record a demo video in case software does not work
+	-- Update consent form for all three parts
+	-- Q4 "If so, what is it?"
+	-- Print paper-based interview questions
+	-- Q5 add a likert scale (1-Very easy  5-Very difficult)
+	-- Q6: Add a likert scale
+	-- Add another qusetions- Do you recommend any improvments to the software
+	-- Try high resolution scan of any treemap that are very blury
+	-- For printed version of test: Description at top, then image, then 2 questions per page
+	-- Have a look at David Chung's paper with user study
+	-- Ask someone to take the test
+	-- Next draft of Vlat description (Section 3.2)
+	-- Include a sample image for each survey paper
+	-- For survey- Use a template: Title, Defination, Concept, Evaluation, Related Work List
+	-- Next draft of Delmas et al.
+	-- Collect Vis Literacy papers in an online folder
+	    	

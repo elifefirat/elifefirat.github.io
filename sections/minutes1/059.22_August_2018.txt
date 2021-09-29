@@ -1,0 +1,35 @@
+Minutes of Meeting: Bob, Elif,  Dylan
+------------------------------------------------------------------------------
+Date:       15 Aug 2018
+Start time: 11.00
+End time:   12.45
+
+Date and time of next meeting: Visible Lunches, 29 Aug 11.00 
+
+
+Topics Discussed: 
+	-- 4 boxes for student
+	-- Makz- shirt printing company
+	-- Improving Bayesian Reasoning-Does not clearly meet scope
+	-- Swansea Uni School of Education (SUSE)
+
+Progress:
+	-- Visible lunch talk
+	-- Sample name badges arrived
+	-- Polo shirt payment done
+	-- First tree view of data
+	-- Disease choice drop-down menu
+	-- Registered for CGVC-18
+	-- Registered for "Women in the tech sector" meeting
+
+
+TODO:
+	-- Prepare tutorial talk
+	-- Ask Hayley for a copy of award template
+	-- Let Bob know when polo shirts are ready
+	-- Next paper summary + next paper version of classification table
+	-- Change tree hierarcy to squares
+	-- Add on-mouse-over to tree view with highlight around tree node
+	-- Put radio buttons on a single coloumn
+	-- Place drop-down menu at the top of screen
+	-- Ask Hayley for data vis exams CSC337+CSCM37 from 2016-1017

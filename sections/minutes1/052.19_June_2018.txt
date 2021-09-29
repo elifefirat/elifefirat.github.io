@@ -1,0 +1,37 @@
+Minutes of Meeting: Bob, Dylan, Elif
+----------------------------------------------
+Date:       19 June 2018
+Start time: 16.00
+End time:   17.15
+
+Date and time of next meeting: 26 June 2018 14.15, Visible Lunch 21 June 13.00
+
+
+Topics Discussed: 
+	-- Gender differences in geographical knowledge
+
+
+	
+        
+
+Progress:
+	-- Bob reviews diversity chapther draft
+	-- Next draft of diversity chapther
+	-- Next paper summary
+	-- Continues work on implementation and refactorization
+
+
+TODO:
+
+	-- Next draft of diversity chapther
+	-- Write an introduction to chapther
+	-- " The study of spatial cognition and perception with respect to gender has a long
+             history  dating back to.... "
+	-- Expand description of page 125 " Boy brains develop differently" as indicated on printout
+	-- For intro- 1 sentence summary of each relevant (book) references- Combine gender + space
+          " In 1987, Beatty and Truster performed a survey of 1800 undergraduate students indicating
+            that males could locate targets on a US map more accurately than females."
+	-- Next survey paper summary
+	-- Next Treemap implementation
+	-- Inlcude " Can you improve our spatial skill"
+	-- Purchase order for Swigg: (34 X £12) -100 = £308 + 4 bottle of white wine + 4 bottle of red wine

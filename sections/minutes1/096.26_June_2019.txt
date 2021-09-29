@@ -1,0 +1,42 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       26.06.2019
+Start time: 12.00
+End time:   12.35
+
+Date and time of next meeting: 3 July 2019 
+
+
+Topics Discussed: 
+	-- PacificVis 2019, CHI 2019, September Deadline
+	-- Using data for PCoords software
+
+
+
+Progress:
+	-- Shaerd user-study data with Alena
+	-- Bar chart average score pretest + posttest slides vs software
+	-- Average time slide vs software groups bar
+	-- Bar chart of posttest questions on two groups
+	-- Tooltips show cartesian and PCoord values
+	-- Summary of interview
+
+
+
+TODO:
+	-- Think about submitting diversity paper to CGVC
+	-- Figures 5,6,7 could go in an appendix
+	-- Suggest Wed, 3 July 2019 @11.40 Skype with Alena
+	-- Share bar charts with Alena
+	-- Create bar chart for pretest questions: Each questions on x-axis,
+           slides vs software % correct on y axis
+	-- Two more bar charts -Q# vs % correct for pretest and posttest
+	-- Idendtify the 10 lowest and highest scoring questions and treemaps
+	-- User can click and drag a point on Cartesian plot and PCoords plot
+           updates accordingly
+	-- Include " Comparative evaluation on online learning approach.." to survey
+	-- Bob review next survey paper
+
+
+	   
+	    	

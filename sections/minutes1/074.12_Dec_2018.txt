@@ -1,0 +1,38 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       12 Dec 2018
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 19 Dec 11.00, Visible Lunches
+
+
+Topics Discussed: 
+	-- Ilness
+	-- Hypothesus: Explicit hierarcy borders effect Treemap literacy
+
+
+Progress:
+	-- Next draft of survey
+	-- Next paper summary
+	-- Bob assesses five A1s from last year's vis class
+
+
+TODO:
+	-- Ask Bob about papers you are not sure about if they
+           should be included in the Table 1.
+	-- Add next table: y-axis is individual papers grouped by topic just like Table 1
+           x-axis  is category of pbliciation venue: Educational, Visualization, HCI, Psychology,
+           Chemistry, Medicine, Computer Science, Engineering, Other
+	-- Bob review next draft of survey
+	-- Next draft of survey
+	-- Modify Question 2 on Treemap evaluation form
+	-- Re-assess A1 Courseworks- And bring the difficult ones to meetings
+	-- Decrease distance between cursor/ mouse pointer and treemap target rectangle
+	-- Clicking on region tree nodes shows child nodes- 2nd click makes them disapear again
+	-- Clicking on state tree nodes shows child nodes- 2nd click makes them disapear again
+	-- Map color to current tree hiearcy selection in order to incorparate more colors
+	-- Correct the labels (min/max) on  color legend to be visible
+	-- Update color map min and max when the user clicks on region or state
+	
+	

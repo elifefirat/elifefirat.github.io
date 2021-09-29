@@ -1,0 +1,50 @@
+Minutes of Meeting: Bob, Elif, Dylan, Alena
+------------------------------------------------------------------------------
+Date:       10.07.2019
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 18 July 2019 + Visible Lunch
+
+
+Topics Discussed: 
+	-- Q36, post-test- Russia or Japan- Two correct answers
+	-- Post-test question removals- 3
+	-- Thematic Analysis
+	-- Student experience as an outcome
+	-- Discovering statistics in SPSS Andy Field
+	-- Computers & Education
+	-- CHI- Sept 13, 2020
+	-- Eurographics education papers
+
+
+
+Progress:
+	-- Alena basic data analysis
+	-- Post-test results better than pre-test
+	-- Next draft of treemap paper
+	-- Skype call with Alena
+	-- Next survey paper summary
+	-- Add future work section to survey papers
+	-- Loading and saving data files
+
+
+
+TODO:
+	-- Send Alena a draft of of treemap papers
+	-- Send Alena questions that were removed
+	-- Bob and Elif double check classification of treemap questions
+	-- Send Alena version of bar chart that sorts questions based on score
+	-- Print out each treemao+questions so Bob can double-check question classification
+	-- After cross checking question classification-Send the classification to Alena
+	-- Gather papers than perform similar studies into online folder-EduClust and PCoords papers
+	-- Bar chart- questionson x axis - y axis incorrect answer and number of rectangles on treemap
+	-- Try CHI template
+	-- Share overleaf template document with Alena
+	-- Check EduClust paper and PCoords user study papers for related user studies
+	-- Replace loading and saving with menu: "Save" and "Load"
+	-- Try making your file format compatible with Alfred Inselberg's so you read his files
+	-- Add a third dimension to software
+
+	   
+	    	

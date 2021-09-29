@@ -1,0 +1,33 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       01 May 2019
+Start time: 11.00
+End time:   12.20
+
+Date and time of next meeting: 15 May 11.00
+
+
+Topics Discussed: 
+	-- Dylan's surprise
+           
+
+Progress:
+	-- First Treemap test A1 PGR Skilss training, 30 Apr 2019
+	-- Demo video prepared
+	-- Updated content form and post-interview questions
+	-- Next draft of VLAT paper and surve paper summary
+
+TODO:
+	-- Invite Alena to Skype on 15 May 11.45 - Summarize what we have done so far
+	-- Give copy of demo video to Bob
+	-- Give copy of screen capture recording to Bob
+	-- Give Bob copy of post-interview questions with answer
+	-- Create chart of result (as described reverse)
+	-- Lower number of test questions to 30 (pre condition and post condition)
+	-- Start implementation of parallel coordinates: Left-side cartesian coordinate,
+           right suide is parallel coordinates
+        -- User clicks on cartesian coord, equivalent parallel coordinates program with
+           screen capture - Try out different (each) data sets
+	-- Next draft of sections 3.1. Hypothesis, 3.2. VLAT, 3.3.Treemap distinctions, 4.1 Software features
+	   
+	    	

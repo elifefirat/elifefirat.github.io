@@ -1,0 +1,37 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       13 May 2019
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 22 May 11.00
+
+
+Topics Discussed: 
+	-- Skype call with Alena 22 May
+	-- Project fair
+           
+
+Progress:
+	-- Next survey summary- VLAT
+	-- Demo of video of first treemaps class for Bob
+	-- Demo video of Alfred Inderberg's PCoord software
+	-- First version of Cartesian + PCoords plot
+	-- User option: Clear all
+
+TODO:
+	-- Next survey paper summary on VLAT
+	-- Update your treemap master list of questions with question ID number
+	-- Update user study spreadsheet to show questions ID's of each questions that students answered
+	-- Add axis labels to PCoords plot
+	-- Add min/max values to axes on both plots
+	-- Try to use anti-aliasing on PCoords plot
+	-- Update Cartesian+PCoords immediately after mouse click
+	-- Add color corresponding between Cartesian+PCoords
+	-- Create demo video of user interaction on PCoords demo program
+	-- Look for description of software and upload to web server(user-manual)
+	-- Ask Joss of you can use 1 lecture hour
+	-- Write section 3.4 of paper
+
+	   
+	    	

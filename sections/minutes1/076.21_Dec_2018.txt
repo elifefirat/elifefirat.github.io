@@ -1,0 +1,34 @@
+Minutes of Meeting: Bob, Elif
+------------------------------------------------------------------------------
+Date:       21 Dec 2018
+Start time: 11.00
+End time:   12.00
+
+Date and time of next meeting: Via Skype 9 Jan 11.00, Visible Lunches
+
+
+Topics Discussed: 
+	-- Meetings
+	-- Do not worry about measles year
+	-- Purple red blue color map is good
+	-- Turmeric Latte
+	-- Bad comparisons
+	-- Bob away 24 Dec - 4 Jan
+
+Progress:
+	-- Double-click correction
+
+
+TODO:
+	-- Observe Dylan's meetings on fridays
+	-- Get on-mouse-over re-working at region level
+	-- See if you can speed up when click on US
+	-- Replace black border associated with on mouse over with a bigger
+           rectangles for both treemap and tree view	
+	-- Make edges dark blue in tree view
+	-- Google "Computational Aesthetics and Color"
+	-- Add on-mouse-over window to the corresponding treemap rectangle
+	-- Look into on-mouse-over bug with measles and year combination
+	-- Update treemap and tree view when changing disease
+	-- Look into on-mouse-over bug with mumps and year combination
+	-- Bob- Write email filter

@@ -1,0 +1,36 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       12.06.2019
+Start time: 12.00
+End time:   12.50
+
+Date and time of next meeting: 26 June 2019 
+
+
+Topics Discussed: 
+	-- Waldir Miron Berbel Filho, CoS DTC Conference Talk Winner
+	-- Samuel Holmes, Karol Szuba-Sablonski, Carlo Sarli,
+           CoS DTC Conference Poster Winners
+
+
+
+Progress:
+	-- 2nd user-study with 25 participants
+	-- Next draft of treemap literacy paper
+	-- Talk at CoS DTC Conference
+	-- Show color legend
+	-- Fix tooltip bug
+	-- User option: Edge deletion
+
+
+
+TODO:
+	-- Share user-study data with Alena- Ask her how we shoul analyze it
+	-- Generate bar charts on reverse sides
+	-- Compile interview feedback-Summarize interview data in the form of a report
+	-- Bob review Treemap Literacy paper draft
+	-- Show Cartesian coordinates in tooltips
+	-- Show PCoords on tooltip on PCoord plot
+
+	   
+	    	

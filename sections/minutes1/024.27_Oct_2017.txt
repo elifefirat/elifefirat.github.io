@@ -1,0 +1,31 @@
+Minutes of Meeting: Bob,  Liam, Chao, Elif
+----------------------------------------------
+Date:       27th October 2017
+Start time: 11:00
+End time:   13.00
+
+Date and time of next meeting: 
+
+Topics Discussed:
+        -- Book Transactions
+        -- Paper
+        -- Liam O'Reily
+ 
+
+
+Progress:		
+	-- Computer Set up
+	-- Qt Demo Programs running
+	-- Signed up to CS-research mailing list
+	-- Access to 4th Floor
+
+
+
+TODO:
+        -- Finish Reading Chapter 1 of Qt Book
+        -- Read Chapter on signals and slots
+        -- Add W3C Logo to web page (HTML Validator)
+        -- Read chapter 12 of Qt book on input and output
+        -- Write a program reads Tycho csv file amd print to console
+           Suggested Objects: Treemapifier, Filereader - for reading data
+        -- Watch Software Engineering Principles Lecture 01 - Bob will ask 4-5 questions

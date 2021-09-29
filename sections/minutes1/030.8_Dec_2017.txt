@@ -1,0 +1,29 @@
+Minutes of Meeting: Bob, Liam,Chao, Elif
+----------------------------------------------
+Date:       8th December 2017
+Start time: 11:00
+End time:   12.40
+
+Date and time of next meeting: 14th December
+
+
+Topics Discussed: 
+	-- Lecture on sub-systems 
+ 
+
+
+Progress:		
+	-- Next steps in Treemap Implementation
+	-- Watched Video on Protocols
+
+
+TODO:
+        --Break methods up that they follow coding conventions Rule #1
+	--User Options: Show states vs regions
+	--Add your favorite image to each paper summary
+	--Write a summary"The Explanatory Visualization Framework:An active learning framework 
+                          for teaching creative computing using explanatory visualizations"
+	--Look at vispubdata.org for related litrature
+	--Search for "Education" ,"Classroom", "Learning", "Understanding", "Interpretation"
+	--Read "Litrature Search Methodology" section of the SOS
+

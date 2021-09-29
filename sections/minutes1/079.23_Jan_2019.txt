@@ -1,0 +1,47 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       23 Jan 2018
+Start time: 11.00
+End time:   12.40
+
+Date and time of next meeting: 20 Feb 11.00, 24 Jan 14.15 Alena Skype, 24 Jan Visible Lunch
+
+
+Topics Discussed: 
+	-- PhD Viva
+	-- University of Greenwich
+	-- Treemaps for pre- and post tests
+	-- "3D Anatomy modesl and impacts..."- Anatomy, Lit Review, Teacher
+	-- "Graphical perception and graphical method.." -Experiment, Teacher
+	-- "An experiment in graphical perception.."- Perception, Experiment, Teacher
+	-- Idea: Graph perception vs literacy
+	-- "Flash forums" - Out of scope
+	-- "ForAVis..."-Out of scope- No education
+	-- "The effect of emergent.."- Perception, Lab study, Teacher
+	-- Elif away
+
+           
+
+Progress:
+	-- Next draft of survey
+	-- Table 6, age of participants
+	-- First draft of user features 
+	-- Demo video of treemap video
+
+
+
+TODO:
+	-- Bob review next draft of survey
+	-- Test out percision conference submisson system
+	-- Ask Dylan and Liam to proof-read next draft after Bob's revison
+	-- Get regions to highlight in treemap view
+	-- Preserve US/ Region treemap hierarchy when clicking on regions
+	-- Treemap view updates when user clicks on region
+           corresponding region shows states in treemap view
+	-- Assess A1 of data vis module
+	-- Send Bob a digital copy of treemap questions
+
+
+	
+
+	

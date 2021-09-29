@@ -1,0 +1,38 @@
+Minutes of Meeting: Bob, Richard, Elif
+----------------------------------------------
+Date:       9th November 2017
+Start time: 11:00
+End time:   12.00
+
+Date and time of next meeting:Visible Lunch today, 10th November 2017 11.00 with Liam,
+						   16th November 2017 11.00 - Elif
+
+
+Topics Discussed: 
+	-- Brushing video
+	-- Laptops-new
+	-- Literature survey ideas: Visualization and education, evaluation methods for health visualization 
+	-- "How to read a scientific research paper:  Extracting the essential next collage of science doctoral training community event
+           14 November 2017, 13.00-14.00
+ 
+
+
+Progress:		
+	-- Using bar chart and data tableview
+	-- Minutes uploaded to directory
+	-- Web page fix
+	-- New object called dataTuple
+
+
+
+TODO:
+        -- Upload screenshots of your progress to web server
+	-- Rich show Elif how to user github on desktop&laptop
+	-- Prepare for quiz on lecture 03-Responsibilities
+	-- Fix photo on web page-Remove "height" attribute of image
+	-- Read QT chapter on 2D Graphics
+	-- Draw first 5 Treemap rectangles representing 5 US territoies
+	-- Upload minutes from masters project to web server
+	-- Read paper "Sketching designs using the five design-sheet methodology" 
+	-- Write one paragraph summary
+	-- Also read "How to read visualization reserach paper" 

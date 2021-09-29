@@ -1,0 +1,39 @@
+Minutes of Meeting: Bob, Elif,  Dylan
+------------------------------------------------------------------------------
+Date:       5 Sept 2018
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: Visible Lunches, 12 Sept 11.00 
+
+
+Topics Discussed: 
+	--  IMAC Desk Arm
+
+Progress:
+	-- Shirts finally finished
+	-- Male and female distribution graph for data vis exam 2018
+	-- Meeting with Ronald
+	-- Summary of paper by Borner et al.	
+	-- Resit exams copied and sorted
+	-- A1  pruned for treemap and sorted
+	-- Gender of students identified
+	-- Meta-data added to on-mouse-over in tree view
+	-- Colormap choice added
+
+TODO:
+	-- Hold onto extra boxes for moving
+	-- Prepare name badges for CGVC (Thanks Liam)
+	-- Prepare a registration spreadsheet: Surname, first name, affiliaton(Thanks Liam)
+	-- Add Frank Vidal, Gary Tam, Martion Turner (Keynote Speaker), 
+           Capstone Speaker to registiration spreadsheet
+	-- Confirm 40 with Patti Raj
+	-- Next paper summary
+	-- Identify males vs females on 2018 test, A1s and resits
+	-- How many students included treemap in A1
+	-- Propose an assessment sheet for A1 Treemap
+	-- Distribution graph, male vs female for A1, A2 of data vis class 2018
+	-- Update color legend on canvas
+	-- Add thumbnail view to colormap in drop down menu
+	-- Add US region to treemap
+	

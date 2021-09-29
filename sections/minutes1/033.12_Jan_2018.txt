@@ -1,0 +1,31 @@
+Minutes of Meeting: Bob, Liam, Elif, Harry
+----------------------------------------------
+Date:       12 Jan 2018
+Start time: 11:00
+End time:   13.00
+
+Date and time of next meeting: 18 Jan 
+
+Topics Discussed: 
+	--Liam's topic
+	--Bob is away 15-16 Jan 18 Leeds University
+
+
+
+Progress:
+	--On-Mouse Over
+	--Next paper summary
+	--Talked to Ulrich-£500/year travel budget
+	--Disease vs year chart
+
+
+
+TODO:
+	--Add a color map from ColorBrewer
+	--Add bullet point to all survey paper summaries in the evaluation section
+	--Next paper summeary
+	--Time in bar chart from left to right
+	--Ask Mosaic if they could provide a vegan conference dinner for up to 50 people
+	  How many people can they accomadate?
+	  What do they charge?
+

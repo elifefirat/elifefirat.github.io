@@ -1,0 +1,56 @@
+Minutes of Meeting: Bob, Dylan, Elif
+----------------------------------------------
+Date:       25 Jan 2018
+Start time: 11:00
+End time:   13.15
+
+Date and time of next meeting: 8 Feb Dylan-Elif, 9 Jan Liam-Elif
+
+Topics Discussed: 
+	-- Bob Gregynog 1-2 Feb 18
+	-- UKSPA
+	-- Gregynog 18
+	-- Elif found Patti Raj Restaurant
+	-- "Visualization for the physical sciences" By Dan Lipsa et al
+	-- "Survey of Surveys" By Liam Mcnabb and Robert Laramee
+	-- Ed Swires Hannasy
+	-- Harold Thimbleby
+	-- CSVC 2018 Sponsorship
+
+
+
+Progress:
+	-- New monitor
+	-- First version of step function
+
+
+
+TODO:
+	-- Talk to technicians to see if the machine can be upgraded with a new graphics card
+	-- Choose a disease 
+	-- Fix skipping Step Function
+	-- On mouse over should still work
+	-- Draw rectangles in treemap order
+	-- Add padding between states
+	-- Double check that font is consistent
+	-- Summarize "Visualization of Geometric Algorthims on an Electronic Classroom"
+	-- Find next paper to summarize
+	-- Write "Search methodology" section for survey literature
+	-- Google "Visualization for education survey"
+
+        *** *** *** *** ***
+
+	Layout Regions()
+ 	 {
+  	 For Each Region
+	     Layout Region(Current Region)
+   	 End For
+  	 }
+
+
+	LayoutStates(Region)
+ 	 {
+	    For Each State
+		Layout State()
+	    End For Each State
+         }

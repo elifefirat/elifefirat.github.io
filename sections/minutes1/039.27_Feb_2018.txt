@@ -1,0 +1,43 @@
+Minutes of Meeting: Bob, Dylan, Elif
+----------------------------------------------
+Date:       27 Feb 2018
+Start time: 14:15
+End time:   16:30
+
+Date and time of next meeting: 6 March Elif 14.15, 2 March Liam-Elif 11.00
+
+Topics Discussed: 
+	-- Cold Weather
+	-- Pseudo Code
+	-- Idea: Classify by evaluation type/strategy
+	-- Idea: Classify by number of subject involved in evaluation
+	-- Idea: Classify based on topic
+	-- Idea: Based on task 1 goal
+	
+         
+
+
+Progress:
+	-- Time split up into year and week
+	-- Next survey paper summary
+	-- First version of pseudo-code
+
+
+
+
+TODO:
+	-- Try to write pseudo-code in Latex
+	-- Look at the pseudo code section of "How to write a vis paper"
+	-- Add Treemapifier:: Main and Initilize() to pseudo-code
+	-- Save state, disease, count data tuples to a csv file
+	-- Add all paper summaries to a single pdf file and upload latest
+           version to cs server so that Bob can review it
+	-- Start using a latex template for paper summaries
+	-- Provide our own caption for images
+	-- Look for related papers in related work section of booc.io
+	-- Summarize VisPro paper
+	-- Try for tshirt quotes
+
+       
+
+	

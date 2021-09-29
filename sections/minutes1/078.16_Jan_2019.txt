@@ -1,0 +1,55 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       16 Jan 2018
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 23 Jan 11.00, 17 Jan 14.00 Alena Skype, 18 Jan Visible Lunch
+
+
+Topics Discussed: 
+	-- Bob away 21-22 Jan in London for viva
+	-- Bob away 29-30 Jan for Gregtnog
+	-- Table 1, 2, 3, 4
+	-- Idea: Adding a table of future work
+           1) Look at future work of each paper
+           2) Raise the level of abstraction, make it more general,
+              look and identify themes
+	   3) Group papers by future work themes, topics, subjects
+	-- Idea: Table indicating age/educational level of participants
+	-- The impact of concept mapping..." Brant et al. 
+           Future work- Further investigation of experimental and environmental
+           variables of experimental results
+	-- Carpenter and Shah 1998- None
+	-- "Educational software for teaching..." by Company et al. 2004
+            1) Adding more features to their experimental software
+            2) Testing new hardware
+	-- "Algorithm animation over web" -out of scope
+	-- "New forms of interaction.. " -out of scope
+	-- "Building a theory of graphicacy..." -Graph Literacy, Classroom, Teacher
+	-- "Assessing the benefits of interactive" -Algorithm cognition, Classroom, Teacher
+	-- "Empirical studies in information vis.." -Out of scope
+	-- "Visualization the past.." -History, Maps, Case Study
+	-- Create a new category called "Other" also place geology paper in "Other"
+
+           
+
+Progress:
+	-- Bob reviews next draft of survey
+	-- US and region rectangles increase in size when using on mouse over
+	-- On-mouse-over works on regions
+	-- Edges in treeview are light blue
+
+
+
+TODO:
+	-- Next draft of survey- Update the tables - Introduce a new table (age of participants or future work)
+	-- Start writing a list of software features: Tree view features, treemaps user options
+	-- Increase thickness of edges in tree view
+	-- Make sure disease drop down menu is working- Remove other disease UI options
+	-- Turn region into another drop-down menu next to disease- Same with color map choice
+
+
+	
+
+	

@@ -1,0 +1,29 @@
+Minutes of Meeting: Bob, Liam, Elif, Chao
+----------------------------------------------
+Date:       12 Jan 2018
+Start time: 11:00
+End time:   13.00
+
+Date and time of next meeting: 25 Jan Dylan-Elif, 26 Jan Liam-Elif
+
+Topics Discussed: 
+	--Liam's topic
+
+
+
+
+Progress:
+	--Color map added to treemap
+	--Next paper summary
+
+
+
+
+TODO:
+	--Update region order:West, Southwest, Midwest, Southeast,Northeast
+	--User Option:Step Function
+	--User Option:Finish Layout
+	--User Option:Reset
+	--Add an image to each paper summary- choose your favorite one fromeach paper, for survey
+	--Bring next paper candidate for approval
+	--Visit Indian restaruant about CGVC 2018 (Patti Raj)

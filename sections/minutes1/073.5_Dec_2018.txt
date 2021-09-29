@@ -1,0 +1,36 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       5 Dec 2018
+Start time: 11.30
+End time:   12.40
+
+Date and time of next meeting: 12 Dec 11.00, Visible Lunches
+
+
+Topics Discussed: 
+	-- Elif was sick 3-5 Dec
+
+
+Progress:
+	-- Next draft of survey
+	-- Next draft of survey questions
+	-- Triangeles added to tree view
+	-- Treemap view consistent with treemap view 
+           at country, region and state level
+	-- Save National geographical region file for future reference
+
+
+TODO:
+	-- Next draft of survey - include all of Bob's comments
+	-- Print out 5 copies of assessment sheet with horizontal lines
+	-- Get mouse click event working
+	-- Highlight borders of current treemap rectangle and treeview square
+	   even when stops moving
+	-- Show year rectangles in treemap 
+	-- Explore some more engaging color options
+	-- Update regions according to national geographic map
+	-- Check last year's assignments 1 for good treemap examples
+	-- Write to Vlat authors asking for digital Treemap
+	   image and complete list of treemap questions(cc:Bob)
+	
+	

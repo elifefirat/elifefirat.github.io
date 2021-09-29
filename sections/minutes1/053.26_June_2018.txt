@@ -1,0 +1,35 @@
+Minutes of Meeting: Bob, Dylan, Elif
+----------------------------------------------
+Date:       26 June 2018
+Start time: 14.15
+End time:   16.15
+
+Date and time of next meeting: 4 July 2018 11.00, Visible Lunch 27 June 13.00, CoS PGR Conference 28 June
+
+
+Topics Discussed: 
+	--
+
+	        
+
+Progress:
+	-- Bob writes forward for diversity book
+	-- Draft of introduction of diversity chapter
+	-- Bob reviews diversity book chapter
+	-- Hepatitis for 45 years
+
+
+TODO:
+
+	-- Places all 3 parts in 1 book chapter
+	-- Next paper summary for survey
+	-- Add a subscript to each paper-T- for teacher -S- for student in the classification table
+	-- Next version of classification table with new papers and subscript
+	-- Show Bob printout of other "education" paper from Eurovis'18 
+	-- Purchase order for Swigg
+	-- Add processing update to console for constructing Treemap- Printout disease + years
+	-- Try to get on-mouse-over to work with all years- A little bit faster
+	-- Draw highlight arount rectangles with on-mouse-over
+	-- Bob review book chapter
+	-- Search information visualization journal for "Education"
+	-- Reserve a second room in Faraday for CGVC for 13-14 Sept

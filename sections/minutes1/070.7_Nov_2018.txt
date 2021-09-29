@@ -1,0 +1,57 @@
+Minutes of Meeting: Bob, Elif
+------------------------------------------------------------------------------
+Date:       7 Nov 2018
+Start time: 11.00
+End time:   12.35
+
+Date and time of next meeting: 21 Nov 11.00 
+
+
+Topics Discussed: 
+	-- Bob away next week at Dagstuhl Seminar
+	-- Reviews for survey
+	-- "Effectivness of 3D Digital.." Anatomy and Medicine, Classroom, Teacher
+	-- "Enhancement of mental rotation.." Anatomy and Medicine, Classrom, Teacher
+	-- "Miracle", "Opensim" are not related
+	-- "Relationships between spatial abilities.." Anatomy and Medicine, Classroom, Teacher
+
+Progress:
+	-- EuroVis Sketch reviews
+	-- Search for anatomy and medicine papers
+	-- Started assessing assignment 1 using treemap questions
+	-- Min+Max added to color legend
+	-- Year leaf nodes added to tree view
+	-- Add on-mouse-over to US square
+
+TODO:
+	-- Choose paper session for Visible Lunch
+	-- Next draft of complete survey by Friday-Print out for Bob
+	-- Re-organize section of text according to latest table
+	-- An introduction for each section
+	-- Individual paper summaries are re-organized: Concept, Evaluation and Related Work
+	-- Refer to SoS section 1.3 for description of axes and re-organize introduction to match the SoS order
+	-- Update to EuroVis'19 template
+	-- Search for more engineering papers
+	-- Add and cite "JDoc: A Serious game for medical learning" to out of scope section. We do not include 
+           literature with a focus on games aka edutainment.
+	-- Start looking for examples- Save images on an online folder.
+	-- Continue assessing Assignment 1 with treemap questions
+	-- Look at assignment 1 template and treemap example provided by Bob
+	-- Try to fix flickering (Ask Dylan, Liam and Google)
+	-- User option: Increase size of tree nodes goinf up the hiearchy
+	-- Highlight corresponding tree view nodes during one-mouse-over of treemap (for all levels)
+
+
+   --------------------------------------------------------------------------------------------------------------     
+    
+
+                    US                                --- Root Node
+
+          Region1      		   Region 2           --- Internal Nodes
+
+      State1 State2  		State4 State5         --- Internal Nodes
+
+Year1 Year2  Year3 Year4   Year5 Year6  Year7 Year8   --- Leaf Nodes
+
+	
+	

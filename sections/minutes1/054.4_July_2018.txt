@@ -1,0 +1,36 @@
+Minutes of Meeting: Bob, Dylan, Elif
+----------------------------------------------
+Date:       4 July 2018
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 11 July 11.00, Visible Lunch 5 July 13.00
+
+
+Topics Discussed: 
+	-- Factfulness: By Hans Rosling
+
+	        
+
+Progress:
+	-- Cos PGR Conferences Success
+	-- Best Poster Prize
+	-- Room B-C of Faraday Tower booked for CGVC'18 Confernce
+	-- Next version of treemap
+
+TODO:
+
+	-- Try an invoice for Patti Raj
+	-- Bob read next draft of diversity book chapter
+	-- Next survey paper summary
+	-- Write a paragraph that explains the Ts and Ss
+	-- Summarize section 4.7 of Grissom et al in challenges sub-section
+	-- Add Baver et al to survey muscle activity-case study
+	-- Add Bernard et al to survey on machine learning to "out of scope" section
+	-- Add Rohrdantz et al on vast challenge to related work 1-2 sentences-Same
+           Esponda-Arguerd on algorithmic animation
+	-- Use grey borders
+	-- Add labels to color legend: Min+max
+	-- Try out Richard Roberts color map tool
+	-- Add next disease to treemap
+	-- Get quote for 40 Polo shirts: 5S, 20M, 10L, 5XL

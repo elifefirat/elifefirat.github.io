@@ -1,0 +1,28 @@
+Minutes of Meeting: Bob, Elif
+----------------------------------------------
+Date:       15 December 2017
+Start time: 11:00
+End time:   12.10
+
+Date and time of next meeting: 11 Jan 18
+
+
+Topics Discussed: 
+
+	-- 13,14,20 OUT
+	-- 15,16(if we can see the visul design),17,18,19,21 IN
+	-- Bob is away 19 Dec 17
+ 
+
+
+Progress:		
+	-- Next paper summary
+	-- User option: state vs region
+
+
+TODO:
+	-- User option: On-mouse-over: Show state name, state abbreviation,number of cases,disease
+	-- Bar Chart of disease name vs year data collected, see Fig 13 of SOS
+	-- Summarize "Understanding Visualization Through Spatial Ability Differences"
+	-- Chech "vispubdata" dataset
+

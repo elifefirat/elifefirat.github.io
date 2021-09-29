@@ -1,0 +1,37 @@
+Minutes of Meeting: Bob, Dylan, Elif
+----------------------------------------------
+Date:       12 June 2018
+Start time: 14.15
+End time:   16.00
+
+Date and time of next meeting: 19 June 2018 14.15, Visible Lunch 14 June 13.00
+
+
+Topics Discussed: 
+	-- EuroVis 2018
+	-- "Human Spatial Abilities: Sources of Sex Differnces"
+
+
+	
+        
+
+Progress:
+	-- Survey proof-read, Dylan, Liam, Rich, and Bob
+	-- Next paper summary
+	-- Draft of poster for CoS Conference Event
+	-- Some implementation steps
+
+
+TODO:
+
+	-- Write 2-page summary of pages 118-131 of book " Why men dont listen women dont read map"
+	   with a special focus on page 125
+	-- Try to collect all references looking for papers on spatial ability
+	-- Swap order "Related work" and "Evaluation" sections for all future research paper summaries
+	-- Next paper summary-EuroVis
+	-- A spreatsheet for CoS PGR Conference (15 Talks, 18 Posters)
+	   1.List of talks
+	   2.List of posters
+           Coloumns: ID, Surname, Name, Department, Title
+	-- Let Swigg know about 34 delegates
+	-- Choose paper session for EuroVis 2018 Conference report at Visible Lunch

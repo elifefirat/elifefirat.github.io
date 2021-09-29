@@ -1,0 +1,44 @@
+Minutes of Meeting: Bob, Elif, Dylan, Alena
+------------------------------------------------------------------------------
+Date:       22 May 2019
+Start time: 11.00
+End time:   12.45
+
+Date and time of next meeting: 29 May 11.00, Visible Lunch
+
+
+Topics Discussed: 
+	-- Discussion with John Tucker and Farron Moller
+	-- Tuesday and Thursday Evenings ages 12-17
+	-- Slide vs Software
+	-- 3groups of people: Slides only, Demo only, Slides+Demo
+	-- How many participants? 30 people/group max, 15 people/group min
+	-- Incentives: Prize draw- Prizes to participants
+	-- Future work includes more participants
+	-- Amazon Mechanical Turk
+           
+
+Progress:
+	-- Anti-aliased Lines
+	-- Axis labels on PCoords plot, min/max values to both plots
+	-- Update to plotes immediately after clicking
+	-- Color correspondnece between Cartesian + PCoords
+	-- User option to delete point
+
+TODO:
+	-- Bob review treemap literacy paper
+	-- Ask Joss how many students are in his class
+	-- Try to reproduce color map of Alex Telea 8-16 colors (Orange)
+	-- Let the user know when they have the curser over a point- 
+           Tooltips with coords, emphasis/enlarge, highlight corresponding PCoords
+	-- Do not change the colors of points and edges when users delete a point
+	-- Ask Alena to review interview questions for treemap 
+	-- Show Alena the online test question for treemap test
+	-- Send Alena a copy of the raw test data-Spreadsheet of question classification
+	-- Add a group ID to post test- 'S' Slides only, 'D' Demo only, 'B' Both
+	-- Ask Joss of we can include user-study in course assessment
+	-- Ask Joss if we can test class on 29 May 2019
+           
+
+	   
+	    	

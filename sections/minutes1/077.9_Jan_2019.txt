@@ -1,0 +1,45 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       9 Jan 2018
+Start time: 11.00
+End time:   12.40
+
+Date and time of next meeting: 16 Jan 11.00
+
+
+Topics Discussed: 
+	-- Testing the usability- Do not include
+	-- Assessing the usefulness- Do not include
+	-- Investigating the role-Place in GIS folder
+	-- Cognitive and usability issues-Do not include
+	-- A self learning multimedia-Place in GIS folder
+	-- Collabrative spaces for GIS-Do not include
+	-- Using computer demonstrators-Do not include
+	-- Techniquies for algortim animation-Algortihms, Case study, Teacher
+	-- A student evaluation-Do not include
+	-- Combining program visualization--Do not include
+	-- Designing educationally effective- Algortihm, Classroom, Teacher
+	-- Information visualization in education-Teaching Vis, Literature Review
+	-- Vis of geometric algortihms-Algortihms, Case study, Student-Teacher
+	-- Facilitating human interaction-Do not include
+	-- Integrating algorithm visualization-Algortihms, Classroom, Teacher
+	
+ 
+
+Progress:
+	-- Dylan reviews Elif's survey (Thank you!)
+	-- Draft of Table 2-publication vd publication venue
+	-- Draft of Table 3-unit classroom, divided classroom
+	-- Draft of Table 4 and 5
+	-- Bigger rectangle with on-mouse-over
+
+
+TODO:
+	-- Scan in Dylan's survey review and give a copy
+	-- Revise Table 2 for education + specialization columns
+	-- Write a description of a Table 2, 3, 4, 5 on the text
+	-- Make sure region US rectangle increase in size on-mouse-over
+	-- Keep on-mouse-over on at region level on tree view
+	-- See ToDo list from 21 Dec 18 
+	-- Next draft of survey
+	

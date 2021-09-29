@@ -1,0 +1,40 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       29 May 11.00
+Start time: 11.00
+End time:   12.00
+
+Date and time of next meeting: 12 June 2019 
+
+
+Topics Discussed: 
+	-- Bob at EuroVis 2019 next week
+           
+
+Progress:
+	-- Bob reviews treemap paper
+	-- Bob places order for Amazon gift vouchers- 10062233 Ref
+	-- Points are highlighted when user position cursor over point
+	-- Tooltips user Cartesian coordinates
+	-- First version of P-Coords video
+
+TODO:
+	-- Next draft of treemap paper
+	-- Dylan: Drafts CoS DTC conference program
+	-- Book room 104 for 14 June 12:00 - Invite all 2nd year students to participate
+	-- Liaise with Julie to place order for Amazon gift vouchers
+	-- Talk to technichians about running software in lab
+	-- See if you can get version of software running in lab
+	-- User option: choice of color map (as a menu)
+	-- Tooltips over P-Coords
+	-- Indicate point in P-Coords plot when user hovers over or clicks
+	-- User right clicks on any point- Brings up menu-delete option
+	-- Add points to edges on P-Coords plot
+	-- Next version of P-Coords video with addition of the different data sets
+	-- Ask Alfred for instruction manual for software- cc:Bob
+	-- Modify interview questions according to Alena's feedback	
+	-- Ask for demographics data
+	-- Change "Skip" to "I am not sure"
+
+	   
+	    	

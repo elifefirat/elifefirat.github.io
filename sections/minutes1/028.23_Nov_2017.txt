@@ -1,0 +1,30 @@
+Minutes of Meeting: Bob, Richard, Elif, Dylan
+----------------------------------------------
+Date:       23th November 2017
+Start time: 11:00
+End time:   12.50
+
+Date and time of next meeting:Visible Lunch today, 30th November 2017 11.00 Dylan-Elif
+
+
+Topics Discussed: 
+	-- Online reserach for servey
+	-- NVIDIA Graphics Card Grant Request
+	-- NVIDIA Graduate Fellowships
+	-- cs.swan.ac.uk/book/
+ 
+
+
+Progress:		
+	-- Project on Github
+	-- 1 bar per rectangle
+	-- 50 Rectangles
+	-- Education papers collected
+
+
+TODO:
+        -- Labels for states as a user option
+	-- Print out all paper summaries and bring to meeting for Bob to correct
+	-- Summarize VisTrails Education Paper
+        -- Watch lecture on "Subsystems: Lecture 06"
+

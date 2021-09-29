@@ -1,0 +1,40 @@
+Minutes of Meeting: Bob, Dylan, Elif
+----------------------------------------------
+Date:      20 March 2018
+Start time: 14:15
+End time:   16:00
+
+Date and time of next meeting: 22 March Visible Lunch , 23 March Dylan, 26 March Elif 
+
+
+Topics Discussed: 
+	-- UVA
+	-- T-shirts
+	-- Teamzsportwear 01792655281 Steven Gough
+	-- 28 June CS Conference
+
+	
+         
+
+
+Progress:
+	-- Switched to LaTeX
+	-- Next version of software
+	-- Next version of pseudo-code
+	-- Next paper summary
+
+
+
+
+TODO:
+	-- Place each research paper that you have summarized in a folder called "read"
+	-- Place Treemappifier::Main() and Treemappifier::Initilize() in their own methods (similar to whiteboard)
+	-- Photos of whiteboard into minute of meeting folder
+	-- Next version of pseudo-code
+	-- Try a treemap- A rectangle/state -> thickness is mapped to number of cases
+	-- User option: Disease
+	-- Talk to Mosaic and ask f they can offer something competitive with Patti Raj
+	-- Summarize next research paper
+	-- Check Brewstone and Swigg restaurants
+
+	

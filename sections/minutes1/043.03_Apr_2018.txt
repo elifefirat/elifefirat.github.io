@@ -1,0 +1,46 @@
+Minutes of Meeting: Bob, Dylan, Elif
+----------------------------------------------
+Date:      03 April 2018
+Start time: 14:15
+End time:   16:15
+
+Date and time of next meeting: Visible Lunch Thursday, 10 April 14.15
+
+Topics Discussed: 
+	-- CGVC 2018 Shirts
+	-- Ruth 01792655666 Swigg
+	-- Audience vote for best presentation
+	-- CoS PGR Conference
+        -- Bob add motivation to CoS Conference web page
+
+	
+         
+
+
+Progress:
+	-- Nice CGVC t-shirts and polo shirts
+	-- Swigg offer £10/head
+	-- Next paper summary
+	-- Next version of Pseudo-code
+	-- Bob sends debugging guidelines
+	-- Bob with treemap rendering
+
+
+
+TODO:
+	-- Shirt back 1) Center "CGVC Tour"  2) Add "CGVC 2018, Swansea"
+	-- Print out all od the papers you have summarized so far in color 
+	   and give the printouts to Bob
+	-- Write outline of survey in CGVC 2018 format
+	-- Draft a section called "Scope"
+	-- Look at [134][116][115][54]
+	-- Summarize next paper for survey
+	-- Next version of Pseudo-code
+	-- Add class names to debug output
+	-- Add debug output to all methods
+	-- Eliminate all magic numbers
+	-- Try to find out where and how the canvas is initilized
+	-- Read pages 195-217 of QT book in QT's Graphics view classes
+	-- Try to get following QT examples running: Diagram scene, Anchor layout,
+           basic graphics layouts, graphics view ? layout example
+	

@@ -1,0 +1,40 @@
+Minutes of Meeting: Bob, Dylan, Elif
+----------------------------------------------
+Date:       11 July 2018
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 18 July 11.00, Visible Lunch 12 July 13.00
+
+
+Topics Discussed: 
+	-- Capture a screen capture demo of software
+	-- Idea: Graph of papers vs number of participants in evaluation
+	-- SurVis: Repository of papers
+	-- Chart of publication venues
+
+	        
+
+Progress:
+	-- Next draft of diversity chapter
+	-- Next draft of survey paper
+	-- Using Rich's color mapper
+	-- Added min-max labels to color legend
+	-- Swigg Restaurant purchase order
+
+TODO:
+
+	-- Next draft of diversity chapter
+	-- Bob read diversity chapter
+	-- Move Scott et al. 2017 to "out of scope"
+	-- Adjust size of root note rectangle base on avaliable screen space
+	-- Improve performance
+	-- Try to get £11 price for polo shirts
+	-- Move the diversity papers into their own online folder #70, 69, 68, 67, 66, 65, 64, 61
+	-- Out of Scope paper numbers #83, 77, 74, 63, 38
+	-- In scope papers numbers # 82, 79, 78, 76, 75, 71, 57, 41,40
+	-- Move to Read folder #81, 73, 60
+	-- Related work #72
+	-- Summarize # 57
+	-- Focus on papers after 2010
+	

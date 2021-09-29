@@ -1,0 +1,25 @@
+Minutes of Meeting: Bob, Dylan, Richard, Elif
+----------------------------------------------
+Date:       2nd November 2017
+Start time: 11:00
+End time:   13.00
+
+Date and time of next meeting:9th November 2017
+
+Topics Discussed:
+ 
+
+
+Progress:		
+	-- Read Chapters 1&2 of QT Book
+	-- Read Tycho Csv Data File and showed it on tableView
+
+
+
+TODO:
+        -- Add minutes on your directory
+        -- Read Chapter on input&output
+        -- Fix Web page error indicated by W3C markup validation system
+	-- Introduce an object called 'datatuple' that can store 1 row from the Tycho Csv file
+        -- Show bar chart of disease of cases per state
+        -- Watch Software Engineering Principles Lecture 03 on responsibities

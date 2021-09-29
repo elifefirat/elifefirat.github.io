@@ -1,0 +1,41 @@
+Minutes of Meeting: Bob, Dylan, Elif
+----------------------------------------------
+Date:       13 March 2018
+Start time: 15:00
+End time:   16:45
+
+Date and time of next meeting: 20 March Elif 14.15,
+
+
+Topics Discussed: 
+	-- Sean was a teacher
+	-- Bob uses TexShop, TexStudio, ShareLatex
+	-- T-shirts
+
+	
+         
+
+
+Progress:
+	-- Elif is healthy again
+	-- Summary of VisPro paper
+	-- Next draft of Pseudo-code
+	-- Next t-shirt quotes
+
+
+
+
+TODO:
+	-- Write all paper summaries in Latex-2 coloumn format
+	-- Next related work paper summary
+	-- Add summary of "revisiting the need for formal education in visualization"
+	-- Next draft of Pseudo-code in latex-2 coloumn format
+	-- Add Main() and Initialize() method to Pseudo-code
+	-- Try drawing treemap with new data organization
+	-- Contact Patti Raj confirming choice
+	-- Ask Teamzsportwear for a prototype sample tshirt and polo
+	   sizes M and L (navy blue, white text, red dragon)
+
+       
+
+	

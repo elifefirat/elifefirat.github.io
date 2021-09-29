@@ -1,0 +1,26 @@
+Minutes of Meeting: Bob,  Richard, Dylan, Elif
+----------------------------------------------
+Date:       24th October 2017
+Start time: 14:15
+End time:   15:40
+
+Date and time of next meeting: 
+
+Topics Discussed:
+	-- PhD Requirements
+	-- Voidrealsm for Qt Tutorial
+	-- Visualisation of education  
+
+
+Progress:
+	-- Elif Arrives
+
+
+
+TODO:
+	-- Elif: Read CHapter 1 of Qt book
+	-- Elif: Install Qt Creator on machine - run hello world to make sure it's working.
+	-- Elif: demo programs
+	-- Elif: setup web page
+	-- Elif: Sigh up to cs researh mailing
+	-- Elif: Talk to Julie Pellard about 4th floor access

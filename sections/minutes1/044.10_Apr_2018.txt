@@ -1,0 +1,42 @@
+Minutes of Meeting: Bob, Dylan, Elif
+----------------------------------------------
+Date      : 10 April 2018
+Start time: 14:15
+End time  : 15:25
+
+Date and time of next meeting: 13 April 11.00 and Visible Lunch 13.00
+
+
+Topics Discussed: 
+	-- Related work section includes
+	   "The Role of Visualization in Computer Science Education" and
+	   "Understanding Visualization bu Understending the Individual Users"
+	-- Bob is away next week for Eurographics Conference
+
+	
+         
+
+
+Progress:
+	-- First draft of scope sub-section
+	-- First draft of outline
+	-- Next draft of pseudo code
+	-- Added class names to debug output
+	-- Added debug output to all methods
+	-- Bug found
+	-- Next version of treemap software
+
+
+
+TODO:
+	-- Print out all 12 research papers(in color) for Bob to look through and take notes
+	-- All survey writing in a single document (rather than scattered around in different documents)
+	-- Next draft of survey including all current sections and sub-sections
+	-- Create a new sub-folder called "Distance Learning"- All papers we summarize about online 
+           learning go into the folder
+	-- Lets focus on non-distance learning papers now
+	-- Bring pseudo code to next meeting
+	-- Add on-mouse-over functionality to treemap program and highlights the rectangle
+	-- Re-add color-map to rectangles
+	-- Add rest of diseases to treemap
+	

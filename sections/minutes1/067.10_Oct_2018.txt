@@ -1,0 +1,43 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       10 Oct 2018
+Start time: 11.00
+End time:   12.40
+
+Date and time of next meeting: 17 Oct 11.00 and Visible Lunches
+
+
+Topics Discussed: 
+	-- Moving, books and bookshelves
+	-- "The effect of Gestact Laws.." by Ali and Peebles - Litarcy, Study, Teacher
+	-- "Useful Junk.." - Perception, Study, Teacher
+	-- "Towards a model of knowledge-based..." - Literacy, None, Teacher
+	-- "A theory of graph Comperhension"- Literacy, Teachers, None
+	-- "Perception of Correlation in Scatterplots" - Perception, User Study, Teacher
+	-- "Review of Graph comprehension Research" - Litearcy, None, Teacher
+	-- "A model of cognitive and perceptual.." - Literacy, review of literature, Teacher
+	
+	   
+
+
+Progress:
+	-- Bob reviews diversity chapther
+	-- Bob reviews of sketch
+	-- Next sketch treemap questions
+	-- User Option: Dynamic display of tree hiearchy region from menu option
+
+TODO:
+	-- Bob reviews next draft sketch
+	-- Bob reviews diversity chapther
+	-- Next version of sketch
+	-- Submit Eurovis sketch
+	-- Next draft of treemap questions
+	-- Next draft of diversity chapter
+	-- User gray borders rather than black
+	-- Make sure Alaska is in the correct region
+	-- Find authorative source of regions for US
+	-- User clicks on region on treeview and corresponding
+	   leaf nodes and updated dynamically
+
+	
+	

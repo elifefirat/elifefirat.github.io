@@ -1,0 +1,36 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       28 Nov 2018
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 5 Dec 11.00, Visible Lunches
+
+
+Topics Discussed: 
+	-- School of medicine
+	-- Treemap challenges: No legend, hierarcy, layout algortihm
+	-- Ronald
+
+
+Progress:
+	-- Bob review survey
+	-- Next paper summary
+	-- First image of treemap questions and answer results (Histogram)
+	-- Follow-up email to Ron
+	-- 57 provided a Treemap, 13 did not
+	-- Flickering bug fixed
+
+
+TODO:
+	-- Add table of contents to survey (temporarily as a Appendix)
+	-- Next draft of survey on education
+	-- Next draft of treemap questions is a from with student name, number,
+           date of course, course number, gender, nationality- Bring examples
+	-- Get mouse click working
+	-- Show Bob where you obtain your region ans state data
+	-- Try to get tree view and Treemap view to show the same hierarcy levels
+	-- Use geay borders-not black
+	-- Add triangle below nodes to indicates hidden leaf nodes
+	
+	

@@ -1,0 +1,42 @@
+Minutes of Meeting: Bob, Dylan, Elif, Rich
+----------------------------------------------
+Date:       8 Feb 2018
+Start time: 11:00
+End time:   13.00
+
+Date and time of next meeting: 13 Feb Dylan-Elif, 15 Feb Liam-Elif
+
+Topics Discussed: 
+	-- Computational Foundry
+	-- Intel i7 6700 CPU Released Q3 2015
+	-- Data Tuple; Year, Week State, Cases, Disease
+	-- Data Tuple Manager/ Collection Object
+
+
+            
+
+
+
+Progress:
+	-- Step Function is working
+	-- Next paper summary
+	-- First version of search Methodology
+
+
+
+TODO:
+	-- Ask technicians when your desktop was purchased
+	-- Ask for hardware specifications of computer with type of disk drive
+	-- Add class called DataTupleMAnager for managing entire collection of data tuples
+	-- Choose disease
+	-- Next Paper summary- The Role of Vis in CS
+	-- Add image to paper summary
+	-- Next draft of search methodology
+
+
+	    Derive NormalizedDiseaseRate(DataTupleManager, Disease, Year)
+
+            Tuple-
+	    State-Disease, Year, Cases, Normalized Cases
+	    Region-A list of States
+	    Disease-

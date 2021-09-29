@@ -1,0 +1,41 @@
+Minutes of Meeting: Bob, Elif,  Dylan
+------------------------------------------------------------------------------
+Date:       15 Aug 2018
+Start time: 11.00
+End time:   13.10
+
+Date and time of next meeting: Visible Lunches, 22 Aug 11.00 
+
+
+Topics Discussed: 
+	-- Kess Harware Budget
+	-- Malta
+	-- CGVC 2018 Program
+	-- VLAT: Development of a visualization Literacy Assesment Test
+
+
+Progress:
+	-- Found name badges
+	-- Patti Raj deposit successful
+	-- Meeting with Ben Shneiderman
+	-- Partice CGVC 2018 talk
+	-- Polo shirts ordered
+	-- Next survey paper summary
+	-- Uploaded diversity book chapther
+	-- Draft of PhD proposal
+	-- Bob gave datavis tests
+
+TODO:
+	-- Cancel engineering room bookings
+	-- Order 2 blank certificates for best papers (Talk to Julie)
+	-- Draft a sign with arrows (Liam)
+	-- Follow-up with Julie on polo shirts
+	-- Next survey paper summary: A principled way of assessing visualization literacy
+	-- Show a current version of classification table (Update each week)
+	-- Search for "Literacy" in Vispubdata sheets
+	-- Identify which tests have a treemap questions
+	-- Create demo video showing all disease on treemap- Use on mouse over
+	-- Fix smallpox box
+	-- Create a tree view of data: First 5 states - first 5 years
+	-- Make a disease choice drop down menu
+	-- Ask Dylan and Liam for copies of Eurovis skecthes

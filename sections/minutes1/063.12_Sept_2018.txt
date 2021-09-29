@@ -1,0 +1,34 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       12 Sept 2018
+Start time: 11.00
+End time:   12.10
+
+Date and time of next meeting: CGVC 2018, 19 Sept 11.00 
+
+
+Topics Discussed: 
+	--  Dragon Applied Topology Conference
+
+Progress:
+	-- Awesome name bagdes
+	-- Extra boxes for moving
+	-- Registiration spreadsheet
+	-- Skype meeting with Ronald
+	-- Next paper summary
+	-- Regions included treemap
+	-- Distrubution of A1 + A2 plotted
+
+TODO:
+	-- Present at CGVC 2018
+	-- Print out name  badges-cutting them out
+	-- Next survey paper summary
+	-- Read "Towards a taxonomy for evaluating user
+           engagement in information visualization" by Mahyar et al 2015
+	-- Organize treemap evaluation questions into 5 categories
+	-- Next version of treemap evaluation questions
+	-- Draft a chapter outline for diversity chapter
+	-- Update tree with regions (Hiearchical tree)
+	-- Think about ordering a laptop
+	
+	

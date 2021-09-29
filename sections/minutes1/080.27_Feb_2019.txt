@@ -1,0 +1,40 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       27 Feb 2019
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 6 March 11.00
+
+Topics Discussed: 
+	-- Turkish Delight
+	-- Trip to Turkey
+	-- EuroVis Star
+	-- Diversity Chapther
+
+           
+
+Progress:
+	-- Survey submitted to EuroVis 2019!
+	-- Bob reviews list of software features
+	-- Preserve US/Region treemap hierarcy when click on regions
+	-- A1 treemap assessment from 2018
+
+
+
+TODO:
+	-- Next draft of software features- See notes below
+	-- When the user clicks on region, treemap shows three levels of hierarcy- US, Region, State
+	-- Updates A1 treemap assessment from 2018 with number of non-submissons of treemap
+
+Notes:
+	-- The user can hover the mouse over and rectangle in the treeview and the rectangle increase
+           in size and displays a tooltip with underlying data values.
+	-- The user can click on any internal node and the user chosen node displays its nodes.
+	-- If an internal node displays its children and user clicks on it, the child node collapse into
+	   a representative triangle.
+
+
+	
+
+	

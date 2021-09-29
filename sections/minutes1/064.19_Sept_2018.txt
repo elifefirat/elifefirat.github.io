@@ -1,0 +1,37 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       19 Sept 2018
+Start time: 11.00
+End time:   12.15
+
+Date and time of next meeting: 26 Sept 11.00 
+
+
+Topics Discussed: 
+	-- Fussball Table
+	-- 3.42m x 3.60m= 12.3m2
+	-- 14.74m2 new office
+
+Progress:
+	-- CGVC 2018 Presentation and success
+	-- Bob sends Eurovis starts cep
+	-- Eurovis star cep released
+	-- Next steps in treemap implemenation-Adding regions
+	-- Next version of treemap questions-Bob reviews these
+	-- Finally finished reading Power of Now (In Turkish)
+
+TODO:
+	-- Ask Liam, Rich and Dylan for previous Eurovis Sketches
+	-- Highlight tree diagram nodes in addition to treemap nodes
+	-- Add years to treemap
+	-- Next version of treemap questions-Show to Bob- on increasing level of engagement
+	-- Read the "Teaching Information Visualization" paper and add to summary to related work section
+	-- See Todo list from 12 Sept '18
+	-- Next draft of diversity chapter: ~1 page in 2018 charts
+					    ~1 page on histogram over last 5 years
+					    ~1-2 pages on recommendations for more inclusive teaching
+ 	-- Think about purchasing a new laptop
+	-- Student training
+
+	
+	

@@ -1,0 +1,44 @@
+Minutes of Meeting: Bob, Ben Shneiderman, Elif, Mohammed, Liam, Richard, Dylan
+------------------------------------------------------------------------------
+Date:       25 July 2018
+Start time: 11.00
+End time:   13.10
+
+Date and time of next meeting: 
+
+
+Topics Discussed: 
+
+       Elif:
+	-- Education and Visualization
+	-- Study users to find out what are the situations in which a treemap
+	   is difficult to interpret- Number of levels, breadth, depth, hieraracy complexity/types
+	-- Katy Borner- Indiana University- Data Vis Literacy (ACIST)
+	-- Choose a  group of users
+	-- Does anymation help or not?
+	-- Under what circumstances are treemaps difficult to understand?
+	-- What makes it easy or difficult
+	-- Finding a partner in education psychology
+	-- Treemap with overlapping nodes- Difference treemaps	
+	-- Ren Sink - University of British Columbia (Vis)
+	-- "Data Visualization Literacy"
+	-- Enrico Bertina- NYU, Benjamin Bach- Scotland
+	-- Yvonne Rogers- UCL
+	-- Visualization Literacy- EPSRC Network Grant- Suurnazists
+	-- Andy Kirk, Helen Purchase, Jesme Kennedy
+
+
+      Liam:
+ 	-- Survey of surveys
+      	-- Dynamic Choropleths
+      	-- Working with real data
+	-- Case Studies
+	-- Small multiples- Side-by-side maps
+	-- Including John Grenfell as co-authors
+
+      Mohammed:
+	-- Close and distant reading of parallel translations
+	-- The Visualization mantra history
+	-- April 2019- Ben Shneiderman returns to Swansea
+	-- Glyphs and scatter plots
+	

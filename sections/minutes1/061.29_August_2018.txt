@@ -1,0 +1,31 @@
+Minutes of Meeting: Bob, Elif,  Dylan
+------------------------------------------------------------------------------
+Date:       29 Aug 2018
+Start time: 11.00
+End time:   12.25
+
+Date and time of next meeting: Visible Lunches, 5 Sept 11.00 
+
+
+Topics Discussed: 
+	-- 15+8+7=20 polo shirts
+	-- Avantgardvegan
+	-- Laptop
+	-- Idea: Adding region to treemap
+
+Progress:
+	-- CGVC 2018 polo shirts are finally in
+	-- Next survey paper summary+table
+	-- Radio buttons in single coloumn
+	-- On-mouse-over added to tree view
+
+
+TODO:
+	-- Bob pick up remaning shirts
+	-- Next survey paper summary-Data visualization literacy Borner et al.
+	-- Talk to Monika about data vis exam
+	-- Remove printed page with treemap example from A1
+	-- Match assessment sheets to courseworks
+	-- Let know Bob about meeting with Ronald
+	-- Add meta data to on-mouse-over in tree view
+	-- User option: Different color maps

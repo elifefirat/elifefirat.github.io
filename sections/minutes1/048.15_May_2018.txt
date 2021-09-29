@@ -1,0 +1,35 @@
+Minutes of Meeting: Bob, Dylan, Elif
+----------------------------------------------
+Date:      8 May 2018
+Start time: 15:30
+End time:   15:50
+
+Date and time of next meeting: 22 May 2018 14:15
+
+
+Topics Discussed: 
+
+	
+         
+
+
+Progress:
+	-- Bob reviews survey paper draft
+	-- Next draft of survey
+	-- Next draft of psuedo-code
+
+
+
+TODO:
+
+	-- Bring a color printout of VisMOOC aper and each new paper you summarize for your survey
+	-- A user option: Draw a small circle where the mouse curse is and show the coordinates (in the canvas) in tool tip
+	-- User Option: Show min and max coordinates of rectangle the tool tip and draw the min and max coordinates of the rectangle as small dots 
+	-- Use white background or black
+	-- Sort years on ascending order
+	-- Show first year by default (Don't always make the user choose)
+	-- Fix the bug with on-mouse over
+	-- Try to get all years to work for Hepatitis 
+	-- Next attempt at Swigg deposit
+	-- Talk to Reg Noyse about Taliesen room reservation
+	-- Add a new category "Massive open online courses" (MOOC)

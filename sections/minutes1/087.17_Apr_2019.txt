@@ -1,0 +1,48 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       17 April 2019
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 24 April 11.00
+
+
+Topics Discussed: 
+	-- Wednesdays,Talbot 143 17.30-20.00, 1 May
+	-- Qualtrics
+	-- 30 Apr, 10.00, Haldane PC Lab 9
+           
+
+Progress:
+	-- Finished assessing A2 for Data Vis module
+	-- Swigg asks for £225 deposit
+	-- Joss class schedule obtained
+	-- Next draft of test questions
+	-- Bob reviews test questions
+	-- Online version of test with timed questions
+	-- Ethics approval from submitted
+	-- Treemap color map bug fixed
+
+TODO:
+	-- Install screen capture software on your laptop and test it out with 
+           Treemap software -Show Bob a screen capture demo of treemap software
+	-- Ask Joss how long his course runs until (how many weeks)
+	-- Separate interview questions on a separate form/ piece of paper
+	-- Next draft of interview questions
+	-- Next draft of test questions
+	-- Split treemap questions into 2 halves: Pre-Demonstration and Post-Demonstration 
+	-- Send Bob a copy of spreadsheet
+	-- Update classification to include color
+	-- Update spreadsheet with Bob's revised text	
+	-- Print consent forms for review
+	-- Q4-> Add prefer not to say
+	-- Move Q5, Q6, Q7 to interview questions
+	-- Try yo add previous and next to buttons with largers arrows
+	-- Customize links to 3 Tests: Pre, Post, Interview- Add 3 link to your own web page
+	-- Use same consent form online and printed
+	-- Next version of paper outline- Draft section 3.2 on VLAT include a description of Figure 1 and 2.
+	-- Re-start survey on Visualization Literacy: For each paper: 
+           1 paragraph summary of concept, 1 paragraph of evaluation, list of related Visualization Literacy
+           papers, the defination of Visualization Literacy
+	-- First Visualization Literacy paper summary- 4 Components
+	    	

@@ -1,0 +1,43 @@
+Minutes of Meeting: Bob, Elif, Dylan, Mohammed
+------------------------------------------------------------------------------
+Date:       10 April 2019
+Start time: 11.00
+End time:   12.35
+
+Date and time of next meeting: 10 April 11.00, Visible Lunch
+
+Topics Discussed: 
+	-- Qualtrics.com
+           
+
+Progress:
+	-- Dinner with Swigg sorted
+	-- Bob starts reviewing Treemap questions
+	-- Next version of printed treemap test
+	-- Investigate online version of test
+	-- Version of online test
+	-- Color legend placement updated
+	-- Next version of paper outline
+
+TODO:
+	-- Create a spreadsheet of treemap
+	   C1: Question number, C2: Question text, 
+           C3: Classification (Color, Internal Leaf/
+               Hierarchy, Leaf node, Layout)
+	   C5: Label Yes/No, C6 :Number of rectangle
+           C7: Image URL C8: Description text
+	   C9: The tool name
+	-- Ask Swigg if they would like a deposit
+	-- Make sure Treemap description are complete sentence
+	-- Use original images for VLAT right click+save
+	-- Next version of printed test
+	-- Always ask a native speaker to proof-read your text
+	-- Try to find 5 more good student Treemap- dont worry about legend
+	-- Focus on finishing version of test with ~15 Treemap and ~70 questions
+	-- Obtain an ethics form for all students to sign- Talk to a member of the HCI group
+	-- Draft a set of 5 Post Test questions for interview
+	-- Try to measure time of each question
+	-- Fix treemap color map bug
+	-- Next version of paper outline
+	-- Ask Joss for the name of his class and the full schedule details, date+times
+	    	

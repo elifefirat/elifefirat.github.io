@@ -1,0 +1,43 @@
+Minutes of Meeting: Bob, Elif, Dylan
+------------------------------------------------------------------------------
+Date:       12 Dec 2018
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 9 Jan 11.00, Visible Lunches
+
+
+Topics Discussed: 
+	-- New survey tables
+	-- Bob away 24 Dec - 4 Jan
+	-- 8 Jan Elif's appoinment
+	-- Reflection on year
+
+
+Progress:
+	-- Bob reviews next draft of survey
+	-- Version 1 of Table 2
+	-- Bob discovers two surveys on vis and algorithm cognition
+	-- Color map updates with each color map
+
+
+TODO:
+	-- New survey table
+	-- Dylan: Double check Table 2 entities with Elif
+	-- Next version of Table 2
+	-- Next draft of survey with Bob's feedback
+	-- New table for all papers using a classroom evaluation
+	-- New table for visualization literacy sub-section: graphs vs other
+	-- New table for computer science sub-section: Algortihms vs other
+	-- Finish assessing A1 courseworks
+	-- A triangle should appear on region tree nodes when child nodes
+	   are not displayed- Same for states
+	-- Tree hiearchy always matches treemap: especially for collapsing
+	   region and states	
+	-- User only clicks once on a state to expand it (show children)
+	-- Try to test software more before showing to Bob
+	-- Research engaging color maps- E.g Alex Telea color map
+	-- Have a look at paper: art, affect, and color: creating engaging 
+	   expressive scientific visualization
+	
+	
