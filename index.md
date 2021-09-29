@@ -8,4 +8,4 @@ publications-img: publications.jpg
 ---
 
 
-Horizon is a Jekyll template that enables you to add content in simple text files which are then converted into a stylish and responsive personal website.
+My research interests are to identify barriers to visualization literacy to improve non-expert users' visualization literacy skills by aiding both teaching and learning with a pedagogical tool.
