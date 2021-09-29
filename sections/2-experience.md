@@ -5,7 +5,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praes
 ---
 
 ### Minutes of Meetings
-<a href="https://github.com/elifefirat/Horizon/blob/bd436f8fd5e7eb67c1ad0f5e5108faae9501eef2/sections/5-%20minutes.md" target="_blank">Minutes of Meetings</a>
+<a href="" target="_blank">Minutes of Meetings</a>
 
 ---
 
