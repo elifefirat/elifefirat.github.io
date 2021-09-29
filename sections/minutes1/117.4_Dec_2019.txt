@@ -1,0 +1,46 @@
+Minutes of Meeting: Bob, Elif, Dylan
+
+Date:       04.12.2019
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 11 December 2019, Visible Lunch
+
+Topics Discussed: 
+	-- Visible Lunch
+	-- "Constructive visual representations" out of scope
+	-- "New literacy theories" No
+	-- "A systematic and minimalist" move to sensemaking 	
+	-- "Towards adaptive information"-No
+	-- "Begin at the begining"- Yes
+	-- "Data visualization and information"- Yes
+	-- "Design exposition"-No
+	-- "Desinging communicative visualization"-No
+	-- "Network vis literacy"-Yes
+	-- XMDV Data sets
+	-- Parents, USMoney, Rubber, Voyager -No
+	-- GDPperCapita-Yes
+ 	
+
+Progress:
+	-- Next summary for survey
+	-- XMDV datasets : 7 dataset found
+	-- XDAT, XMDV, Spotfire tested
+	-- Selection area of shapes expanded
+	-- Updated shape position when go east and south
+	-- Labels added to cartesian and PCoords plots
+
+
+TODO:
+	-- Next survey paper summary- "The importance of visual liteacy.."
+	-- Create PCoords Images of USPopulation, Poverty, Energy, CoalDisasters, Cereal, Venus, Cars
+	-- Find 3 more PCoords data sets
+	-- Test Excel and Quadrigam PCoords with their sample data set
+	-- Remove labels when deleting points from plots
+	-- Try random single letter labels with a random seed and no repeats
+	-- Raise Y position of labels on PCoords plot to match height of edges
+	-- Ask Dario Silva when the next Quality Standarts Committee meeting takes place
+
+
+
+

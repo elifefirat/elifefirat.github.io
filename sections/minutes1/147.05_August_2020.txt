@@ -1,0 +1,46 @@
+Minutes of Meeting: Bob, Elif, Dylan, Xiaoxiao, King via Skype
+
+Date:       05.08.2020
+Start time: 11.00
+End time:   13.15
+
+Date and time of next meeting: 12 Aug 2020 11.00 
+
+Topics Discussed: 
+        -- The package store
+	-- Kahoot for pubquizzes
+
+
+
+Progress:
+	-- Bob reviews PCoords Questions
+	-- Dylan takes test and provides feedback
+	-- Next draft of instructional video
+	-- Slide preparation for talk on Friday 2 pm
+	-- Joe invites for Elif for a talk
+	-- Test for edge intersetions with rectangle
+	-- Created an "out of scope" books list
+	-- Attandance at RAMP meeting
+	-- Add new/old paper to related work section
+
+
+TODO:
+	-- Ask Mohammed, Wang and Xiaoxiao to take the test and suggest improvements
+	-- Bob: Have a look at test
+	-- Next draft of instructional video
+	-- Try replacing mouse with a trackball
+	-- Invited talk slides feedback	
+	   - S1: Alignment
+	   - S5: A new slide
+	   - S9: A new slide describes retrospectively analysis of courseworks
+           - S12: A new slide: Explain that you created a literacy test
+	   - S19: A new slide: Show most difficult and easiest treemap questions
+	   - Update acknowlegments to include Alena and Dylan
+           - Ask Louise if she can include Dylan and Xiaoxiao in research development network
+        -- Software: Divide space into squares and test for edge intersections with squares
+	-- Draft a describtion of one website from a higher educational institution
+	-- Propose section for pubquiz- Categories and subjects picture round, audio round,
+           vis literacy round 
+           
+
+ 

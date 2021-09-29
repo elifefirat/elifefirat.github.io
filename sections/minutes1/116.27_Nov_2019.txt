@@ -1,0 +1,44 @@
+Minutes of Meeting: Bob, Elif, Dylan
+
+Date:       27.11.2019
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 4 November 2019 
+
+Topics Discussed: 
+	-- Gregynog
+	-- Jeol Fischer
+	-- Andrew Crabtree
+	-- "Evaluating information.." out of scope
+	-- "Systematic review of evaluation.." out of scope
+	-- "Emprical studies.." out of scope
+  
+ 	
+
+Progress:
+	-- CHI Rebuttal submitted- Good
+	-- Bob writes case for Elif at Nottingham Uni
+	-- Downloaded all A1's from 18-19 and made back up copy
+	-- User study survey papers collected online
+	-- All graph literacy papers in a folder in a separate online folder
+	-- Next survey paper summary- "Data Vis Literacy.."
+	-- Right click to enable axes
+	-- XMDV and XDAT downloaded and tested
+	-- Bob lower's house price
+
+
+TODO:
+	-- Send email to Mathew naming Joel Fischer as 2nd supevisor
+	-- Add summary of "Systematic review.." and "Evaluation of PCoords" surveys to related work section of survey
+	-- Look at references of "Data Vis Literacy.." for more related papers
+	-- Expand valid selection area when user right-clicks on shape an cartesian coordinate plot
+	-- Add new menu --> "Settings" and the "Show Labels" user options
+	-- Update shape properties when cursor is outside boundary area on south and east sides
+	-- Google "XMDV data sets" - choose the best 10- look for easy to understand one
+	-- Find out what the XDat sampe data is
+	-- Find another PCoords tool and identify the datasets
+
+
+
+

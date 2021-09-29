@@ -1,0 +1,45 @@
+Minutes of Meeting: Bob, Elif, Dylan
+
+Date:       20.11.2019
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 27 November 2019 
+
+Topics Discussed: 
+	-- "Low level components.."- No
+	-- "Data visualization literacy.."- Yes
+	-- "Toward effective insight.." -No
+	-- "Observatory and reflections" -Yes
+	-- "How information visualization" -Yes
+	-- "Constructive visualization" - No- Out of Scope
+	-- "Considering agency and data" - No -No evaluation component
+	-- "VixDeck: Streamlining Exploratory" - No
+  
+ 	
+
+Progress:
+	--  Katy Borner's web page and Vlat thesis for more literacy papers
+	-- Small, blue ellipses by default similar to Tableau
+	-- Color is mapped to X-Coordinate by default
+	-- Remove color legend for each individual shape
+	-- Tableau, XMDV, XDAT, TIBCO Spotfire, Excel, Quadrigram
+
+
+
+TODO:
+	-- Read articles on how to write a CHI rebuttals
+	-- Draft of CHI rebuttal -Give Bob a printout tomorrow for review
+	-- Place user-study survey papers in an online folder called user-study survey papers
+	-- Add "Data Visualization Literacy..." to survey
+	-- Place all graph literacy papers in a seperate online folder called "Graph Literacy"
+	-- Download all A1's from 2019 and 2018 from blackboard and make a back up copy
+	-- User-option: User right-clicks shape chooses color, shape or size and corresponding axes are enabled.
+	-- Create a few PCoords examples with XMDV- Look for sample data sets that come with software
+	-- Choose a second supervisor from list of Nottingham faculty
+	-- Find out what the rules are for early submission at Nottingham
+	-- Write your case to Nottingham University
+
+
+
+

@@ -1,0 +1,33 @@
+Minutes of Meeting: Bob, Elif, Xiaoxioa over Skype
+
+Date:       25.11.2020
+Start time: 11.00
+End time:   12.05
+
+Date and time of next meeting: 2 Dec 2020 11.00 
+
+Topics Discussed:
+	-- Trip to Turkey
+	-- Literacy Survey
+	-- A table dedicated to children
+	-- Illustration
+	-- Google Meet
+	-- Bob moving
+
+Progress:
+	-- CHI rebuttal
+	-- Dynamic glyph showing average downward and upward slope
+	-- User-option: Tick-boxes next to each right-click menu option
+	
+
+TODO:
+	-- Submit rebuttal
+	-- Next draft of survey with future work direction section
+	-- Remove Ridge Chart in Table 5
+	-- Table 5: Color-code boxes using evaluation method
+	-- Table 1: New column adult (A) and children (C)
+	-- Try to make column even width in Table 1
+	-- Create short demo videos for showing software progress over skype
+	-- User-options working with large dataset
+	-- Set-up grid with average positive and negative slope for each grid cell
+	-- Show number of intersecting edges

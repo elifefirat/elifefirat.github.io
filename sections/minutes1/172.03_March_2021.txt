@@ -1,0 +1,32 @@
+Minutes of Meeting: Bob, Elif, Xiaoxiao over Skype
+
+Date:       03.03.2021
+Start time: 11.00
+End time:   12.00
+
+Date and time of next meeting: 10 March 2021 11.00
+
+Topics Discussed:
+	-- Fundematals of R Visualizations
+	-- Memory leaks in program
+	-- RenderGlyphs() method
+
+
+Progress:
+	-- Meeting with Max and Alena on PCP paper
+	-- VisGuided paper accepted to EG Edu
+	-- Meeting with Alark
+	-- Focus rendering on top
+	-- Age set default axis
+	-- Average polyline inlcuded in age option	
+
+
+TODO:
+	-- Incoorparate Max's feedback into PCP paper
+	-- Include average polyline in context rendering of each age group
+	   -Especially for the simualtion data
+	-- Average polyline per age group-Especially for simulation data
+	-- User Option: Combined average polyline (render in focus)
+        -- User Option: User clicks on axis label then color is mapped to
+           that axis add visual feedback
+	-- Re-add glyph options to PCP- Add correlation glyphs by default below axis

@@ -1,0 +1,35 @@
+Minutes of Meeting: Bob, Elif over Skype
+
+Date:       12.05.2021
+Start time: 11.00
+End time:   12.40
+
+Date and time of next meeting: 19 May 2021 11.00
+
+
+Topics Discussed:
+	-- Artero et al - Yes
+	-- Dasgupta et al - No
+	-- Ellis and Dix - Yes
+	-- Fua et al - Yes
+	-- Janetzko et al - Yes
+	-- Edge Bundling survey paper
+	-- Pomerente et al - No 
+	-- Roberts et al - Yes
+	-- Zhao Geng et al- Yes
+
+Progress:
+	-- Microsoft Surface
+	-- Second attempt at difference operator
+	-- First attempt at showing max values accross age groups
+	-- User can choose moer than one age from age groups
+	-- Initial PCP papers for related work	 
+ 
+TODO:
+	-- Demonstrate that difference operator is actually working correctly	
+	   Show 2 age groups and their substraction simultaneously
+           Do this for a few examples (keep negative numbers)
+        -- Update age labels with actual meanings- Liaise with Cagatay
+        -- Show the zero point on axes with negative values
+        -- Look for PCP papers focused on overplotting and large datasets 
+	

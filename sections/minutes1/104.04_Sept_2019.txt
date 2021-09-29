@@ -1,0 +1,53 @@
+Minutes of Meeting: Bob, Elif, Dylan
+
+Date:       04.09.2019
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 11 September 2019 + Visible Lunch
+
+
+Topics Discussed: 
+	-- Steroids
+	-- CHI Submission
+
+
+
+Progress:
+	-- Thematic analysis with Alena
+	-- Bob reviews thematic analysis
+	-- Next draft of paper
+	-- # rectangle vs correct answer bar charts
+	-- # rectangle vs time take on question bar charts
+	-- Next draft of video
+	-- 4th dimension added to Pcoords(shape)
+
+TODO:
+	-- Print example papers of thematic analysis Alena sent
+	-- cc:Bob in your communication with Alena!	
+        -- Add ranking properties to future work
+	-- Next draft of thematic analysis
+	-- Bob review next draft of paper
+	-- Add rectangles vs correct answers to supplementary material
+	-- Add rectangles vs time to supplementary material and show Alena
+	-- Include all Likert scale bar charts from interview to main appendix of paper
+        -- User can slide size down to zero in PCoords
+	-- Remove negative pints from 3rd axis
+	-- Order shapes by # rectangles triangle at bottom, circle at top
+	Video
+        -- 0.45 Software-->Application
+	-- Copy and paste text from paper into video to avoid language errors
+	-- 1.32 Vlat-->VLAT, add space "Graphics_23", add space "Kwon. 2017"
+        -- 2.10 Avoid flickering+ sudden transition
+	-- 2.10 Figure number should be consistent with paper
+	-- 2.10 and 2.40 Increase quality of image and point out paper and more difficult aspects
+	-- Fix errors in treemap literacy test that Bob pointed out and corrected
+	-- 3.13 and 3.29 fix grammar error in questions
+	-- 5.15 Fix grammar error
+	-- 6.00 Higher quality
+	-- 6.08 "Software" and "Slides" upper case
+	-- Add thematic analysis to video
+	-- Next draft of video- Share with Alena
+
+
+

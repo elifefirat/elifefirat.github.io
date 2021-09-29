@@ -1,0 +1,33 @@
+Minutes of Meeting: Bob, Elif, Xiaoxiao via Skype
+
+Date:       08.07.2020
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 15 July 2020
+
+Topics Discussed: 
+        -- CHI Deadline 10th Sept
+	-- Medusa
+
+
+
+Progress:
+        -- Bob printed PCoords test questions
+	-- Bob read crowdsourcing survey
+	-- Focus polyline draw on top
+	-- User Option: Show 10 bins per axis for intersection test
+	-- User Option:  Font size of axis labels+ min/max labels
+	-- Update to Vis Resources Education section: Complete references + 1 sentence	
+
+
+TODO:
+	-- Add "Progressive parallel coordinates" by Zhi et al. Pacific Vis 2012 to 
+	   PCoords user-study paper-Tell us what it is about next week
+	-- User Option: User clicks on label for axis in PCP and can update the value
+           using a right click + menu user option	
+	-- User Option: Customizable/editable axis labels via right click + menu directly on labels
+	-- User Option: Number of bins along axis [1-500]
+	-- Try drafting text of educational resources
+	
+             

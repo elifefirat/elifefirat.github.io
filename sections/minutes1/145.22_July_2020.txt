@@ -1,0 +1,31 @@
+Minutes of Meeting: Bob, Elif, Dylan via Skype
+
+Date:       22.07.2020
+Start time: 11.00
+End time:   12.40
+
+Date and time of next meeting: 29 July 2020 11.00 
+
+Topics Discussed: 
+        -- New job in Bristol
+
+
+Progress:
+        -- Dylan gets a job! 24 August 2020 start date
+	-- Bob reviews PCoords questions
+	-- Next draft of PCoords questions
+	-- Fixed Qt creator installation
+	-- Vis resources: Description of books- first half
+	-- User customizable/editable axis labels and scales	
+ 
+
+TODO:
+	-- Bob contact Louise about vis literacy talk
+	-- Bob review PCoords questions
+	-- Start each half of test with 2 sanity questions
+	-- Check Zhi et al 2012 for any user study papers involving PCoords
+	-- Fix bugs with editable labels and min/max values
+	-- Introduce an imaginary axis half way between the
+           existing axes and test for polyline intersections
+	-- Furhter work in supplementary material for books
+             

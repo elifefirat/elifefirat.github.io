@@ -1,0 +1,47 @@
+Minutes of Meeting: Bob, Elif, Dylan
+
+Date:       11.12.2019
+Start time: 11.00
+End time:   12.35
+
+Date and time of next meeting: 18 December 2019, Visible Lunch
+
+Topics Discussed: 
+	-- Visible Lunch
+	-- XDat, XMDV, Excel, Quadrigram,Spotfire, Mondrian, Sliver,
+	   Highcharts, Plot.ly
+ 	
+
+Progress:
+	-- Next literacy paper summary
+	-- Bob writes email to Dario Silva
+	-- Images with SMDV, Quadrigram, Spotfire
+	-- Single letter labels with a random seed and no repeats	
+	-- Raised y position of labels
+
+
+TODO:
+	-- Send Alena the link to Eurographcis Education papers 2020
+	-- Put Treemap paper into EG Education paper template
+	-- Update treemap paper according to reviewer feedback
+           Highlight the new text- Review our Skype feedback session recording
+	-- Next survey paper summary
+	-- Save PCoords image in an online folder organized
+           1.By tool e.g. XMDV 2 Dataset e.g. cars
+	-- Try PCoords plugin for Excel
+	-- Show remaining Quadrigram datasets
+	-- Try out Mondrian, Sliver and XDat - Images and sample datasets
+	-- Create a histogram of used by students on A1 for 2018+2019
+	-- Remove "Remove Legend"
+	-- Move shape axis to 5th axis
+	-- Make sure "Default" option is working on right-click (it is already working)
+	-- User option- Label size
+	-- Set background color to white
+	-- Make a list of PCoord Questions from previous papers: VLAT, 
+           - Look in related work section of CHI PCoords paper
+	-- Look for user studies on scatterplots- Collect them in an online folder
+
+
+
+
+

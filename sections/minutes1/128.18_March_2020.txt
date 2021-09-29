@@ -1,0 +1,36 @@
+Minutes of Meeting: Bob, Elif, Dylan via Skype
+
+Date:       18.03.2020
+Start time: 11.10
+End time:   13.00
+
+Date and time of next meeting: 25 March 2020
+
+Topics Discussed: 
+    -- Eurovis 2020-21
+    -- Conference cancellation
+    -- User study options: Controlled lab, Mechanical Turk, Web-based
+    -- Bob predicts we will return to the public workspace in 2 months (2 months hiatus of panic)
+    -- Good sanitizers: Vinegar, alcohol, hydrogen peroxide
+
+Progress:
+    -- Bob reviews draft of PCoords Questions
+    -- Next version of ethics form-research version
+    -- PCoords image matrix 66% full
+    -- First draft of image generation process
+    -- Some images with n<10 polylines
+
+TODO:
+    -- Bob: Ask Max, Elif: Ask Alena about user-studies
+    -- Think about bringing a screen to work from home
+    -- Setup email forwarding from Swansea email account to another account
+    -- Continue filling in PCoords image matrix
+    -- Add more image to PCoords vis literacy test
+    -- Bob review PCoord Literacy draft
+    -- Send Bob lastest draft of the survey paper
+    -- Check the user manual of each PCoords tool for user options
+    -- Draft a description of each column in table 3
+    -- Use a white or black background by default
+    -- Avoid white or black polylines by default
+    -- Next version of IBFV video
+       

@@ -1,0 +1,27 @@
+Minutes of Meeting: Bob, Elif over Skype
+
+Date:       13.07.2021
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 20 July 11.00
+
+
+Topics Discussed:
+	-- 6 month extension
+	
+
+
+Progress:
+	-- Next draft of PCPL cover letter
+	-- Next draft of PCPL paper
+	-- Bob reviews PCPL cover letter and paper
+	-- Sorting PCP axes once using matrix
+
+TODO:
+	-- Next draft of PCPL cover letter and paper
+	-- Draft a response to associate editor
+	-- Prepare data for presentation for reviwers
+	-- Sort PCP axes more than once using matrix interface
+	-- Highlight the cells in the matrix that are plotted in the PCP default
+	-- User option: Sort PCP axes based on glypes in PCP in PCP display

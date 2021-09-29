@@ -1,0 +1,46 @@
+Minutes of Meeting: Bob, Elif, Dylan, Rodhri
+
+Date:       03-04.10.2019
+Start time: 11.00
+End time:   12.00
+
+Date and time of next meeting: 9 October 2019, Visible Lunch
+
+
+Topics Discussed: 
+	-- "Flexible linked axes"-Yes
+	-- "Conceptualizing visual uncertainty"-No
+	-- "Task-based evaluation"-Yes
+	-- "Interactive local clustering"-No
+	-- "Perceiving patterns"-Yes
+	-- "Many-to-many"-Yes
+	-- "An edge-bundling layout"-Yes
+	-- "Illustrative PCoords"-No
+	-- "Combining PCoords"-Yes
+	-- "Visual perception of"-Yes
+	-- Bob away 10-11 Oct, 18-21 Oct
+	-- 16 Oct -Nai's Practice viva @13.00 
+
+Progress:
+	-- Related work section for Pcoords literacy paper-first draft
+	-- Visible lunch talk
+	-- Draft of survey introduction
+	-- Next paper summary
+	-- First version of right-clicks on shape and "update color" option appears
+
+TODO:
+	-- Start collective images of PCoords for test questions
+	   similar to CHI paper from 2016 on PCoord
+	-- Next draft of survey introduction
+	-- Cite PCoord book, 2-3 PCoords survey
+	-- Add "Evaluation of parallel coordinates" to PCoords related work section
+	-- Next draft of PCoords related work section
+	-- Next paper summary for literacy survey	
+	-- Move "File" to left-most menu
+	-- Color legend does not automatically disappear
+	-- User right-clicks to change shape 
+	
+
+
+
+

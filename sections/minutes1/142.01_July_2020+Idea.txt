@@ -1,0 +1,42 @@
+Minutes of Meeting: Bob, Elif, Dylan via Skype
+
+Date:       01.07.2020
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 8 July 2020
+
+Topics Discussed: 
+        -- PCoords software, paper and test questions
+	-- Journal of visual language and computing
+	-- Good idea: Showing Pearson's Correlation Coeficents
+           between multiple/all axes not just neighbours
+
+
+Progress:
+        -- Meeting with Alark
+	-- Bob reviews PCoords questions
+	-- New Vis Resources found: Visiometrics
+	-- Take notes about which programs are not useful for the user study
+	-- Added tool-tip style annotation to PCP
+	-- Added Pearson's Correlation Coeficents to PCP
+	-- Tested on large data set
+	
+TODO:
+	-- PCoords test questions
+	-- User Option: Customizable min/max labels
+	-- User Option: Font size min/max labels
+	-- User Option: Customizable/editable axis labels
+	-- User Option: Font size of axis labels
+	-- Look at Table 3 and update if necessary
+	-- Add Visiometrics paper+URL to Section 6.4 of Vis Resources
+	-- Have a look at "Pdf Figures 2.0: Mining Figures" and Borking et al. 2013
+	-- Show Bob next draft of instructions script
+	-- First 24 seconds: Print the instructions
+	-- Enhance brightness and constrast of your video
+	-- Re-render highlight polylines on the top
+	-- Divide each axis into 10 equal-sized bins-
+           Then show the nOf polylines passing through that bin range using tooltip
+	-- User Option: Show 10 bins for intersection test
+	
+             

@@ -1,0 +1,49 @@
+Minutes of Meeting: Bob, Elif, Alena, Xiaoxiao, and King
+
+Date:       26.08.2020
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting:  3 Sept 2020 11.00 
+
+Topics Discussed: 
+ 	-- Pub quiz canceled
+ 	-- Chila's storytelling visualization
+	-- Alena's time at IBM
+	-- Idea: Show next button only when video finishes
+	-- Idea: Emphasize the importance of watching video
+	-- Idea: Only pay participants that watch video
+	-- Idea: You will get a bonus if you watch the video
+	-- Sanity question: "How long is the video?"
+	-- Sanity question: How many axes does the care example have?"
+	-- Try jpeg images
+	-- GStar Power
+	-- Means: Avg number of correct answers + standart deviation
+
+
+Progress:
+	-- Pilot study on Qualtrics with 15 participants
+	-- Alena takes pilot study
+	-- 3 out of 15 participants watch the video
+	-- Density based vis literacy questions for pub-quiz
+	-- Added consent form and new sanity questions to the user study 
+	-- Png converted to jpeg
+	
+	
+
+TODO:
+	-- Let the user know that some questions will be about the video
+	-- Compare jpeg image files size with png file sizes
+	-- Write a description of experiment and pilot studies for CHI paper
+           Pilot studies need to be documented- reviewers appreciate this
+	-- Lets user know that their results will not be used in the experiment
+	   if they don't watch the video
+	-- Run next pilot study, Bob recommends 15 participants
+	-- Highlight only current grid cell
+	-- Try to make grid cells a square and circle
+	-- User Option: Number of boxes along x and y axes
+	-- Show polyline intersections for dynamic box
+	-- Vis Resources-Summarize first two papers-Educational research papers
+           with online resources-Start with 2
+
+ 

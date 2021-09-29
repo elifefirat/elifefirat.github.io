@@ -1,0 +1,37 @@
+Minutes of Meeting: Bob, Elif, Dylan via Skype
+
+Date:       17.06.2020
+Start time: 11.00
+End time:   12.45
+
+Date and time of next meeting: 24 June 2020
+
+Topics Discussed: 
+        -- Open source code
+	-- Idea: Adding face to instructions
+	-- Applying for extension
+
+
+Progress:
+        -- Bob reviews PCoords questions
+	-- Bob new printer/scanner
+	-- HP officejet 6950
+	-- Meeting with Alark Joshi
+	-- Next version of user-study tutorial videos
+	-- Bob finished vis reviews
+	-- Video of instructions	
+	-- Next draft of PCoords questions
+	-- Update to PCoords software- Color added, axes highlighted
+
+TODO:
+	-- Next draft of instructions in writing
+	-- Bob review PCoords questions
+	-- Add a paragraph about challanges associated with generate good quality PCoords images
+	-- Add tooltips to polylines in PCoords
+	-- Find some examples of overplotted PCoords
+	-- Look at some YouTube tutorials on Pearsons correlation coefficient
+	-- Reply to Alark and suggest a Zoom meeting on Thursday 25th June at 5 pm BST
+	-- Add Misceilieneous papers to Visualization Resources
+
+
+             

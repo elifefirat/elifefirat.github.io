@@ -1,0 +1,34 @@
+Minutes of Meeting: Bob, Elif, Dylan via Skype
+
+Date:       25.03.2020
+Start time: 11.00
+End time:   12.50
+
+Date and time of next meeting: 1 April 2020
+
+Topics Discussed: 
+	-- Parallel coordinates user study
+
+Progress:
+	-- Bob reviews survey on vis literacy
+	-- Bob starts reviewing parallel coordds literacy paper
+	-- Elif asks Alena opinion on user study
+	-- Continued work on PCoords image matrix- Almost finished!
+	-- Next draft of PCoords questions
+	-- Next version of IBFV video
+ 
+TODO:
+	-- Next draft of survey
+	-- Double-check previous minutes of meeting for any missing survey papers
+	-- Make sure you explore our previous work when writing current papers
+	-- Add coloumns to PCoords tool table: Reads text, remove axes, handles missing values, input file types
+	-- Add # of records to tool table under data file name
+	-- Bob review image matrix
+	-- Bob review PCoords test questions
+	-- Next draft of PCoords literacy paper after Bob returns review
+	-- IBFV video feedback
+           1.18 Texture- How did the background color change
+	   2.48 Add some more critical points- Do not 1, try 3
+	   2.58 Nice image
+	-- Try a lower compression rate (Highest quality possible)
+	-- Next draft of IBFV video

@@ -1,0 +1,39 @@
+Minutes of Meeting: Bob, Elif, Dylan, Alena via Skype
+
+Date:       10.06.2020
+Start time: 11.00
+End time:   12.45
+
+Date and time of next meeting: 17 June 2020
+
+Topics Discussed: 
+        -- Finance
+	-- CHI 2020
+	-- City Uni 240 students, 40 members of staff
+	-- King and ACV
+	-- GStar power
+	-- Multiple correct answers
+	-- Numerical entry
+	-- "None of the above" option
+	-- Radio buttons vs checkboxes
+
+
+Progress:
+        -- Previous button added to Qualtrics
+	-- David Chung's paper 110 and 88 participants
+	-- Prolific £5/h
+	-- XDat and Xmdv support font size changes
+
+
+TODO:
+	-- Bob read user-study questions (email)
+	-- Bob finish vis reviews
+	-- Prepare instructions video for participants
+	-- Software: Show number of records
+	-- Add mix and max valuues to axes
+	-- Add color to polylines and colormapping
+	-- User option: Axis reordering drag-and-drop
+	-- Add textbooks + URL's to educational resources section
+    
+
+             

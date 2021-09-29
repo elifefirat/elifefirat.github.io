@@ -1,0 +1,35 @@
+Minutes of Meeting: Bob, Elif over Skype
+
+Date:       20.01.2021
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 27 Jan 2021 11.00 
+
+Topics Discussed:
+	-- 1 Feb-Blinds
+	-- Related Work
+	-- Boy et al- Manual
+	-- Ruchikachorn-Special-purpose, processing[ref]
+	-- Rosenbaum-20 questions, special purpose, Prefuse toolkit[ref]
+	-- Yang et al-Trends in large data sets
+	-- Visguides paper
+
+
+
+Progress:
+	-- Next draft of PCP paper
+	-- Started assessing Software Engineering exam
+	-- Meetings with Alex about Visguides paper
+
+
+
+TODO:
+	-- Next draft of PCP paper
+	-- Fig 2- Remove table- Size of two plots same height
+            Axes look the same in both CCP and PCP
+	-- Remove papers: Kodagoda et al
+	-- Go through related work papers for tools used
+	-- Add user-study theme as a column to PCP user-studies
+	-- Assess Software Engineering exam
+	-- Atempt a visual design vs topic table for Visguides paper

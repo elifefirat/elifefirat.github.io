@@ -1,0 +1,31 @@
+Minutes of Meeting: Bob, Elif 
+
+Date:       15.06.2021
+Start time: 14.00
+End time:   15.00
+
+Date and time of next meeting: 22 June 2021 11.00
+
+
+Topics Discussed:
+	-- Groups: Frequency Based (Geng, Artero)
+                   Interaction-Brushing (Blaas, Roberts)
+	           Clustering
+		   Edge-Processing
+
+
+Progress:
+	-- PCP papers for PCP related work
+	-- Demo video showing all features
+	-- Matrix axes labels
+
+
+TODO:
+	-- Look through EuroVis21 program for PCP and literacy papers
+	-- Highlight cells in matrix vuew with adjacent axes in the PCP view
+	-- Turn glyphs on by default on PCP display
+	-- Update glyph color mapping (red -1, yellow 0, green +1)
+	-- Matrix view: User choose row and sort based on correlation coeficient
+	-- Try to rotate labels to make them legible
+	
+	

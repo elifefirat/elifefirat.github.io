@@ -1,0 +1,47 @@
+Minutes of Meeting: Bob, Elif, Dylan
+
+Date:       21.08.2019
+Start time: 11.15
+End time:   12.30
+
+Date and time of next meeting: 4 September 2019 + Visible Lunch
+
+
+Topics Discussed: 
+	--
+
+
+
+Progress:
+	-- Bob reviews treemap paper
+	-- Next draft of treemap paper
+	-- Attempt to perform thematic analysis
+	-- Resoved split between two groups
+	-- Most difficult questions printed
+	-- Dylan investigates
+	-- Increase size or resize knob
+
+
+TODO:
+	-- Bob reviews treemap paper
+	-- Next draft of treemap paper
+	-- Double check # of rectangle vs # of correct answers (use actual number of leaf nodes)
+        -- Chart of avarage time taken to answer question vs # of rectangles (leaf nodes) in treemap
+	-- Bob try thematic analysis
+	-- Include finding "The higher the number of leaf nodes to more difficult the label placement.
+           Therefore the more difficult to intrepret"
+        -- Move yes/no and likert scale bar charts from interview to main appendix of paper
+        -- Make 3rd size axis consistent with first two (Area is positive)
+	-- Add shape as 4th axis
+	-- Give a presentation og PCoords paper at visible lunch
+        Video:
+	-- New line after : in title
+	-- 0;12 "Introduction and motivation" - Separate slide- Left justificatioin + contrubition slide
+        -- 0:38 Split "H-Labels" and "H-Legend"
+	-- 0:38 Add Figure 2 to this slide
+	-- 1:22 Image is cut off
+	-- 1:30 Chance to black font, same for 1.54
+	-- 2:51 Font size too large
+	-- 4.11 Fond size too large
+	-- Add results
+

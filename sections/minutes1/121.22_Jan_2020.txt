@@ -1,0 +1,38 @@
+Minutes of Meeting: Bob, Elif, Dylan
+
+Date:       22.01.2020
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 29 January 2020
+
+Topics Discussed: 
+	-- Nottingham
+    
+     
+
+Progress:
+	-- Visible Lunch Presentation
+	-- Education paper submission to EG Edu 2020
+	-- Datasets Table
+	-- PCoords pdfs in an online folder
+	-- Save and load data sets feature still works
+	-- First draft of PCoords video
+	-- Started folder of label placement pdfs
+   
+
+TODO:
+	--Next draft of PCoords questions section
+	--Next draft of PCoords software description
+	--Draft 5 PCoords questions with images
+	--Explain the features in the video- Think it like a tutorial feature-by-feature
+	--User optinon-matching Label, not matching labels
+	--Try to make highlight more visible e.g. red outline
+	--Look at survey-Collect label placement pdfs for info vis technique
+	--Make sure all data is backed up
+    
+
+
+
+
+

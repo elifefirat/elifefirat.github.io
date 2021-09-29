@@ -1,0 +1,39 @@
+Minutes of Meeting: Bob, Elif, Dylan
+
+Date:       29.01.2020
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 12 March 2020
+
+Topics Discussed: 
+	-- Move to Nottingham
+	-- Bees
+    
+     
+
+Progress:
+	-- Next draft of PCoords paper
+	-- First 5 PCoords questions for per image
+	-- Next draft of PCoords Video
+
+   
+
+TODO:
+	-- Describe classification of Siirtola et al. [SLHR09]   
+	-- Try to find full set of questions for Kwon and Lee [KL16]-Try sending email
+	-- Next draft of PCoords Literacy Paper
+	-- Look at web pages of Siirtola et al. for related papers
+	-- Try to adjust axis labels of XMDV
+	-- Add description of classification
+	-- Add hypothesis section similar to treemaps paper
+	-- Invite Alfred as co-author
+	-- Add classification to each PCoord question
+	-- Find out if previous works questions are multiple choice
+	-- Send Bob link to video	
+	-- Add defining edges in PCoords creates points on Cartesian plot
+	-- Next draft of PCoords questions
+
+
+
+

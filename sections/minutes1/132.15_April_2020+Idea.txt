@@ -1,0 +1,29 @@
+Minutes of Meeting: Bob, Elif, Dylan via Skype
+
+Date:       15.04.2020
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 22 April 2020
+
+Topics Discussed: 
+	-- Figure 2 of Chao Tong's survey
+	-- Idea: Label placement and annotation techniques for overplotted PCPs
+	-- Idea: Label placement and annotation techniques for PCP literacy
+
+
+Progress:
+	-- Next draft of literacy survey
+	-- Next draft of PCoords paper
+	-- First draft of PCoords slides
+
+
+TODO:
+	-- Update Table 2 of survey
+	-- Update PCoords challenages
+	-- Slides feedback-See recording
+	-- Next draft of slides
+	-- Try video tutorial using software
+	-- Add "united classroom" vs "divided classroom"
+	-- Create a new PCoords software program (w/no cartesian coordinate)
+	-- Bob review next draft of literacy survey

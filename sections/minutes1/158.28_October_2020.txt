@@ -1,0 +1,33 @@
+Minutes of Meeting: Bob, Elif and Xiaoxiao
+
+Date:       28.10.2020
+Start time: 11.20
+End time:   13.00
+
+Date and time of next meeting: 4 Nov 2020 11.00 
+
+Topics Discussed: 
+ 	-- Barral et al -Yes
+	-- Donohoe et al- Yes 
+	-- D’Ignazio and Bhargava- Yes
+	-- Krekhov et al- Yes
+	-- Onyanca et al- No
+	-- Rodrigues- Yes
+	-- Stiober- Yes (if published)
+	-- Zenter- No
+
+
+Progress:
+	-- Next draft of survey
+	-- Elif prints out survey
+	-- Bob reviews pages 5-9 of survey
+	-- Software refactoring
+	-- More software papers found
+
+
+TODO:
+	-- Color-map correlation coefficient arrow glyphs (using a rainbow-style color map)
+	   Look for a green->red color map
+	-- User Option: Right click in space between two axes "Render positive slope edges"
+           Focus + context rendering of polylines
+	-- Next draft of survey

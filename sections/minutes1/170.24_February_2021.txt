@@ -1,0 +1,36 @@
+Minutes of Meeting: Bob, Elif over Skype
+
+Date:       24.02.2021
+Start time: 11.00
+End time:   12.00
+
+Date and time of next meeting: 25 Feb with Max, 3 March 2021 11.00
+
+Topics Discussed:
+	-- Add a RenderContext() method
+	-- Add a RenderFocus() method
+	-- Add an UpdateRendering() method
+	-- Add an UpdateData() method
+	-- Add an UpdataColorMapping() method
+	-- 23 1/2 Youtube Video
+
+
+
+Progress:
+	-- Next draft of PCP paper and meeting with Max tomorrow
+	-- Radio button for age
+	-- First attempt at F+C
+	-- Meeting with Joe Best
+	-- Survis web page on Nottingham Server
+	
+
+
+TODO:
+	-- Send a copy of the PCP paper to Alena for review
+	-- Invite Alena to meeting tomorrow (optional)
+	-- F+C: Render focus on top
+	-- Set age as first axis by default with simulation data set
+	-- Add support for average polyline for each age group including F+C
+	-- Include arrow glyphs in simulation data
+	-- Reduce the line with  of highlighted polyline to 2
+	-- Set background color to black by default

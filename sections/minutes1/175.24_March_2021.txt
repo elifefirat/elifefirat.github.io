@@ -1,0 +1,31 @@
+Minutes of Meeting: Bob, Elif over Skype
+
+Date:       24.03.2021
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 31 March 2021 11.00
+
+Topics Discussed:
+	-- Vegans
+
+
+Progress:
+	-- Submitted PCP paper tp IJHCS
+	-- Default axis color coding
+	-- User Option: Highlight polylines
+	-- User Option: Highlight polylines with data labels
+	-- User Option: Pre-computed intersections based on grid
+
+TODO:
+	-- Mention Survis in literacy survey at the end of interaction
+	-- Send survey to Bob
+	-- Invite Alark to survey as co-author
+	-- Fix default color map by highlighting default axis label
+           - Set as first axis by default in all data sets
+	-- Test new features more throughly
+	-- Make data labels legible
+	-- Use white background for average polyline data values
+	-- Use 30 as default grid resolution along y axis
+	-- Follow Bob's Coding Conventions (Indentation, magic number) 
+	-- User Option: Pre-computed lens with glyphs (cirle)

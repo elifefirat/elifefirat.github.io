@@ -1,0 +1,34 @@
+Minutes of Meeting: Bob, Elif, Dylan via Skype
+
+Date:       29.04.2020
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 6 May 2020
+
+Topics Discussed: 
+	-- Openbroadcaster
+	-- 10 May 2020-Deadline
+	-- Eurographics 2020
+
+Progress:
+	-- First draft of EG Edu slides
+	-- Next draft of PCoords slides tutorial
+	-- Next draft of PCoords software tutorial
+	-- Amazon Mechanical Turk inital experiment
+	-- Next draft of PCP literacy paper
+	-- Loading data sets into PCP software
+ 
+TODO:
+	-- Next draft of EG Edu slides	
+	-- Register for EGEV 2020
+	-- Full draft of EG Edu presenation
+	-- Review your CGVC 2018 practice talk
+	-- Next draft of PCoords slides tutorial
+	-- Next draft of PCoords software tutorial
+	-- Try a pilot study with 5 PCoords questions on MTurk
+	-- Bob review next draft of PCP literacy paper
+	-- Load and test same datasets as in PCP literacy paper
+	-- Ask Alena if she has any experience with online user studies e.g. MTurk
+	-- Read Information Visualization survey
+

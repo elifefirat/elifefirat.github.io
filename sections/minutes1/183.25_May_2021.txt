@@ -1,0 +1,38 @@
+Minutes of Meeting: Bob, Elif over Skype
+
+Date:       25.05.2021
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 1 June 2021 11.00
+
+
+Topics Discussed:
+	-- Group 1 (Age<20)
+	-- Group 2 (20-29)
+	-- Group 3 (30-39)
+	-- Group 4 (40-49)
+	-- Group 5 (50-59)
+	-- Group 6 (60-69)
+	-- Group 7 (Age>=70)
+	-- Group 8 (Health Care Workers)
+	-- Fenea et al- No
+	-- Johansson- No
+	-- Guo et al- Yes
+	-- Johansson- Yes
+
+
+Progress:
+	-- Age labels updated
+	-- User Option show zero values
+	-- Age groups clarified from Cagatay
+	-- Global max values, updated min values 
+	-- Data and subtraction view simultaneously
+ 
+TODO:
+	-- Rearrange the order of the age groups in the GUI (see above)
+	-- Change "age" axis label to "age group"
+	-- Change "ages" axus label to "age group" in GUI
+	-- Indicate age ranges and age groups in drop down menus
+	-- Use a semi-transparent circle for both dynamic and static edge lenses
+	

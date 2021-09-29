@@ -1,0 +1,27 @@
+Minutes of Meeting: Bob, Elif, Xiaoxiao over Skype
+
+Date:       10.02.2021
+Start time: 12.00
+End time:   13.00
+
+Date and time of next meeting: 17 Feb 2021 11.00 
+
+Topics Discussed:
+	--Evaluation tools vs generation tools
+
+
+
+Progress:
+	-- Bob reviews PCP paper and reviews
+	-- Next draft of survey
+	-- Initial survis webpage
+	-- Chat with Max
+
+TODO:
+	-- Next draft of PCP paper
+	-- Move bar charts to Qualtrics analysis (e,f)
+	-- Set up Survis webpage on university of Nottingham
+	-- Ask Dylan for help with Survis
+	-- Ask Victor for help with setting up webpage
+	-- See ToDo from 25 Nov '20
+	-- Set up grid with average positive and negative slope for each grid cell

@@ -1,0 +1,30 @@
+Minutes of Meeting: Bob, Elif over Skype
+
+Date:       31.03.2021
+Start time: 11.00
+End time:   12.00
+
+Date and time of next meeting: 7 April 2021 11.00
+
+
+Topics Discussed:
+	-- 4 TAs, 53 groups
+	-- Changing color map to different axes
+
+
+Progress:
+	-- Bob reviews survey on literacy
+	-- Grading software engineering
+	-- Data labels on average polyline
+	-- Pre-completed edge line
+
+
+TODO:
+	-- Next draft of vis literacy survey
+	-- Pass next draft of vis literacy survey to Alark
+           - Add him to Overleaf project
+	-- Try to find out why color mapping is so slow-try to speed up
+	-- Get focus and context working again
+	-- Try to get pre-computed edfe lens working with focus and context rendering
+	-- Try to speed up pre-computed lens
+	-- Have a look at why dynamic glyphs dont seem to be correct

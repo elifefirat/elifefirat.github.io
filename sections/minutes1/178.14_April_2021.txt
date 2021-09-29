@@ -1,0 +1,32 @@
+Minutes of Meeting: Bob, Elif, Mohammed over Skype
+
+Date:       14.04.2021
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 21 April 2021 11.00
+
+
+Topics Discussed:
+	-- Stobier et al 2019
+	-- Baker et al 2001
+	-- Literature literacy
+	-- Vis Resources
+
+Progress:
+	-- Alark has survey paper
+	-- Cover letter for survey
+	-- New paper summaries
+	-- Meeting with Mohammed on software performance
+
+ 
+TODO:
+	-- Complete survey references
+	-- Try to find out where the graph literacy content went
+	-- Test out signals and slots
+	-- Meet with Mohammed signals and slots
+	-- Investigate polyline rendering- It isnt necessary to
+           re-render all polylines from stratch everytime the mouse
+           moves - Only the lens needs to be updated
+	-- Incorparate signals and slots in software
+	-- Follow up on PCP paper with Max- Ask if Niklas got it

@@ -1,0 +1,30 @@
+Minutes of Meeting: Bob, Elif, Wang
+
+Date:       31.08.2021
+Start time: 11.10
+End time:   12.10
+
+Date and time of next meeting: 7 September 2021 
+
+
+Topics Discussed:
+        -- Vlat: Oil, Internet speed, cost of food, etc.
+	-- Data Source
+	-- Alper17: User Specified, flowers, animals, ingredients etc
+	-- Huynh20: Constellations, fictional data, fictional characters etc 
+	
+
+
+Progress:
+	-- Next draft of DPCP paper
+	-- Next draft of survey: Updated Table 1
+	-- First attempt at data source table
+        -- Figure of paper selection process
+
+TODO:
+	-- Find solution for minutes of meeting
+	-- Fill out description for Figure 1 of survey
+	-- Re-use colors in Table 1
+	-- Data source table for survey
+	-- Description of paper selection process
+	-- Bob reviews DCPC draft

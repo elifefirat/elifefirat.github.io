@@ -1,0 +1,42 @@
+Minutes of Meeting: Bob, Elif, Dylan via Skype
+
+Date:       01.04.2020
+Start time: 11.00
+End time:   13.25
+
+Date and time of next meeting: 8 April 2020
+
+Topics Discussed: 
+	-- Arcial13Methid-No
+	-- Construct a vis-Yes
+	-- Diagram Safari-Yes
+	-- Visualization novices-Yes
+	-- Tool for teaching-PCoords Related Work
+	-- Begin at the beginning-Yes
+	-- Yang14Understanding-Yes
+	-- Zoss18nNetwork-Yes
+	-- Got Game-No
+	-- Mansoor 18 data-Yes
+	-- Wrist rest/pad
+	-- User studies
+	-- Video Tutorials
+
+
+Progress:
+	-- Bob reviews PCoords paper
+	-- More papers for literacy survey
+	-- Bob reviews image metrix
+	-- Next draft of papers
+	-- Next draft of IBFV video-Very Good
+ 
+TODO:
+	-- Include year vs number of papers figure in survey
+	-- Include paper vs number of user study participants in survey
+	-- Send PCoords + Survey papers to Dylan for proodreading
+	-- Look at "A short introduction to treemap" and
+	   "Treemap software demonstration for visualization literacy" on YouTube
+	-- Download PCoords slides- Add "\Lecture" to URL on Datavis module website
+	-- Add "The challanges of interpreting PCoords" section to PCoords paper
+	-- Next draft of IBFV video
+           Textures: Fig 9A, 9B, 10B, 11A, 11B
+           Objects:13A, 13B, 12B

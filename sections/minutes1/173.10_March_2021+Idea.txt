@@ -1,0 +1,35 @@
+Minutes of Meeting: Bob, Elif, Xiaoxiao over Skype
+
+Date:       10.03.2021
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 17 March 2021 11.00
+
+Topics Discussed:
+	-- Idea: Difference operator for PCPs (Polyline subtraction)
+	-- Comparing hospital, recovery, and deaths across age groups
+	-- Sorting axes: by correlation coefficient and collapsing from left to right
+	-- Axis ordering based on glyph matrix
+
+Progress:
+	-- Next draft of PCP paper with Max's comments
+	-- User Option: User chooses axis for color mapping
+	-- Re-added glyph options to PCP
+
+TODO:
+	-- Have a look at Xmdv software to see how it is organized
+           - Find out how they store the data
+	-- Update background color of axis label indicate color map being applied to the axis
+	-- Include average polyline in context rendering of each age group
+
+
+
+
+    For each age group (for each csv file)
+        - Open CSV
+	- Read Data 
+        - Store it in a data structure
+	- Compute correlation coeffiecents
+	- Close csv
+   End for

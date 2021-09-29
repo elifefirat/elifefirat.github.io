@@ -1,0 +1,49 @@
+Minutes of Meeting: Bob, Elif, Dylan
+
+Date:       16.10.2019
+Start time: 11.00
+End time:   12.40
+
+Date and time of next meeting: 13 November 2019
+
+Topics Discussed: 
+	-- Ordered and Quantum Treemaps-Algorithms paper
+	-- Kanjanabose-OK
+	-- Kanjanabose2-Try high-res version
+	-- Tools that extract images from pdfs
+	-- Lands-Try to find out what "Bands" are
+	-- Palmas-No, Car1-Yes, Car2-No, Car3-No
+	-- CdParCoord-Try to find out what axes mean
+	-- Hyperparameter-Try to find out what axes mean
+	-- Iris-Yes, xyz-No
+ 	
+
+Progress:
+	-- Next draft of survey
+	-- User-study papers on Treemaps folder started
+	-- User-study papers on PCoords folder started
+	-- More PCoords images
+	-- Circle by default
+	-- Color legend stays until user remove it	
+	-- Resize knob changes color when on-mouse-over
+
+
+TODO:
+    -- Add abstract to literacy survey + next draft of the survey
+    -- Look for other user-study surveys to describe in the out-of-scope section of the survey (1.3.2)
+    -- Add a table to PCoords related work section:
+           Column 1-Paper, Column 2-Evaluation Type, Column 3-Number of participants
+    -- Check the SoS- Hierarchical data vis survey for the more user-study paper on treemaps
+    -- Try using tool to extract PCoords images from Bob's papers
+    -- Small circle be default-0.9
+    -- Enable a color legend for each shape
+    -- Make sure you are testing with multiple shapes
+    -- Make sure resize knob does not move to a different shape
+    -- User option: Right click-Default settings:Size, color,shape
+    -- Render color legend adjacent to color axis
+    -- Shape should not slide and re-appear in the right border
+	
+
+
+
+

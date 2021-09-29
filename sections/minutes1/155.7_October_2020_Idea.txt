@@ -1,0 +1,45 @@
+Minutes of Meeting: Bob, Elif and King
+
+Date:       07.10.2020
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 14 Oct 2020 11.00 
+
+Topics Discussed: 
+ 	-- Idea: Show all above average polylines
+	-- Idea: Any other synthetic polylines
+	-- Idea: Average increasing edge between dimensions
+	-- Idea: Average decreasing edge between dimensions
+	-- Mansoor and Harrision - Yes
+	-- Okan et al - Graph Literacy folder
+	-- Want et al - Yes
+	-- Yang et al - No
+	-- Zoss et al - Yes
+	-- Schield - No
+
+
+
+Progress:
+	-- User Option: Number of boxes along X and Y 
+           for grid-based intersections
+	-- User selected box highlighted
+	-- User chosen density selection highlights polylines
+	-- User Option: Show average for each dimension
+	-- New survey papers
+	-- Next draft of survey
+	-- Bob reviews first 4 pages of survey
+
+
+TODO:
+	-- Send another follow-up email and phone call about setting up web-page
+	-- Provide default value for grid-based intersections (30 along Y)
+	-- For string axis - show median point
+	-- User Option: Render the average polyline
+	-- User Option: Display correlation coefficient between axes
+	-- User Option: Show glyph with correlation coefficient
+        -- Modify filename of minutes of meetings with +I
+	-- Look through previous minutes of meetings that have ideas
+	   written down-modify filenames with +I
+	-- Check for visualization resources in the list Bob provided
+	-- Add cheat sheets paper to visualization resources

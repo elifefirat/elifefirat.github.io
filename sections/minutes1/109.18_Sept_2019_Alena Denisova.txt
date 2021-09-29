@@ -1,0 +1,21 @@
+Minutes of Meeting: Bob, Elif, Alena
+Date:       18.09.2019
+Start time: 14.00
+End time:   14.30
+
+Date and time of next meeting: 18 September 2019 
+
+
+Topics Discussed: 
+	-- Thematic Analysis
+	-- Pearson's correlation
+	-- Dialogue with creative Economy
+
+
+
+Progress:
+	--Alena updates figures 
+
+
+TODO:
+	-- Analysis of # rectangles vs response time (or error rate) 

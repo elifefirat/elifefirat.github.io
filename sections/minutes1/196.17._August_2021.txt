@@ -1,0 +1,26 @@
+Minutes of Meeting: Bob, Elif over Skype
+
+Date:       17.08.2021
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 24 August 11.00
+
+
+Topics Discussed:
+	-- Multivariate visualization tutorial paper
+	-- Jason Dykes/ Idiom paper
+	
+
+
+Progress:
+	-- Related work section on dense PCP
+	-- Treemap chapter is on the thesis template
+	
+TODO:
+	-- Resubmit PCPL cover letter and revised manuscript
+	-- Summarize the existing PCP survey papers for DPCP related work section
+	-- User Option: Collapsing axes- Proabably usig a right-mouse click-menu option	
+	-- Bob think about survey
+	-- Include description of Table 5 in survey
+	-- Bob update uni password

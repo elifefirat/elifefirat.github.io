@@ -1,0 +1,35 @@
+Minutes of Meeting: Bob, Elif, Dylan
+
+Date:       11.09.2019
+Start time: 11.30
+End time:   13.10
+
+Date and time of next meeting: 18 September 2019, Visible Lunch
+
+
+Topics Discussed: 
+	-- Handshake
+	-- Journal: Dialogue with creative economy
+
+
+
+Progress:
+	-- Bob read paper
+	-- Next draft of paper
+	-- Next draft of video
+	-- User can slide size down to zero
+	-- Order shapes by # edges
+
+TODO:
+	-- Dylan proofread treemap paper- Send Bob a copy of the comments
+	-- Cite Rich's paper
+	-- Discuss questions classificiation in the discussion
+	-- Ask Deepak and Stephen if they think the classroom photo makes a good or bad impression	
+	-- Ask Deepak and Stephen if they will review our paper
+	-- Video 2.14 try a higher resolution image
+	-- User can toggle 3rd and 4th axes indepenently
+	-- Make sure resize is working when right-clicking on any shape
+	-- Add outline of shape for resizing
+
+
+

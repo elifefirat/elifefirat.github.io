@@ -1,0 +1,33 @@
+Minutes of Meeting: Bob, Elif and Xiaoxiao
+
+Date:       21.10.2020
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 28  Oct 2020 11.00 
+
+Topics Discussed: 
+ 	-- IEEE Vis 2020 next week
+	-- Idea: Edge slope filter
+	-- Idea: Edge slope glyph
+	-- Bob mailed vote
+
+
+Progress:
+	-- Paper for survey found: "Designing narrative-focused role-playing games
+           for visualization literacy in young children"
+	-- User option: Average polyline 
+	-- User option: Display arrow glypned mapped to correlation coefficient
+           including string axes
+	-- Next draft of survey
+
+
+TODO:
+	-- Look for IEEE papers at IEEE VIS 2020 and attend the conference
+	-- Have a look at Fanny's web page for more vis literacy publication
+	-- Refactoring software
+	-- Color-map correlation coefficient arrow glyphs (using a rainbow-style color map)
+	   Look for a green->red color map
+	-- User Option: Right click in space between two axes "Render positive slope edges"
+           Focus + context rendering of polylines
+	-- Next draft of survey

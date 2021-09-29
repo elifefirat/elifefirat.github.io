@@ -1,0 +1,42 @@
+Minutes of Meeting: Bob, Elif, Wang------------------------------------------------------------------------------
+Date:       13.08.2019
+Start time: 11.15
+End time:   13.50
+
+Date and time of next meeting: 21 August 2019 
+
+
+Topics Discussed: 
+	-- CHI Deadline
+	-- CSC337 18/19 53-4=49, CSCM37 18/19 21-2=19
+	-- Defination of sensemaking
+
+
+
+Progress:
+	-- Bob reviews next draft of treemap paper
+	-- Bob reviews post-test questions and classification
+	-- Draft of survey
+	-- User Option: Third axis toggle
+	-- User right-clicks on rectangle for resizing
+
+
+TODO:
+	-- Next draft of treemap paper 
+	   - Include a new section called " A treemap visualization literacy test"
+	   - Include 1)Where you searched for treemap images 2)How did you choose the ones to include
+				 3)How did you develop questions themselves  4)Classification of questions
+				 5)A sample image + question 6)URLs to full tests
+	-- Update minute of meeting titles so that they are in order
+	-- Print out interview questions and answers summary for Bob to start thematic analysis
+	-- Try performing thematic analysis
+	-- Resolve the split into two groups of 12 and 13
+	-- Ask Dylan to proofread next treemap draft
+	-- Print out the 10 most difficult questions on both pre- and post-test - Rank them for Bob to look at
+	-- Bar chart like Figure 7 for post-test
+	-- Log onto CHI submission system to look at meta-data
+	-- Try a draft video
+	-- Next draft of survey but only after all treemap work is done
+	-- Sensemaking goes into the out-of-scope section
+	-- Ask Wang and Dylan for help with removal of tooltip flashing
+	-- Increase size of resize knob and place it consistently in corner (try to mimick Excel)

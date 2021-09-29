@@ -1,0 +1,40 @@
+Minutes of Meeting: Bob, Elif, Dylan
+
+Date:       18.09.2019
+Start time: 11.30
+End time:   12.10
+
+Date and time of next meeting: 25 September 2019, Visible Lunch
+
+
+Topics Discussed: 
+	-- Linus from Charlie Brown
+	-- Sunglasses
+	-- Video
+
+Progress:
+	-- Bob reviews treemap paper
+	-- Next draft of treemap paper
+	-- Dylan proofread treemap paper
+	-- Attempted feedback from Stephan and Deepak
+	-- Next draft of video- Well done!
+	-- User can toggle 3rd and 4th axes independently
+	-- 5th axis, color, added
+
+TODO:
+	-- Bob reviews paper (final time)
+	-- Submits paper- Pratice submisson today
+	-- Send Alena a link to the minutes of meeting
+	-- Suggest Alma Rahat as 2nd supervisor to Ulrich Berger
+	-- Submisson is 10 pages + references
+	-- Size should go down to zero- maximum
+	-- Remove need to left-click on shape before resize
+	-- Add saving off next axis information and loading
+	-- Add sub-section to survey
+	-- Divide scope section onto in-scope and out of scope
+	-- Add names to first column in overview table
+	-- Add Educlust and PCoord papers to survey
+
+
+
+

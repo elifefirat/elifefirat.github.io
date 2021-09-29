@@ -1,0 +1,31 @@
+Minutes of Meeting: Bob, Elif over Skype
+
+Date:       29.04.2021
+Start time: 11.00
+End time:   12.40
+
+Date and time of next meeting: 5 May 2021 11.00
+
+
+Topics Discussed:
+	-- Atomic Habits
+	-- Summer Internship
+
+
+Progress:
+	-- Survey submitted to IEEE CG&A! Well done
+	-- Testing new laptop- seems faster
+	-- Difference operator V1
+	-- User option: All ages
+	 
+ 
+TODO:
+	-- Start gathering PCP papers online with a focus on
+           overplotting and dense displays
+	-- User option: Difference operation checkbox
+	-- Use the maximum number for each dimension accross all ages
+	-- User option: Show max values accross all age groups as
+           points on PCP axes
+	-- Find out what age intervals the ages represent
+	-- User can choose more than one age from age groups
+	-- Ask Viktor for IPad for teaching

@@ -1,0 +1,27 @@
+Minutes of Meeting: Bob, Elif, Xiaoxiao over Skype
+
+Date:       10.03.2021
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 24 March 2021 11.00
+
+Topics Discussed:
+	-- Survey
+	-- Renting a room
+
+Progress:
+	-- Bob helps write PCP
+	-- Average polyline for each age group
+	-- User Option: User chooses axis for color mapping
+	-- Background color of axis label is updated when color
+           mapping is applied
+
+TODO:
+	-- Submit PCP paper to IJHCS journal
+	-- Next draft of survey paper (double-check)
+	-- Show default color mapping by highlighting default axis label
+	-- User option checkbox: Show average polyline data values
+	-- Separate user options: One for data labels and highlighted polylines
+           A second user option that shows glyphs (not at the same time)
+        -- Separate dynamic lens user options

@@ -1,0 +1,36 @@
+Minutes of Meeting: Bob, Elif over Skype
+
+Date:       24.08.2021
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 31 August 11.00
+
+
+Topics Discussed:
+	-- Yoga, exercise
+	-- IVAPP
+	-- Information Visualization Journal
+	-- Collapsing Axes-Stacking
+	
+
+
+Progress:
+	-- PCP paper revision + cover letter
+	-- Idiom drafted for Jason Dyke's paper
+	-- Bob thought about survey paper
+	-- Initial writing on DPCP paper
+	-- Survey Table 5 explanation
+	-- First attempt at axis collapsing
+	
+TODO:
+	-- Draft intro and related work of DPCP paper
+	-- Ask Alark if he has opinion on where to submit the survey
+	-- Add a new table to survey paper: 
+           C1: Paper Ref, C2: Data Source Theme
+               Firat et al., History of disease
+	-- From survey paper: Describe Figure 1
+	-- Add background colors to cells in Table 1 (4 colors)	
+	-- Try to create a version of Figure 1 frim CGF survey
+	-- User right click for axis collapsing
+	-- Push axes very close to one another

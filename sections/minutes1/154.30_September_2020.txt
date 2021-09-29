@@ -1,0 +1,30 @@
+Minutes of Meeting: Bob, Elif and King
+
+Date:       30.09.2020
+Start time: 11.00
+End time:   12.40
+
+Date and time of next meeting:  7 Oct 2020 11.00 
+
+Topics Discussed: 
+ 	-- 25 March 2020- Last mention of survey
+
+
+
+Progress:
+	-- Paper submitted to CHI 2020 - Good progress
+	-- User-highlighted edge intersections with on-mouse-over + grid cell
+	-- User-option: Number of edge intersections with user-specified circular lens
+
+
+TODO:
+	-- Set up Nottingham Uni web page using technical support if necessary
+	-- Render a square "on top" for user-intersection
+	-- Highlight polylines passing through circular lens
+	-- Test out intersection interaction on large datasets
+	-- User option: Number of boxes for grid along X and Y axis (try higher resolution)
+	-- User option: Show average polyline with tooltips
+	-- Remove unnecessary tooltips
+	-- Cross-check PCP paper with the survey to make sure PCP papers are included from literacy Section 2.1
+	-- Next draft of survey
+ 

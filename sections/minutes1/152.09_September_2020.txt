@@ -1,0 +1,27 @@
+Minutes of Meeting: Bob, Elif, Alena, Xiaoxiao, and King
+
+Date:       09.09.2020
+Start time: 11.00
+End time:   12.20
+
+Date and time of next meeting: 14 Sept 2020 10.00 
+
+Topics Discussed: 
+ 	-- Differences in questions
+
+Progress:
+	-- Alena- Inital attempt at analysis	
+	-- Elif- Draft of paper in CHI 2021 format	
+	
+
+TODO:
+	-- Send Bob short version of experiemental instructions,
+           latest software and slides videos
+	-- Submit CHI absract
+	-- Supply Alena with question classification
+	-- Create a bar chart similar to Figure 2, 7 and 8 of treemap paper supplementary material
+	-- Supply Alena revised spreadsheet data with sanity questions seperated
+ 	   from test questions and pre+post test 
+	-- Draft of "Qualitative analysis of interview data" section 
+	-- Next round of user-study participants
+ 

@@ -1,0 +1,42 @@
+Minutes of Meeting: Bob, Elif, Dylan, Xiaoxiao, King via Skype
+
+Date:       12.08.2020
+Start time: 11.00
+End time:   12.35
+
+Date and time of next meeting: 19 Aug 2020 11.00 
+
+Topics Discussed: 
+        -- Hot weather
+	-- Bob and Wang are meeting in person
+	-- Alark
+	-- Idea: Experiment with intersections circles instead of squares
+	-- Paper deadlines
+	-- CHI notification date: 15 November
+
+
+
+Progress:
+	-- Asked Alark if he can meet on Thursday or Friday
+	-- Asked Mohammed, Dylan, Xiaoxiao, Alena to take the test
+	-- Modified software tutorial
+	-- Invited talk for research developement network
+	-- Pub Quiz: Multiple choice- General knowledge, 
+           Audio round-which language, which leader
+           Image round-landmarks, city/metro maps
+	   Litercy round-Pcoords images
+
+TODO:
+	-- Please remind Bob via text a few hours before meetings with Alark
+	-- Send Bob updated copy of software tutorial
+	-- Try to randomize questions accross entire test (except sanity questions)
+	-- Ask Xiaoxiao to take the test after you've updated it, we can also ask masters students
+	-- User Option: Show boxes for intersections (Grid-based density)
+	-- User Option: Interactive Density (User-option show box)
+	-- User Option: Highlight polylines that intersect boxes
+	-- Feel free to try out circles	
+	-- Test software out different data sets
+	-- Start preparing sample pub-quiz questions
+	-- Test out Kahoot-Test limit on the number of users        
+
+ 

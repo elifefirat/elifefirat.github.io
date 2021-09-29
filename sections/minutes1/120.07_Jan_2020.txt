@@ -1,0 +1,54 @@
+Minutes of Meeting: Bob, Elif, Dylan
+
+Date:       07.01.2020
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: ? January 2020
+
+Topics Discussed: 
+    -- Bob away 15-22 in Jan
+    -- Nottingham
+    1) We assessed and compared each tool informally based on the quality of the rendering the use of
+           color, the presence and legibility of labels, and clearly marked axis scales. (use bullet points)
+    2) In order to select appropriate data sets for the literacy test, we assessed them against the following criteria:
+       -Multi-dimensional- 4 or more dimensions
+       -Size a minimum of 5 records and a maximum of 5000
+       -Based on a theme that is not too esoteric
+       -Clearly identifiable dimensions
+    
+     
+
+Progress:
+    -- Alena has the link to EG Edu CFP
+    -- High-D PCoords tool tested- use the chemical data set
+    -- The first draft of "identifying tools" and "exploring data sets"
+    -- Histogram of tools used in data vis class for PCoords plots
+    -- Questions from previous papers identified
+    -- Next survey paper summary on cognitive characteristics
+    -- Tick added to the chosen point size
+    -- Consistent text size
+    
+
+TODO:
+    -- Bob read treemap paper
+    -- Print treemap supplementary material for Bob
+    -- Next draft of "Identifying tools" and "Exploring data sets"
+    -- Add section called "PCoords questions from previous research"
+       - Include questions and short summary of those papers
+       - How do they classify questions? Whats features of PCoords are they attempting to evaluate?
+    -- Start writing section called "Developing a PCoords literacy tool"
+    -- Put PCoord pdfs together on an online folder
+    -- Scan copy of Bob's feedback and send to Bob
+    -- Next survey paper summary
+    -- Make sure save/load feature is still working
+    -- Create a demo video of PCoords literacy tool showing all features
+    -- Update treemap video
+    -- Start a new folder for a label placement papers
+    -- Look for a label placement survey paper
+    
+
+
+
+
+

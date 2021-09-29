@@ -1,0 +1,49 @@
+Minutes of Meeting: Bob, Elif, Dylan
+
+Date:       18.12.2019
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 8 January 2020
+
+Topics Discussed: 
+	-- Dataset- Tipping, Olive oil, GDP per country- Good
+	-- Titanic, Pollen, Circles- Not good
+	-- Life expectancy at birth- Good/Maybe
+	
+ 	
+
+Progress:
+	-- Treemap paper with EG Edu template format
+	-- Treemap paper draft with review3er feedback
+	-- Next survey paper summary (Data and Information Literacy)
+	-- PCoords in Excel Analytic Solver
+	-- Folders of PCoords images organized by tool
+	   Excel, Mondrian, Quadrigam, Sliver, Spotfire, XMDV
+	-- White background, "Remove Legend" removed, Shape Axis->5th Axis
+	-- Changing font size of labels
+
+
+TODO:
+	-- Send Alena the link to Eurographcis Education papers CFP (cc:Bob)
+	-- Put the supplementary material in EU Edu track format- Print for Bob
+	-- Print out if response letter- Long version for Bob
+	-- Next draft of summary on data and information literacy
+	-- Next survey paper summary
+	-- Find out what the attributes of the pollen, olive oil datasets are good
+	-- For each good datasets write a description including where you found it and attribute description
+	-- Try to recreate PCP on elections in ESTAT
+	-- Continue writing paper, "Developing a PCoords literacy test"
+          -Subsection called "Exploring data sets" and "Identifying tools"
+        -- Create a histogram of used by students on A1 for 2018+2019
+	-- Make a list of PCoord Questions from previous papers: VLAT, 
+           - Look in related work section of CHI PCoords paper
+	-- Look for user studies on scatterplots- Collect them in an online folder
+	-- Add a "Tick" next to currect label size
+	-- Make all labels consistent font size (Axis Labels)
+	
+
+
+
+
+

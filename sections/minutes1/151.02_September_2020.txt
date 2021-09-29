@@ -1,0 +1,30 @@
+Minutes of Meeting: Bob, Elif, Alena, Xiaoxiao, and King
+
+Date:       02.09.2020
+Start time: 11.00
+End time:   12.20
+
+Date and time of next meeting:  9 Sept 2020 11.00 
+
+Topics Discussed: 
+ 	-- Aarhus
+
+Progress:
+	-- 60 participants acquired in PCP literacy
+	-- First draft of experimental setup section
+	
+	
+
+TODO:
+	-- Write as much as detail by default 
+          (we can remove content as necessary)
+	-- Supply Alena with data / experimental results
+	-- Rank questions by average number of correct answers
+	-- Rank questions bu average task time
+	-- Put out paper in CHI 2021 format
+	-- Invite Alark as a reviewer for CHI paper
+	-- Draft a qualitative analysis section
+	-- Refer to treemaps paper for organization
+	-- Have a look at treemap paper reviews from CHI 2020
+	    
+ 

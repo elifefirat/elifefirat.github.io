@@ -1,0 +1,28 @@
+Minutes of Meeting: Bob, Elif, Xiaoxioa
+
+Date:       18.11.2020
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 25 Nov 2020 11.00 
+
+Topics Discussed:
+	-- Unspoken rules in visualization aesthetics
+	-- Future challanges in physocology and visualization
+
+
+Progress:
+	-- Bob reviews pages 1-10 of survey
+	-- Next draft of survey
+	-- Right-click-> upward/downward slope edges
+	-- Average slopes in circle -> Number of edges mapped to magnitude, length
+	-- Bob reviews crowd-sourcing section of survey	
+	
+
+TODO:
+	-- Update right-click menu with checkmarks to show what is in or off
+	-- "Slope in circle" --> "Avg slope in lens"
+	-- Right click --> "Avg slope in lens" shows 2 glyphs- Avg positive and negative
+	-- Make min size glyph legiable as an arrow
+	-- Start working on future work challanges for survey
+	-- Next draft of survey

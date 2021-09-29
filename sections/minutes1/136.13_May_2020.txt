@@ -1,0 +1,39 @@
+Minutes of Meeting: Bob, Elif, Dylan via Skype
+
+Date:       13.05.2020
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 20 May 2020
+
+Topics Discussed: 
+    -- Amazon Mechanical Turk 
+
+
+Progress:
+    -- Final draft of Treemap Literacy Presentation
+    -- Follow up on the registration
+    -- Treemap presentation question slides
+    -- Next draft of PCoords slides tutorial
+    -- Next draft of PCoords software tutorial
+    -- Amazon Mechanical Turk test
+
+
+TODO:
+    -- Dylan register for EGEV 2020
+    -- Decide when to invite Alena to calls/meetings
+    -- Feedback on slides tutorial
+       S4 2.33 need to process of location and connection
+       S6 "Parallel coordinates with five dimensions"
+       S6 Make axes straight up and down look for the grid, 4.12
+    -- Feedback on video tutorial
+       1.52 , 3.28, 3.40, 4.17, 7.30
+    -- Next draft of slides and video tutorials
+    -- Read the crowdsourcing and see what helpful advice it offers
+    -- Work on ID problem
+    -- Draft 20 pre-test questions and 20 post-test questions-
+       include classification from paper
+    -- Include at least 4 questions that use PCoord software
+    
+
+             

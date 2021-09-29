@@ -1,0 +1,47 @@
+Minutes of Meeting: Bob, Elif, Dylan
+
+Date:       25.09.2019
+Start time: 11.050
+End time:   12.50
+
+Date and time of next meeting: 2 October 2019, Visible Lunch
+
+
+Topics Discussed: 
+	-- Idea: PCoords literacy test
+	-- Idea: A label placement for PCoords
+	-- "A Review of the concept"-Related Work
+ 	-- "Do algorithm animation aid learning"-Out of scope-GE
+	-- "Got game"-Out of scope-GE
+	-- "Learning algorithms"-Out of scope-GE
+	-- "A new approach to"-Out of scope-GE
+	-- "How do people"-Place in sensemaking folder
+	-- "Glass" is not a paper
+	-- "Data vis literacy"- Out of scope, put into graph literacy subsection
+
+
+Progress:
+	-- CHI full paper submission-Well done!
+	-- Next vis literacy paper summary
+	-- In scope and out of scope subsections added to survey
+	-- Added Educlust and PCoords papers to survey
+	-- Save/load and resize
+
+TODO:
+	--Start writing related work on PCoords paper-Cite SoS and SoB
+          cite survey papers on PCoords-Look for user study papers
+	-- Visible Lunch tomorrow
+	-- Search for more vis literacy papers-"The correlation between.."
+	-- Write survey introduction
+	-- Add "General education" subsection to out of scope section
+	-- Place all "sensemaking" papers into their own folder on sensemaking
+	-- Check authots websites for more related papers
+	-- "Menu" -> "File" comes first (left-most menu)
+	-- Remove unnecessary warnings
+	-- User right clicks on shape and "update color" option appears
+	 
+	
+
+
+
+

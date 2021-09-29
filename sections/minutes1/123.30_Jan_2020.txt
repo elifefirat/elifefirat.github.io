@@ -1,0 +1,46 @@
+Minutes of Meeting: Bob, Elif, Dylan
+
+Date:       30.01.2020
+Start time: 12.50
+End time:   13.00
+
+Date and time of next meeting: 12 March 2020
+
+Topics Discussed: 
+	-- SciVis SoS 
+	-- Labels
+	-- Think about a matrix tool on y axis and data set on x axis   
+     
+
+Progress:
+	-- Bob reviews next draft of video
+	-- Next draft of video
+   
+
+TODO:
+	-- User Option: Matching Labels and Non-Matching Labels
+	-- Video Feedback:
+           Title: A Tool to Support parallel Coordinates Literacy
+           0:07 "Draw shapes" -> "Define points"
+           0:13 "The point" -> "Any point"
+           0:31 "Context menu" -> "Right-Click menu"
+	   0:38-0:40 Explain appearences of third and forth axes
+	   0:41 Use complete sentences, "also represents" -> "is also mapped to"
+	   2:00 Why do you have a labels option
+           2:48 "is bound" -> "is mapped to"
+           3:00 "relative" -> "representing", "in and out" -> "on and off"
+        -- User option: Drawing edges in PCoords to define points in Cartesian coords plot
+	-- For each image try to have a question that covers each question category
+	-- Add short description of each image
+	-- Find out if Mondrian has axis scale
+	-- Keep track of tools vs data set images in a matrix as go along
+
+           
+
+	   
+
+
+	   
+
+
+

@@ -1,0 +1,49 @@
+Minutes of Meeting: Bob, Elif, Dylan, King
+
+Date:       19.08.2020
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 26 Aug 2020 11.00 
+
+Topics Discussed: 
+       -- Ligben.lc
+       -- Average Polylines
+
+
+
+Progress:
+	-- Fully randomize questions, Xiaoxiao takes pilot test
+	-- Pubquiz- max 20 people
+	-- 4 sections: General, pictures, audio, video
+	-- User Option: Grid-based polylines intersections computed at run-time
+	-- User Option: Dynamic box of intersection
+
+
+TODO:
+	-- Elif send Bob a reminder about meeting with Alark
+	-- Try a pilot test with the number of participants Alena recommends
+        -- Add "Click in this image to enlarge it" to each question description
+	-- Takes notes on what you improved after pilot study
+	-- Invite Alena to next meeting and share the pilot study
+	-- Start making initial charts of pilot study results
+	-- Try jpeg images instead png
+	-- Add a pre-experiment question "What device are you using?"
+	-- Reduce extra space on sides of tutorial video
+	-- Add text progress bar
+	-- Find out how much it costs for more than 20 pub quiz participants
+	-- Create 10 PCoords images based on density: 1, 10, 100, 500, 1k, 2k,
+           4k, 8k, 10k, 20k polylines
+	-- Update CGCV team that you have a draft of the pub-quiz
+	-- Highlight only current grid cell
+	-- Try to make grid cells a square and circle
+	-- User Option: Number of boxes along x and y axes
+	-- Show polyline intersections for dynamic box
+	-- Check "Real-time rendering" book for fast intersection tests- and
+           "Real-time collision detection" book
+	-- Vis Resources-Summarize first two papers-Educational research papers
+           with online resources-Start with 2
+	-- Observe Wang's meetings
+    
+
+ 

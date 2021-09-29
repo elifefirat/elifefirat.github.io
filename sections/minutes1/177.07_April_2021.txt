@@ -1,0 +1,28 @@
+Minutes of Meeting: Bob, Elif over Skype
+
+Date:       07.04.2021
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 14 April 2021 11.00
+
+
+Topics Discussed:
+	-- Bob's coding conventions
+	-- Bob's debugging conventions
+
+
+Progress:
+	-- Elif writes to CG&A about special issue
+	-- Next draft of the survey
+	-- Help with the EG Edu presentation
+	-- F+C working again
+	
+
+TODO:
+	-- Put survey into CG&A template
+	-- Add cover letter to CG&A submission
+	-- Invite Mohammed to the next meeting
+	-- Review Bob's debugging strategies
+	-- Incorparete guidelines #4 and #6 
+	-- Demonstrate your output from guideline #4 to Bob

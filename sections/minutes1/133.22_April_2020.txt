@@ -1,0 +1,32 @@
+Minutes of Meeting: Bob, Elif, Dylan via Skype
+
+Date:       22.04.2020
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 22 April 2020
+
+Topics Discussed: 
+	-- Kodagoda-Gui Evaluation
+	-- Maltese- Line graph & Scatterplots
+	-- Wojton- Case study
+	-- Slides and video tutorial feedback
+
+Progress:
+	-- Survey Figure 1, Table 2 & 3, next draft
+	-- Next draft of PCoords literacy paper
+	-- Next draft of PCoords Slides
+	-- First draft of video tutorial with software
+
+TODO:
+	-- Test out MTurk with a question ask Dylan to answer it
+	-- Add authors' names to Tables 2 & 3
+	-- Next survey paper summary
+	-- Bob review PCoords literacy paper
+	-- Next draft of PCoords literacy after Bob review
+	-- Check EduClust related works for more papers
+	-- Next draft of PCoords Slides
+	-- Add Cartesian Coordinates construction to software video
+	-- Add ability to load data sets
+           - Trying to follow Tableau file format conventions
+	   - Look at the Xmdv format

@@ -1,0 +1,33 @@
+Minutes of Meeting: Bob, Elif over Skype
+
+Date:       08.06.2021
+Start time: 11.00
+End time:   12.40
+
+Date and time of next meeting: 15 June 2021 11.00
+
+
+Topics Discussed:
+	-- The review process
+	-- Compute cell location
+	-- Interaction with matrix cells
+	-- Raidov16- Yes
+	-- Coi19- Yes only if it's reviewed
+	-- Marking exams for Max
+
+
+Progress:
+	-- Vis resources finally accepted
+	-- First version of parameter matrix
+	-- Next related papers
+
+TODO:
+	-- Use white background for parameter matrix
+	-- Add labels to row and column headers
+	-- Highlight matrix cells that are shown on PCP-Green
+	-- Provide a demo video that demonstrates run-time lens,
+           pre-computed lens, PCP glyphs, and matrix glyphs,
+           and subtraction operator, min-max scale
+	-- Meet with Mohammed about computing cell location
+           (as opposed to searching for it) - set up appointment
+	

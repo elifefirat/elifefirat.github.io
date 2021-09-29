@@ -1,0 +1,46 @@
+Minutes of Meeting: Bob, Elif, Dylan
+
+Date:       11.03.2020
+Start time: 11.10
+End time:   13.00
+
+Date and time of next meeting: 18 March 2020
+
+Topics Discussed: 
+	-- Coronavirus
+	-- Bay Campus
+
+
+Progress:
+	-- Eurographics Education paper accepted. Congratulations!
+	-- Printing is working
+	-- Email to Bum Chul Kwon
+	-- Bob send ethics form
+	-- Bob reviews PCoord questions
+	-- Bug fix with matching vs non matching labels
+	-- Next draft of IBFV video- Processes is good!
+	-- Asked about cost of Eurographics registration
+	-- Bob stops pension contrubtions
+
+
+TODO:
+	-- Make next attempt at ethics form
+	-- Add more variety of software and datasets to PCoords questions
+	-- Try to populate tool vs dataset matrix
+	-- Start writing about the "Image generation process"
+	-- Try some images with n<10 polylines that are color-coded	
+	-- Start new table: 
+           Y-axis: Tool name, X-axis: Color mapped polylines, customizable color map,
+           axis labels, customizable axis labels, min-max values, customizable min-max values,
+           customizable backgroung color, customizable polyline color choice
+        -- Next version of IBFV video- Reset original setting before showing new ones,
+           especially between tabs
+	-- Try a screen capture of just a window
+
+	   
+
+
+	   
+
+
+

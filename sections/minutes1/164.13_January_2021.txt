@@ -1,0 +1,28 @@
+Minutes of Meeting: Bob, Elif over Skype
+
+Date:       13.01.2021
+Start time: 11.00
+End time:   12.55
+
+Date and time of next meeting: 20 Jan 2021 11.00 
+
+Topics Discussed:
+	-- Ensemble Vis Meeting
+
+Progress:
+	-- Reviever response to PCP literacy paper
+	-- Bob reviews survey
+
+TODO:
+	-- Next draft of PCP literacy paper
+	-- Out PCP paper into journal format
+	-- Try to identify how previous papers relate to ours 
+           What do they have in common? How are they different?
+           What previous knowledge do they assume?
+	-- Add more columns to Table 1: Number of tasks, number of questions,
+           amount of previous knowledge assumed, tool used, what is evaluated
+	-- Have a look at Chao Tong, Mohammed and Dylan's related work table
+	-- Add visual design being evaluated to Table 1
+	-- Make sure all points from cover letter are incorporated in next draft of paper
+	-- Write a summary report about previous and future papers
+	-- Score exams by 25 Jan

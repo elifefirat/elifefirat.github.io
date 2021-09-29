@@ -1,0 +1,30 @@
+Minutes of Meeting: Bob, Elif, Dylan via Skype
+
+Date:       08.04.2020
+Start time: 11.00
+End time:   12.45
+
+Date and time of next meeting: 15 April 2020
+
+Topics Discussed: 
+	-- Parallel Coordinates Explorer
+	-- US prediction-Peak death 12 April, 2,212 (894,5,115)
+	-- UK prediciton-Peak death 22 April, 2,825 (934-9,833)
+
+Progress:
+	-- Survey paper summary
+	-- Next draft of PCoords paper
+	-- Dylan proofread PCoords paper
+	-- Camera-ready version of Treemap paper+video
+	-- Next draft of IBFV video-Good job!
+
+TODO:
+	-- Include a histogram of year vs #of papers (stacked histogram)-Similar to Dylan's SoB
+	-- Add # of participants to Table 1
+	-- Send Bob a copy of EuroVis star submission
+	-- Try a table of papers y-axis, visual design x-axis
+	-- Bob review PCoords paper
+	-- Prepare PCoords tutorial slides
+	-- Next draft of survey paper
+	-- Next draft of PCoords paper after Bob reviews
+	-- Send Bob copy of IBFV video demo!

@@ -1,0 +1,42 @@
+Minutes of Meeting: Bob, Elif, Dylan, Alena via Skype
+
+Date:       03.06.2020
+Start time: 11.00
+End time:   13.15
+
+Date and time of next meeting: 10 June 2020
+
+Topics Discussed: 
+        -- Vis Group takes test before pilot
+	-- "How many days are there in a week?"
+	-- "How many legs does a cat have?"
+	-- Including same questions twice
+	-- Prolific
+	-- Idea: Use image editor
+
+
+Progress:
+        -- Read survey paper on crowdsourcing
+	-- Next draft video tutorials
+	-- Next version of software: Added color legend, label sizes
+	-- Good job at EGEV 2020 conference
+	 
+TODO:
+	-- Prepare instructions video for participants
+	-- Ask Alena about a previous button
+	-- Find out which software allows font enlargement of labels to increase font size
+	-- Avoid labels being cut off
+	-- Try for 100 users for main study (not pilot)
+	-- Read David Chung's user study paper on visual orderability
+           -find out how many participants he has
+	-- Alena as pilot
+	-- Investigate cost of using prolific
+        -- Slides tutorial 2:20 "three attributes->two attributes, x and y"
+	-- Instructions-Send Bob text and interview questions
+	-- Software: Show number of records
+	-- Test out rest of datasets used in literacy paper
+	-- User option: Axis reordering drag-and-drop
+	-- Look previous implementations
+    
+
+             

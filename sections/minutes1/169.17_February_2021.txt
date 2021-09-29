@@ -1,0 +1,34 @@
+Minutes of Meeting: Bob, Elif, Xiaoxiao over Skype
+
+Date:       17.02.2021
+Start time: 11.00
+End time:   12.50
+
+Date and time of next meeting: 24 Feb 2021 11.00 
+
+Topics Discussed:
+	-- Max's feedback
+	-- Josheph Best
+
+
+
+Progress:
+	-- Bob starts reviewing PCP paper
+	-- Grid with average positive and negative slope for each grid cell
+           and number of positive and negative slope edge intersections
+	-- Ensemble Vis
+	-- Survis webpage
+
+
+TODO:
+	-- Bob finish reviewing PCP paper
+	-- Next draft of PCP paper
+	-- Ask Max what his teaching schedule is
+	-- Add some new text describes the bar charts
+	-- User Option: Set background color to black
+	-- Pre-compute
+	-- Pre-compute grid-cell information: number of positive and negative
+           slope edge intersections and average positive and negative slopes per cell
+	-- Show the Ensemble vis data
+	-- Display number of polylines rendered
+	-- Ask Josheph Best for help with web server on monday

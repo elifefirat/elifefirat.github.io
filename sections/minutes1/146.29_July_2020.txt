@@ -1,0 +1,58 @@
+Minutes of Meeting: Bob, Elif, Dylan, Xiaoxiao via Skype
+
+Date:       29.07.2020
+Start time: 11.00
+End time:   12.40
+
+Date and time of next meeting: 5 Aug 2020 11.00 
+
+Topics Discussed: 
+        -- Interactive hierarchical displays: A general framework for visualization
+           and exploration of large multivariate datasets
+	-- 10-11 Sept 2020 CGVC
+	-- Cats
+
+
+
+Progress:
+        -- Louise Brown
+	-- Bob reviews PCoords Questions
+	-- Checked Zhi et all 2012 previous user studies
+	-- Bugs fixed for min/max values
+	-- Applying for ethics
+	-- Vis resources: Books with supplemantary material
+ 
+
+TODO:
+	-- Bob request an afternoon
+	-- Prepare slides for invited talk for research development network
+	-- Modify PCP questions document to show sanity questions at the begining
+	-- Add new/old paper to related work section
+	-- Write a Pseudo-code precedure for polyline-axis intersection map (below)
+	-- Propose intermediate deadlines/timeline for paper submission
+	-- Final version of instruction video
+	-- Create an "out-of-scope" books list and move them to bottom of section 11.4
+	
+
+ Psuedo Code:
+
+     For each polyline/data record  currentEdge= GetFirstEdge()
+         Compute intersection on first axis
+         Current axis = GetNextAxis()
+     
+     For each polyline/data record
+         CurrentEdge = GetFirstEdge()
+	 CurrentAxis = GetFirstAxis()
+	 IntersectionPoint = ComputeIntersection (CurrentEdge, CurrentAxis)  
+         CurrentAxis.AddIntersectionPoint (IntersectionPoint)
+
+        For each axis
+            CurrentEdge = GetNextEdge()
+            CurrentAxis = GetNextAxis()
+            IntersectionPoint = ComputerIntersection (CurrentEdge, currentAxis)
+            CurrentAxis.AddIntersectionPoint(IntersectionPoint)
+        End for each axis
+
+     End for each polyline        
+
+Objects: Polyline, edge, axis, point   

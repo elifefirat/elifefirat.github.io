@@ -1,0 +1,46 @@
+Minutes of Meeting: Bob, Elif, Dylan, Rodhri
+
+Date:       09.10.2019
+Start time: 11.00
+End time:   12.25
+
+Date and time of next meeting: 16 October 2019
+
+Topics Discussed: 
+	-- CleanTechIndex-Good
+	-- Diamond features- Not good- Diff to see
+	-- Furniture-Not good
+	-- Laborcost-Good
+	-- Movie-Ok
+	-- ParallelCo3-Not good
+	-- Tableau-Not good
+
+Progress:
+	-- Next draft of survey introduction
+	-- Next draft of PCoords related work section on user studies
+	-- Next survey paper summary
+	-- "File" move to left menu
+	-- User right-clicks to change shape
+	-- PCoords images collected
+
+TODO:
+	-- Next draft of survey introduction with updated out-of-scope section
+	-- Next draft of PCoords related work section on user-studies
+	-- Look for more papers focusing on user-studies of PCoords
+	-- Look for user-studies on treemaps
+	-- Start an online folder of pdfs for user-studies on PCoords
+	-- Start an online folder of pdfs for user-studies on Treemaps
+	-- Add new out-of-scope sub-section on user-studies in visualization-cite Glyph
+	-- Ask journal editor status of paper on diversity
+	-- Keep color-legend until user deletes it-Right click and then delete or user deletes the shape
+	-- Circle, small as default shape on cartesian coordinate plot circle
+	-- The resize knob highlights with on-mouse-over
+	-- Knob on color bar highlights when user hovers mouse over it
+	-- Start 2 new Pcoord sub-folders for images: "Good", "Not good", and "OK"
+	-- Collect some more PCoords images- Look at our papers and other papers
+
+	
+
+
+
+

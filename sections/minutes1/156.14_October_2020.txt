@@ -1,0 +1,29 @@
+Minutes of Meeting: Bob, Elif and Xiaoxiao
+
+Date:       14.10.2020
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 21  Oct 2020 11.00 
+
+Topics Discussed: 
+ 	-- Admin
+
+
+Progress:
+	-- Web page set up
+	-- Average polyline
+	-- Default value for grid-based intersections
+	-- Median point used for dimensions with string values
+	-- First trial of correlation arrow
+	-- Bob reviews first 5 pages of survey
+	
+
+TODO:
+	-- User Option: Average polyline
+	-- User Option: Display correlation coefficient at bottom between axes alone with arrows
+	-- Compute glyph angles as a continous function with 180 different angles
+	-- Improve arrow glyphs aesthetics
+	-- Double-check minutes of meeting for more "Idea" meetings for entire previous year (Sept 19)
+	-- Next draft of survey
+	-- Add "Vis Author profiles" paper to Vis Resources section 6.2 and Cheat Sheets

@@ -1,0 +1,32 @@
+Minutes of Meeting: Bob, Elif, Dylan via Skype
+
+Date:       15.07.2020
+Start time: 11.00
+End time:   12.40
+
+Date and time of next meeting: 22 July 2020 11.00 / 16 July 2020 17.00 w/ Alark
+
+Topics Discussed: 
+        -- 
+
+
+Progress:
+        -- Bob reviews PCoords questions for user study
+	-- Zhi et al 2012 added to related work
+	-- Next draft of video instructions
+	-- User options: Number of bins along an axis [1-100]
+	-- Next draft of Poords user study questions
+
+
+TODO:
+	-- Next draft of Poords user study questions
+	-- Look at related work of Zhi et al 2012
+	-- Bob review PCoords questions
+	-- Draft text of educational resources
+	-- Change boxes to intervals
+	-- User option: Customizable/editable axis labels
+           via right-click menu directly on labels
+	-- Set up meeting w/ Dylan for help with axis labels
+	-- Introduce an imaginary axis half way between the
+           existing axes and test for polyline intersections
+             

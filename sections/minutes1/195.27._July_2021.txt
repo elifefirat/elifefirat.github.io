@@ -1,0 +1,28 @@
+Minutes of Meeting: Bob, Elif over Skype
+
+Date:       27.07.2021
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 3 August 11.00
+
+
+Topics Discussed:
+	-- Tropical Summer Festival
+	-- Meeting with Alark
+	-- Existing Survey: Glyphs, Uncertaninty
+           Multidimensional, Dimensionality Reduction
+           Interaction [KHG03]
+	
+
+
+Progress:
+	-- Alena modifies cover letter and paper
+	-- Draft of Ensemble Vis paper
+
+TODO:
+	-- Search for related surveys on tutorial for Ensemble Vis
+	-- Quote definations of important visualization terms from 
+	   existing surveys or textbooks (SoS, SoB, VisResources)
+	-- Ask Alena to clarify "Representativeness" comment
+	-- Bob think about PCP + Glyph problem

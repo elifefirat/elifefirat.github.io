@@ -1,0 +1,31 @@
+Minutes of Meeting: Bob, Elif over Skype
+
+Date:       21.04.2021
+Start time: 11.00
+End time:   12.40
+
+Date and time of next meeting: 29 April 2021 11.00
+
+
+Topics Discussed:
+	-- Renting a room
+	-- Debug mode vs release mode
+	-- Computing correlation only once
+	-- Lost connections by Jonahn Hari
+	-- Teaching
+	-- Literacy survey
+	-- Table 2 of full education survey
+
+Progress:
+	-- Two meetings with Mohammed
+	-- Refactoring software
+ 
+TODO:
+	-- Liase with techinicans on the new laptop
+	-- Test PCP software on new laptop and desktop
+	-- Add a paragraph to out of scope section of survey
+	   "static graph literacy" with 2-3 citation
+	-- User option: "All ages" below age 7
+	-- Draw a sketch of the difference operator
+	-- User option: Difference operator
+	

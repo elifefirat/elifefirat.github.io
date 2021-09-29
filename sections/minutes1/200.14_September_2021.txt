@@ -1,0 +1,34 @@
+Minutes of Meeting: Bob, Elif
+
+Date:       14.09.2021
+Start time: 13.00
+End time:   14.10
+
+Date and time of next meeting: 21 September 2021 
+
+
+Topics Discussed:
+        -- Smooth transitions in Qt
+	-- Make sure Swansea minutes are saved
+	
+
+
+Progress:
+	-- Next draft of DPCP paper
+	-- CGVC 2021 session chair
+	-- Improvement of labels 
+	-- Figure 2 of survey updated
+	-- Table 3 description added
+	-- New table 7 on how vis literacy is tested-which aspect
+	
+
+TODO:
+	-- Place labels on top of axes when collapsin axes
+           (axes dont change length)
+	-- Ask Dylan how he did smooth glyph transitions
+	-- Overview image for DPCP paper
+	-- Draft axis correlationglyph sub-section
+	-- Include new vis literacy papers (2021)
+           -user study, case study (3 new ones)
+        -- Update description of Figure 2 in survey with numbers   
+	-- All minutes of meetings together

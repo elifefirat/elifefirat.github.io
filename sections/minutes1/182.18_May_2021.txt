@@ -1,0 +1,24 @@
+Minutes of Meeting: Bob, Elif
+
+Date:       18.05.2021
+Start time: 15.00
+End time:   15.40
+
+Date and time of next meeting: 25 May 2021 11.00
+
+
+Topics Discussed:
+	-- Paper: Dynamic edge glyph lens, Static edge glyph lens,
+                  Axis correlation glyphs, Subtraction operator,
+	          Matrix view with glyphs-Correlation
+
+Progress:
+	--  Next version of subtraction operator
+
+ 
+TODO:
+	-- Set max age to 7 always- Keep all global maximums for subtraction
+	-- Indicate 0 values with a very small white point on any axis with negative values
+	-- See Minutes from 12 May '21 
+	-- Make sure features are working
+	-- Delete focus&context	

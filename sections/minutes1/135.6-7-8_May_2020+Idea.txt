@@ -1,0 +1,48 @@
+Minutes of Meeting: Bob, Elif, Dylan via Skype
+
+Date:       06-07-08.05.2020
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 13 May 2020
+
+Topics Discussed: 
+    -- OBS, Shotcut
+    -- 10 May 2020-Treemap presentation deadline
+    -- Q&A on treemap presentation
+    -- Axis ordering
+    -- Mapping color to x-axis?
+
+Progress:
+    -- First draft of treemap video presentation (Good)
+    -- Bob reviews next draft of PCoords draft
+    -- Amazon Mechanical Turk Test
+    -- Next draft of EGEV presentation
+    -- Next draft of PCoords slides and video tutorials
+     
+TODO:
+    -- 6 April: EG Presentation feedback
+       S5 Add images, S6 VLAT, S6 "the most popular", S7 Describe the assessment
+       S7 Title "Treemap Literacy in the classroom, S7 Why are you doing this? 
+       S7 Mention some difficult ones 17-18, S9 Title "Video Demonstration"
+       S10 What are you showing and why?, S11 Title "Classroom Evaluation"
+       S12 Quantitative Experimental result
+    -- Next draft of treemap video presentation
+    -- Add audio of the audience clapping at the end
+    -- Follow up on EGEV registration via an email
+    -- Test out the combination of AMT and Qualtrics
+    -- Google: "Qualtrics video embedding"
+    -- PCoords Slide Tutorial 1:21  S6  S8, 2.14, 2.54, 4.37
+    -- PCoords Software Tutorial 2.21, 2.50, 4.07, 4.33, 4.45, add car example
+    -- 8 April:  EG Presentation feedback
+       S5 Alper et al. at early --> for early, Lee et al. VLAT(Vis Literacy Assessment Test)
+       that studies the most frequently used visual designs
+    -- Prepare question slides for EG presentation
+       "What do you mean with pre-test and post-test?"
+       "What was your experimental procedure?"
+       "It looks like one group was better than the other."
+       "What do the most difficult questions look like?"
+       "How did you come up with 5 literacy barriers?"
+    -- Bob ask the group to register EGEV + Alena
+  
+

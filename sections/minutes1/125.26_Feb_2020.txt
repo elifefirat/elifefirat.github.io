@@ -1,0 +1,40 @@
+Minutes of Meeting: Bob, Elif
+
+Date:       26.02.2020
+Start time: 11.00
+End time:   12.45
+
+Date and time of next meeting: 4 or 11 March 2020
+
+Topics Discussed: 
+	-- Moving
+	-- User study
+	-- 28 Feb- EG Edu Notification
+	-- Money
+	-- David Adjiashvili
+     
+
+
+Progress:
+	-- New visa!
+	-- Voluneteering for Eurographics/Eurovis
+	-- Bob prints out PCoords
+	-- Bob reviews first 15 questions
+	-- Bug fix with matching vs Non-matching labels
+	-- First draft of IBFV video
+	
+TODO:
+	-- Apply ethics for user study
+	-- Continue filling in image matrix of dataset vs tool
+	-- Ask Dylan to check PCoords literacy question descriptions
+	-- Next draft of PCoords questions for litearcy test
+	-- Show Bob IBVF software on laptop in Nottingham
+	-- Copy PCoords software for Bob
+
+	   
+
+
+	   
+
+
+

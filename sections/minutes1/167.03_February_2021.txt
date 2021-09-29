@@ -1,0 +1,33 @@
+Minutes of Meeting: Bob, Elif, Xiaoxiao over Skype
+
+Date:       28.02.2021
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 10 Feb 2021 11.00 
+
+Topics Discussed:
+	-- Plumber
+	-- XFig, Inkscape
+	-- Information Visualization Journal
+
+
+
+Progress:
+	-- Next draft of PCP
+	-- Survey paper revison
+	-- Bob updated his web page
+	-- Start of SurVis web page
+	-- Ensemble vis demo
+
+
+TODO:
+	-- Ask Wang and Mohammed for help with figures caption
+	-- Use phrase "custom made" for tools that are developed by the author
+	-- Next draft of Table 1 with more precise tool information
+	-- Revise Figure 2 with correct space
+	-- Ask Wang and Mohammed what tool they would use for Figure 2
+	-- Next draft of survey paper
+	-- Setup SurVis page for survey aper on a web server
+	-- Test out new laptop
+	-- Leave out the glyphs and lens from demo

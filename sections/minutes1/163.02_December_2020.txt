@@ -1,0 +1,25 @@
+Minutes of Meeting: Bob, Elif, Xiaoxioa over Skype
+
+Date:       02.12.2020
+Start time: 11.00
+End time:   12.45
+
+Date and time of next meeting: 2 Dec 2020 11.00 
+
+Topics Discussed:
+	-- Trip to Turkey- 9th Dec
+	-- Xiaoxiao flies to the UK (NLP)- 5th Feb
+	-- Large data sets
+	-- T-SNE
+
+
+
+Progress:
+	-- Draft of survey including future work and conclusion
+	-- Show number of intersecting edges with positive and negative slope	
+	-- Update PhD end date
+
+TODO:
+	-- Next draft of survey
+	-- Adapt dynamic lens and glyphs to large data sets using grid-based approach
+	-- Look for a place to submit survey

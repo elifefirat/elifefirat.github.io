@@ -1,0 +1,43 @@
+Minutes of Meeting: Bob, Elif, Dylan
+
+Date:       19.02.2020
+Start time: 11.00
+End time:   12.50
+
+Date and time of next meeting: 26 March 2020
+
+Topics Discussed: 
+	-- Moving
+     
+
+
+Progress:
+	-- Matrix of tool vs dataest images started
+	-- Next draft of PCoords Test Questions
+	-- Darft of PCoords Paper
+	-- Email to previous PCoords Literacy paper's author
+	-- Next draft of software tool demo video PCoords-Good!
+	-- First version of "matching vs non-matching" labels
+	-- Defining edges in PCoords creates points on Cartesian plot
+
+TODO:
+	-- Take screenshots and screen capture demos to softaware development process
+           Upload them to web server
+	-- Store original PCoords images online for each tool
+	-- Keep populating tool vs dataset image matrix
+	-- For each image in test questions state what the data set is,
+           what each polyline represents, and the name of each attribute in axis order
+	-- Record Skype calls so you review them and take notes
+	-- Bob provide feedback on paper and PCoords questions
+	-- Fix bug with matching vs non matching labels
+	-- Find out who developed AL's software
+	-- Double-check for PCoords CD-Rom         
+	-- Create demo video of IBVF  
+
+	   
+
+
+	   
+
+
+

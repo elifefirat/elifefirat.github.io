@@ -1,0 +1,35 @@
+Minutes of Meeting: Bob, Elif
+
+Date:       28.09.2021
+Start time: 11.40
+End time:   12.50
+
+Date and time of next meeting: 5 October 2021 
+
+
+Topics Discussed:
+        -- Focusmate
+	-- University of Michigan
+	-- Eytan Adar
+	-- 8th Oct Dinner
+	
+
+
+Progress:
+	-- Meeting with Dylan about smooth transitions
+	-- Axis lengths stay the same in PCP display
+	-- Overview image for DPCP paper
+	-- Bob reviewed DPCP paper
+	-- Shared treemap material with Alark and Ilena
+	-- New papers added to survey with updated tables 
+	
+
+TODO:
+	-- Try Github for minutes of meetings
+	-- Try an overview image with a white background
+	-- Draft 3.2 Dynamic Edge glyph lens	
+	-- Print out full length survey
+	-- For each paper, add column, 'number of citation'
+           for table 7
+	-- Try to get treemap software with current version
+           of Qt running

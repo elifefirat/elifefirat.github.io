@@ -1,0 +1,29 @@
+Minutes of Meeting: Bob, Elif 
+
+Date:       22.06.2021
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 29 June 2021 11.00
+
+
+Topics Discussed:
+	-- PCP Literacy Reviews
+	
+
+
+Progress:
+	-- Highlighting cells in matrix view adjacent axes in PCP
+	-- Glyphs on by default in PCP view
+	-- Glyph color mapping updated
+	-- Matrix view: User chooses row and sorts based on correlation coeficent
+	-- PCP Literacy Reviews back
+
+
+TODO:
+	-- Remove redundant glyphs in top/right half of matrix (cancelled)
+	-- Draw green highlight over red highlight in matrix
+	-- Sort PCP view in same order as matrix view
+	-- Ask Wang for a copy of his EHR star cover letter
+	-- Start drafting PCP Literacy cover letter
+	-- Start upadating PCP Literacy paper- All new text is in blue

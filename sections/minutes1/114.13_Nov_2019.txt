@@ -1,0 +1,45 @@
+Minutes of Meeting: Bob, Elif, Dylan
+
+Date:       13.11.2019
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 20 November 2019, 
+
+Topics Discussed: 
+	-- Nottingham Uni
+	-- Maria Hall, Nottingham Uni, Manager at Student Service
+	-- Visa and Immigiration Team
+  
+ 	
+
+Progress:
+	-- Paper accepted to "Dialogue with the Creative Economy"
+	-- Next draft of survey "Abstract and Scope Section (Vis for General Education)
+	-- Next draft of PCoords related work section
+	-- Color legend for each shape
+	-- Resize knob does not jump between shapes
+	-- Right-click--> Default size, color, shape
+	-- Color legend adjusment to color axis
+	-- Shape does not slide-reappear on opposite side
+	-- Applied to Nottingham for PhD program
+
+
+TODO:
+	-- Look for other user-study surveys to describe in the out-of-scope section of survey (Check Liam's SoS)
+	-- Seperate the other treemap papers from the treemaps with user studies using another folder (Collect only user study papers)
+	-- Look carefully Katy Borner's webpage and VLAT thesis for other papers on visualization literacy
+	-- Start a spreadsheet to record your literature search and what you have searched for
+	-- Make a default point size even smaller (too match a typical scatterplot plot- Look at Tableau)
+	-- Use blue points and edges by default similar to Tableau
+	-- If the user turns on color, it is mapped to the X-Coordinate by default
+	-- Possibly remove color legend for each individual shape/glyph
+	-- Compose a list of PCoords software used in A1 e.g. XMDV, XDAT
+	-- Find out what you need to transfer your visa -Talk to Wang
+	-- Consider suspending your studies at Swansea University for 3 months
+	-- Look up deadline for CHI response/rebuttal deadline
+	
+
+
+
+

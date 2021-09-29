@@ -1,0 +1,40 @@
+Minutes of Meeting: Bob, Elif, Dylan via Skype
+
+Date:       20.05.2020
+Start time: 11.00
+End time:   13.15
+
+Date and time of next meeting: TBA-3 June 2020
+
+Topics Discussed: 
+        -- Eurographics Presentations
+	-- 15 Pre-Test Questions + Video + 15 Post-Test questions
+	-- Prolific
+
+Progress:
+        -- Next draft of slides tutorial
+	-- Next draft of software tutorial
+	-- Another pilot study: Video first->Then questions
+	-- Draft of user study instructions
+	-- Software: Showing labels on PCP
+	-- First communication with Alena
+
+TODO:
+	-- Slides Tutorial feedback
+           2.34 Fix y-axis error->back to x-axis
+	   2.47 Axis confusion between y and x-axis
+	-- Software tutorial feedback 2.34 same error
+	-- Next draft of user-study instructions
+	-- Compose demographic questions
+	-- Draft post-test interview questions
+	-- Draft sanity questions
+	-- Loading more data sets
+	-- Draft 15 pre-test and 15-post test questions
+	-- Histogram of question classification distribution- # of Qs vs each category
+	-- Next draft of paper: PCoords
+	-- Ask Alena if she would like to join meetings
+	-- Bob & Elif look through Eurovis program to find interesting papers
+
+    
+
+             

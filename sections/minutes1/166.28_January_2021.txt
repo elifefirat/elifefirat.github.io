@@ -1,0 +1,38 @@
+Minutes of Meeting: Bob, Elif, Wang over Skype
+
+Date:       28.01.2021
+Start time: 11.00
+End time:   13.15
+
+Date and time of next meeting: 1 Feb 2021 11.00 
+
+Topics Discussed:
+	-- Insurance Claim
+	-- 18 Feb 21
+	-- Compare the market
+
+
+
+Progress:
+	-- Exam finished
+	-- Visguided paper submitted to EG Edu21
+	-- vis Resources paper submitted to EG Edu21
+	-- Annual Review done
+	-- Set up Bob's laptop
+
+
+
+TODO:
+	-- Ask if the template is correct (Alena or Max)
+ 	-- Split Table 1 into two tables
+	-- Re-organize Table 1 with the following columns
+           1.Paper, 2. User-Study Theme, 3.Visual Design, 4. Image Generation Tool,
+           5.Evaluation Method, 6. Evaluation tool, 7. Participtants 8. Tasks/Questions
+	-- Follow our survey classification when describing evaluation
+	-- Siirtola et al. 2006 --> User-study theme SQL vs PCP
+	-- PCP tools are either "Custom-made" or name of tool [ref]
+	-- 1. Lind et al. 2006 2. New axis layout 3. Enhanced PCP 4.Custom-made 5.Controlled user-study
+        -- Consider using survis for the survey
+	-- Next draft of PCP paper
+	-- Next draft of survey
+	-- Prepare demo for ensemble vis group

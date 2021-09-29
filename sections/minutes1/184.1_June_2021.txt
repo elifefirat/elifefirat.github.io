@@ -1,0 +1,25 @@
+Minutes of Meeting: Bob, Elif over Skype
+
+Date:       25.05.2021
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 1 June 2021 11.00
+
+
+Topics Discussed:
+	-- Johansson07- No
+	-- Artero04- Yes
+	-- Blass08-Yes
+
+Progress:
+	-- More related work papers for PCP paper
+	-- Updated GUI with groups and improved labels
+	-- User option global minumum axis values
+	-- Semi transparent circle for both lenses
+ 
+TODO:
+	-- Related work papers for PCPs and dense displays
+	-- Try computing cell location instead of searching
+	-- Try multiple windows for matrix view (square)
+	

@@ -1,0 +1,36 @@
+Minutes of Meeting: Bob, Elif, Dylan via Skype
+
+Date:       24.06.2020
+Start time: 11.00
+End time:   12.45
+
+Date and time of next meeting: 1 July 2020
+
+Topics Discussed: 
+        -- UoN reopening
+	-- Ergonimics
+	-- Small labels
+	-- 30th June meeting with Alark
+	-- Google meet
+	-- Google transcript
+
+Progress:
+        -- Bob reviews PCoords questions
+	-- Examples of overcrowded PCoords
+	-- Found tutorials on Pearson's cooefficient
+	-- Meeting with Alark on 30th June
+	-- Highlight and labels added to polylines
+
+TODO:
+	-- Next draft of PCoords questions
+	-- Add software application to PCoords questions descriptions
+	   so we can see how many different program you use
+	-- Take notes about which program are not useful for the user study
+	-- Have a look at previous questions in section 4.8 to see which one can be used
+	-- Still need an image with uniform points (no shape, minimal size) just like Inselberg's
+	-- Put 2-3 sanity questions at the beginging of each part: pre-test and post-test
+	-- Look at vis papers and double-check if they have vis resources
+	-- Load overplotted PCoords data in your software
+	-- Add a tooltip style annotation to PCP
+
+             

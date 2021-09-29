@@ -1,0 +1,25 @@
+Minutes of Meeting: Bob, Elif 
+
+Date:       22.06.2021
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 1 July 12.00, 6 July 11.00
+
+
+Topics Discussed:
+	-- Dylan
+	-- Reviwer 2
+	
+
+
+Progress:
+	-- Room got vacuumed!
+	-- Next draft of cover letter
+	-- Bob reviews PCP cover letter 
+
+
+TODO:
+	-- Debug PCP Software
+	-- Sort PCP view in the same order as matrix view
+	-- Next draft cover letter and paper
