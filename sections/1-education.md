@@ -5,16 +5,23 @@ permalink: /education
 image: education.jpg
 ---
 
+### Current- PhD Candidate (2018- )
 
-### First degree
-
----
-
-### Second degree
-
+University of Nottingham - Information Visualization
 
 ---
 
-### Third degree
+### Masters degree (2016-2017)
 
-eryyttrty
+Swansea University - Advanced Computer Science (Distinction)
+
+---
+
+### Bachelor degree (2010-2014)
+
+Inonu University - Computer Engineering (3.2 / 4.0)
+
+---
+
+
+
