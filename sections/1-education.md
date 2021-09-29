@@ -1,3 +1,4 @@
+.nojekyll 
 ---
 
 ### Current- PhD Candidate (2018- )
