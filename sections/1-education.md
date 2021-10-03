@@ -5,7 +5,7 @@ permalink: /education
 image: education.jpg
 ---
 
-### Current- PhD Candidate (2018- )
+### PhD Candidate (2018- )
 
 University of Nottingham - Information Visualization
 
@@ -13,13 +13,13 @@ University of Nottingham - Information Visualization
 
 ### Masters degree (2016-2017)
 
-Swansea University - Advanced Computer Science (Distinction)
+Swansea University - Advanced Computer Science 
 
 ---
 
 ### Bachelor degree (2010-2014)
 
-Inonu University - Computer Engineering (3.2 / 4.0)
+Inonu University - Computer Engineering 
 
 ---
 
