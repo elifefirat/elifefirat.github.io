@@ -5,19 +5,12 @@ permalink: /projects
 image: projects.jpg
 ---
 
+### Visualization Literacy
 
-### First project
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.
-
----
-
-### Second project
-
-Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit.
+The development and comprehension of data visualizations gain importance with the ever-increasing amount of data. My research is based on identifying and addressing barriers to visualization literacy to improve a non-expert user's visualization literacy skills. The aim is to advance user understanding and discovery by revealing patterns with the help of graphical representations. For this, I focus on developing educational visualization tools for specific visualization methods that illustrate data and provide an interactive interface that enables instructors and students to be involved in the process of learning by interacting with the visualization tool.
 
 ---
 
-### Third project
+### Minutes of Meetings
+<a href="https://github.com/elifefirat/Horizon/blob/12112c806b5f19f069f2b4caa65ebfd5ed6d58be/sections/minutes1" target="_blank">Minutes of Meetings</a>
 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit.
