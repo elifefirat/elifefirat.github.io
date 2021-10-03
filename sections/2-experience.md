@@ -4,15 +4,29 @@ title: Experience
 permalink: /experience
 image: experience.jpg
 ---
+### Invited Talks
 
-### Visualization Literacy
+"A Classroom-based Investigation" hosted by University of Nottingham Research Software Network, 7th August 2020
 
-The development and comprehension of data visualizations gain importance with the ever-increasing amount of data. My research is based on identifying and addressing barriers to visualization literacy to improve a non-expert user's visualization literacy skills. The aim is to advance user understanding and discovery by revealing patterns with the help of graphical representations. For this, I focus on developing educational visualization tools for specific visualization methods that illustrate data and provide an interactive interface that enables instructors and students to be involved in the process of learning by interacting with the visualization tool.
-
----
-
-### Minutes of Meetings
-<a href="https://github.com/elifefirat/Horizon/blob/12112c806b5f19f069f2b4caa65ebfd5ed6d58be/sections/minutes1" target="_blank">Minutes of Meetings</a>
+"Data Visualization Literacy" hosted by University of Nottingham Digital Research Group, 25th of September 2020
 
 ---
+### Teaching Assitant
 
+_University of Nottingham_
+
+COMP2013 -- Developing Maintainable Software (Winter, 2020 - Winter 2021)
+
+COMP1003 -- Introduction to Software Engineering (Spring, 2021)
+
+COMP3021 -- Fundamentals of Information Visualization (Spring, 2021)
+
+_Swansea University_
+
+CSCM37/CSC337 - Data Visualization (Spring-2018, 2019)
+
+CSCM64/CSC364 - Software Testing (Spring-2018, 2019)
+
+CS110 - Programming (Winter-2018)
+
+CSC061- Introduction to Programming (Winter-2018)
