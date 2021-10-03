@@ -15,11 +15,11 @@ image: experience.jpg
 
 _University of Nottingham_
 
-COMP2013 -- Developing Maintainable Software (Winter, 2020 - Winter 2021)
+COMP2013 -- Developing Maintainable Software (Winter-2020, 2021)
 
-COMP1003 -- Introduction to Software Engineering (Spring, 2021)
+COMP1003 -- Introduction to Software Engineering (Spring-2021)
 
-COMP3021 -- Fundamentals of Information Visualization (Spring, 2021)
+COMP3021 -- Fundamentals of Information Visualization (Spring-2021)
 
 _Swansea University_
 
