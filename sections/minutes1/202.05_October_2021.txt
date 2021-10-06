@@ -1,0 +1,36 @@
+Minutes of Meeting: Bob, Elif
+
+Date:       05.10.2021
+Start time: 11.00
+End time:   12.20
+
+Date and time of next meeting: 12 Oct 2021 
+
+
+Topics Discussed:
+        -- Submission to IJHCS
+	-- Including citations to literature reviews
+	-- IVAPP 2022
+	-- Eurovis 2022
+	-- Examiners	
+	
+
+
+Progress:
+	-- Minutes of meeting online
+	-- Bob reviews first 10 pages of survey
+	-- Treemap software working and material shared with Alark
+	-- Next draft of DPCP paper
+	-- Bob reviews DPCP paper
+	
+
+TODO:
+	-- Ask Nikolas Elmquist questions about submission
+	-- Submit .doc file fprmat tp IJHCS
+	-- Bob finish reviewing survey
+	-- Introduce a new sub-section in DPCP paper
+           "3.1 Ensemble data details" describe data in detail including each axis
+	-- Scan in Bob's DPCP paper feedback and send to Bob
+	-- Next draft of DPCP paper
+	-- Try .png format for high quality images
+	-- Reserve Prickly Pear dinner
