@@ -1,0 +1,31 @@
+Minutes of Meeting: Bob, Elif
+
+Date:       12.10.2021
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 19 Oct 2021 
+
+
+Topics Discussed:
+        -- Prickly Pear
+	-- Duncan P Brumby - EIC, IJHCS
+	-- Ben Swallow
+	
+
+
+Progress:
+	-- Next draft of survey
+	-- Next draft of DPCP paper
+	-- Bob reviews DPCP paper
+	
+
+TODO:
+	-- Update minutes of meeting online
+	-- You might still have to procide a .dox file for IJHCS
+	-- Bob make a pass at short paper
+	-- Scan Bob's DPCP paper feedback
+	-- Next draft of DPCP paper
+	-- Add a description of each dimension in an appendix
+	-- Draft 3.6 collapsing axis pairs
+	-- Show vis panel slides
