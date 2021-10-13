@@ -12,5 +12,5 @@ The development and comprehension of data visualizations gain importance with th
 ---
 
 ### Minutes of Meetings
-<a href="https://github.com/elifefirat/Horizon/blob/12112c806b5f19f069f2b4caa65ebfd5ed6d58be/sections/minutes1" target="_blank">Minutes of Meetings</a>
+<a href="https://github.com/elifefirat/elifefirat.github.io/tree/master/sections/minutes1" target="_blank">Minutes of Meetings</a>
 
