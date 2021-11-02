@@ -1,0 +1,34 @@
+Minutes of Meeting: Bob, Elif
+
+Date:       02.11.2021
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 09 Nov 2021 
+
+
+Topics Discussed:
+        -- Happy Birthday!
+	-- Halloween
+	-- Comparing simulation 101 with 117 wrt P input parameter
+
+
+Progress:
+	-- Bob reviews literacy tutorial paper
+	-- Next draft of DPCP paper 
+	-- Literacy survey sent to Alark
+	-- Update of Survis with latest paper
+	-- First draft of demo video
+	
+
+TODO:
+	-- Next draft of literacy tutorial paper
+	-- Scan Bob's feedback on literacy tutorial and DPCP papers 
+	-- Video Feedback:
+           - 0:48 Arrows pointing up should be green-double check paper too
+	   - 1:40 Show before and after subtraction
+	   - 1:51 Show updates to display when user selects different age groups
+	-- Add case study questions to video
+	-- Next draft of video for DPCP paper
+	-- Next draft of DPCP paper with conclusion and future work
+	
