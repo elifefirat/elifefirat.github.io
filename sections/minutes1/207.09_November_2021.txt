@@ -1,0 +1,36 @@
+Minutes of Meeting: Bob, Elif
+
+Date:       09.11.2021
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 16 Nov 2021 
+
+
+Topics Discussed:
+        -- P_inf, P_s - Interesting input parameter values
+	-- Party 26 Nov '21 -Thanksgiving
+
+
+Progress:
+	-- Bob checks his minutes of meeting 30 June '21
+           with Ben Swallow
+	-- Bob reviews next draft of tutorial paper
+	-- Next draft of DPCP paper
+	-- Bob reviews DPCP paper
+	-- Software updated tp compare simulations
+	
+
+TODO:
+	-- Next draft of tutorial paper + scan Bob's feedback
+	-- Next draft if DPCP + scan Bob's feedback
+	-- Next version of the video - follow the paper
+	-- Send email to Rita and Cagatay if they are interested
+           helping us with our EuroVis paper
+	-- Video 
+           - 1.16 'of' ->'for' and fix the double space
+	   - Add 'comparing age groups' at top
+	   - 2.35 Map color to D (deaths)
+	   - Draft intro chapter for thesis
+	
+
