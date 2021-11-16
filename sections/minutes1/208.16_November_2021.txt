@@ -1,0 +1,43 @@
+Minutes of Meeting: Bob, Elif
+
+Date:       16.11.2021
+Start time: 11.00
+End time:   12.45
+
+Date and time of next meeting: 23 Nov 2021 
+
+
+Topics Discussed:
+        -- EuroVis Submission
+	-- Nut Roast, Stuffing, Patatoes, Rice, Green Peas, 
+           Pumpkin/Squash, Curried Chickpeas, Lentils
+	-- Pasta for party
+
+
+Progress:
+	-- Next draft of tutorial paper
+	-- Bob reviews tutorial paper
+	-- Meeting with Alark
+	-- Meeting with Ben Swallow
+	-- Next draft of DPCP paper and video
+	-- Bob reviews next draft of DPCP video
+
+TODO:
+	-- Submit EuroVis abstract
+	-- Next draft of DPCP paper + video - Scan Bob's feedback
+        -- Next draft of tutorial paper - scan Bob's feedback
+	-- Video feedback
+           - 0:15 Too quick "What are the numbers" -- > "How many.."
+                  "with"-->"have", "slopes"-->"slope", "in"-->"of"
+	   - 1:13 "Comparing age groups"--> "Using the subtraction opertor
+                   to compare to age groups"
+	          "Between.. hospitalizations" -->"in output simulation parameters"
+           - 1:33 Add observation about "H" and "D"
+           - 1.38 "What is the influence of the Pinf input parameter?"
+	   - 2.08 Add that Pinf is very influential
+	   - 2.11 Caption is too quick
+	   - 2.16 Using '\kappa' to guide redundant dimensions in the PCP
+       -- Try to follow order of paper
+          Add simple demo of '\delta' and '\kappa'-guided features	
+       -- Next draft of video
+       -- Any aditional features
