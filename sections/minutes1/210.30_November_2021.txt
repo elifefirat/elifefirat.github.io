@@ -1,0 +1,40 @@
+Minutes of Meeting: Bob, Elif
+
+Date:       30.11.2021
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 7 Dec 2021 
+
+
+Topics Discussed:
+        -- 
+
+
+
+Progress:
+	-- Next draft of Eurovis submission
+	-- Abstract submitted to Eurovis
+	-- Next draft of the video
+	-- Bob reviews draft of Eurovis submission
+	-- Response from Ben Swallow	
+
+
+TODO:
+	-- Next draft of DPCP paper + video
+	-- Send DPCP draft to Ben and Cagatay
+	-- Submit DPCP paper to Eurovis- 1 draft 24h early
+	-- Share Overleaf with Ben
+	-- Draft a cover letter for survey submission
+	-- Video feedback reverse
+           - Video needs a title
+	   - Remove first two senteces 0.00- 0.30 
+	   - 1:50 Use section title: Dynamic Edge Glyph lens
+	   - 3.18 Use the section title
+	   - 3.25 Dnt mention removeinf age groups	
+           - 7.17 "To explore the influence of important input parameteres"
+	   - 9.40 No need to mention removal	
+	   - 10.09 Remove the workd "all"
+	   - 12.29 Add voiceover
+	   - 12.57 Ne need to show F+C so many times
+	   - 13.09 No need to demonstrate labels
