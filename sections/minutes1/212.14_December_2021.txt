@@ -1,0 +1,34 @@
+Minutes of Meeting: Bob, Elif
+
+Date:       14.12.2021
+Start time: 11.00
+End time:   12.30
+
+Date and time of next meeting: 4 Jan 2022 TBC
+
+
+Topics Discussed:
+        -- Paper review EuroVis'22
+	-- Diversity Paper
+	-- Start, CGVC'18, Diversity paper, EG'20
+	   Moving to Nott, First Nott meeting,
+           Lockdown March'20, Online Talks, 
+           First Meeting after lockdown,
+           Literacy panel, Ensemble Meetings
+	   
+
+
+Progress:
+	-- Literacy survey submitted to Information Visualization Journal
+	-- First draft of table of contents
+	-- Bob reviews the first draft of introduction
+	-- Bob invites Serengul Smith as external examiner
+
+
+
+TODO:
+	-- Bob email invitations to examiners
+	-- Review Bob's PhD writing guidelines
+        -- Next draft of introduction including table of contents
+           and more images and history/timeline of whole thesis
+        -- Include diversity paper as appendix
