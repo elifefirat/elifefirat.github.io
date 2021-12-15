@@ -5,6 +5,9 @@ permalink: /publications
 image: publications.jpg
 
 ---
+
+##### Click for <a href="https://scholar.google.com/citations?user=2Mq-E9cAAAAJ&hl=en">Google Scholar</a>
+---
 ##### Visualization Literacy for General Audiences-Can We Make A Difference?
 *Alark Joshi, Katy Börner, Robert S Laramee, Lane Harrison, **Elif E Firat**, Bum Chul Kwon*
 
