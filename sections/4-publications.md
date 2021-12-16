@@ -11,7 +11,7 @@ image: publications.jpg
 ##### Visualization Literacy for General Audiences-Can We Make A Difference?
 *Alark Joshi, Katy Börner, Robert S Laramee, Lane Harrison, **Elif E Firat**, Bum Chul Kwon*
 
-IEEE VIS, 2021 (<a href="http://ieeevis.org/year/2021/info/panels" title="Visualization Literacy for General Audiences-Can We Make A Difference?" target="_blank">url</a> "|" <a href="http://www.cs.nott.ac.uk/blaramee/research/panel/joshi21visualization.pdf" title="Pdf" target="_blank" style="text-decoration: none;">pdf</a>)
+IEEE VIS, 2021 (<a href="http://ieeevis.org/year/2021/info/panels" title="Visualization Literacy for General Audiences-Can We Make A Difference?" target="_blank">url</a> <span>|<\span> <a href="http://www.cs.nott.ac.uk/blaramee/research/panel/joshi21visualization.pdf" title="Pdf" target="_blank" style="text-decoration: none;">pdf</a>)
 
 ---
 
