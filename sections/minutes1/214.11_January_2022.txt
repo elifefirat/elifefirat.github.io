@@ -1,0 +1,35 @@
+Minutes of Meeting: Bob, Elif
+
+Date:       11.01.2022
+Start time: 11.00
+End time:   13.00
+
+Date and time of next meeting: 18 Jan 2022 
+
+
+Topics Discussed:
+        -- Serengul Smith
+	-- 17 Jan NTIC job start
+	-- 24 Jan DMS exam
+
+
+
+Progress:
+	-- Jobs at NTU, NTIC Nottingham Trent International College
+	-- Survey reviews back
+	-- Next draft of introduction
+	-- Draft of thesis conclusions
+	-- Supplementary metarial for Chapter 3
+	-- Bob reviews introduction and conclusions chapter
+	-- Bob reviews supplementary metarial for Chapter 3
+
+
+
+TODO:
+	-- Draft cover letter for survey
+	-- See if you can find a defination of "data visualization in the wild"
+	-- Review Bob's guidlines on converting papers to a thesis
+	-- Bob find new examiners-rewrite
+	-- Next draft of thesis
+	-- Ask Max for thesis feedback
+	-- Print out EuroVis apper for Bob to look
