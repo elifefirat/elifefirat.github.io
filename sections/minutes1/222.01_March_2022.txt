@@ -1,0 +1,40 @@
+Minutes of Meeting: Bob, Elif, Christina Stoiber, Magdelina Boucher, Wolfgang Aigner
+
+Date:       01.03.2022
+Start time: 14.00
+End time:   15.20
+
+Date and time of next meeting:  8 March 2022 14.00
+
+
+Topics Discussed:
+	-- St Polten
+	-- Min Chen- Visualization Pyschology
+	-- Computer & Graphics
+	-- Vinci Co
+	-- Frontiers in Education
+	-- Proposal collabration
+	-- EU DataVis Symposium
+	-- Idea: Just-in-time Vis Literacy
+	-- Aesthetics
+
+
+
+
+Progress:
+        -- Meeting Christina Stobier et al.
+	-- IJHCS reviews back
+	-- Next draft of DPCP paper 
+
+
+	
+
+TODO:
+	-- Bob add Vis resources to PVSK	
+	-- Elsevier Visual Informatics
+	-- Journal of Visualization (JoV)
+	-- Bob send email about Dagsthul on Vis Literacy
+	-- Think about collabration idea
+	-- Bob review IJHCS reviews
+	-- Submit DPCP paper to CGI after revision
+	-- Bob upload next version of Elif's PhD thesis
