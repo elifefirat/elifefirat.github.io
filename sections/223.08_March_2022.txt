@@ -1,0 +1,38 @@
+Minutes of Meeting: Bob, Elif
+
+Date:       08.03.2022
+Start time: 14.00
+End time:   16.00
+
+Date and time of next meeting:  TBA
+
+
+Topics Discussed:
+	-- Teaching
+	-- 17 May viva
+	-- IJHCS reviews
+	-- Paper idea: What % of the population
+           understands CCPs?
+	-- 10 May 2022 practice viva
+
+
+
+
+Progress:
+        -- Bob talked to Tony about attending Eurograhpics
+	-- Bob sends another email to Dagstuhl organizers
+	-- DPCP paper submitted to CGI 2022
+	-- Meeting with Wolgpang Aigner, Christiana Stobier, 
+           Magdelena Boucher
+	-- Bob sent updated thesis to examiners
+	-- Bob reviews PCP reviews
+
+	
+
+TODO:
+	-- Contact Tony Pridmore about attending Eurographics 
+           2022 Conference (cc: Bob)
+	-- Next draft of PCP literacy paper (P-Lite)
+	-- Try submitting to Visual Informatics Journal (Elsevier)
+	-- Watch some previous practice viva's
+	-- Prepare viva slides-
