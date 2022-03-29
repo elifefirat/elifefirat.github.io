@@ -1,0 +1,43 @@
+Minutes of Meeting: Bob, Elif
+
+Date:       24.03.2022
+Start time: 14.00
+End time:   15.00
+
+Date and time of next meeting: TBA
+
+
+Topics Discussed:
+        -- French Embassy
+	-- Schengen Visa
+	-- 5th April Visa Apt
+	-- I love pdf
+
+
+Progress:
+	-- Bob sends emails to Alark and EG Edu Chairs
+	-- Positive feedback on thesis
+
+
+TODO:
+	-- Ask Tony and Linda how to coordinate conference
+           registration project code
+	-- Meeting with prof in Turkish Department
+	-- Choose a figure to ask about
+
+Questions:
+        1. Why visualization literacy?
+	2. Why treemaps or parallel coordinates?
+	3. What is the difference between visualization and
+           visual analytics?
+        4. What is relationship between the number of rectangles
+           in the treemap and the time spent for each questions? (graphs 3.16 and 3.17)
+        5. What did you create 3.21 and what does it show us?
+        6. Why did you work on dense PCP, the last chapter?
+        7. Why diversity paper?
+        8. Why arent the results stronger in the user-studies? (Treemap and PCP)
+        9. Why is dimensionality reduction in PCP needed? (Chapter 5.3.5)
+        9. If you had to start over what would you have done 
+           differently? (End)
+        10. What is your future work? (End) 
+	   
