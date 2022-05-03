@@ -1,0 +1,30 @@
+Minutes of Meeting: Bob, Elif
+
+Date:       03.05.2022
+Start time: 14.00
+End time:   15.00
+
+Date and time of next meeting:  
+
+
+Topics Discussed:
+	-- Applied for Schengen visa with multiple entry
+           for France & Latvia at Latvian Consulate
+	-- Dummy Tickets service
+	-- Noeska Smit, Anna Vilanova
+	-- 24 May 2022 Resubmit deadline	
+	-- Visual Informatics reviews
+	-- DPCP reviews 
+
+
+
+Progress:
+	-- Eurograhics 2022
+	-- P-Lite paper reviews minor revision
+	
+
+TODO:
+	-- Draft cover letter for P-Lite paper (changes in blue)
+	-- Next draft of P-Lite paper
+	-- Next draft of DPCP paper but without grid feature
+           -> move to future work
