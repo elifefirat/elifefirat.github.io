@@ -1,0 +1,44 @@
+Minutes of Meeting: Bob, Elif
+
+Date:       10.05.2022
+Start time: 14.00
+End time:   15.30
+
+Date and time of next meeting:  Viva :)
+
+
+Topics Discussed:
+	-- Tenants	
+	-- Cats
+	-- EuroVis 2022
+	-- NTU MSc Students
+	-- Illness
+	-- 17 May '21 Viva
+	-- Cukurova 
+
+
+
+Progress:
+	-- Finished marking for Max and Collage
+	-- P-Lite cover letter
+	-- Next draft of DPCP paper
+	
+
+TODO:
+	-- Prepare pratice viva & viva
+	-- Look at practice viva's Dylan, Liam and Richards
+	   Slide: Title slide
+           Slide: Data Vis then Vis Literacy
+	   Slide: Contributions-based on chapters
+	   Slide: List of publications - Accepted
+	   Slide: List of techical reports
+	   Slide: Literature review
+	   Slide: Treemap
+	   Slide: PCP user-study
+	   Slide: PCP software
+	   Slide: Future work
+	-- Next draft of P_Lite cover letter
+	-- Next draft of P_Lite paper
+	-- Submit revised version of P_Lite paper+ cover letter	
+	-- Send Bob latest version pdf of DPCP paper
+	-- Update Figures 3,4 of DPCP paper- remove grid based images
