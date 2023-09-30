@@ -8,4 +8,4 @@ publications-img: publications.jpg
 ---
 
 
-I am a Ph.D. candidate at the University of Nottingham, working on visualization Literacy. My research interests are identifying barriers to visualization literacy and improving non-expert users’ visualization literacy skills by aiding teaching and learning with a pedagogical tool. I mainly focus on providing solutions to advance data exploration experience in Treemap and Parallel Coordinate Plot.
+I am currently working as a lecturer in the Computer Engineering Department at Cukurova University in Turkey. My Ph.D. studies were completed at the University of Nottingham, where I conducted extensive research in visualization literacy. My primary research interests revolve around identifying barriers to visualization literacy and enhancing the visualization skills of non-expert users through pedagogical tools. My research strongly focuses on advancing the data exploration experience, particularly the Treemaps and Parallel Coordinate Plots.
