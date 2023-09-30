@@ -5,7 +5,7 @@ permalink: /education
 image: education.jpg
 ---
 
-### PhD Candidate (2018- )
+### PhD Candidate (2018-2022)
 
 University of Nottingham - Information Visualization
 
