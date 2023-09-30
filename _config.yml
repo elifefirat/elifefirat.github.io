@@ -1,12 +1,12 @@
 # Website settings
 url: "https://elifefirat.github.io" # the base hostname & protocol for your site (e.g. http://example.com)
 baseurl: "" # the subpath of your site (e.g. /blog)
-title: "Elif E Firat" # the name of your site
+title: "Dr. Elif E Firat" # the name of your site
 
 # User settings
 name: Elif E Firat
-about: PhD Candidate in Information Visualization
-email: "elif.firat[at]nottingham.ac.uk"
+about: Lecturer at Cukurova University // email: elifemelfirat@gmail.com
+email: "elifemelfirat@gmail.com"
 github: ""
 gitlab: ""
 linkedin: ""
