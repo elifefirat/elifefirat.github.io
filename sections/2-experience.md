@@ -42,7 +42,7 @@ CSC061- Introduction to Programming (Winter-2018)
 
 ### Projects
 
-Visualization and Visual Analytics in Support of Rapid Assistance in Modelling the Pandemic [(RAMP)][https://sites.google.com/view/rampvis/home](Jan 2021- Feb 2022)
+Visualization and Visual Analytics in Support of Rapid Assistance in Modelling the Pandemic ([RAMP])[https://sites.google.com/view/rampvis/home](Jan 2021- Feb 2022)
 RAMPVIS is a group of volunteers specialised in Data Visualization and Visual Analytics, who answered a call to support the modelling scientists and epidemiologists in the Scottish COVID-19 Response Consortium (SCRC). 
 
 ### Invited Talks
