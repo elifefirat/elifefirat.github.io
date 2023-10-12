@@ -40,6 +40,10 @@ CSC061- Introduction to Programming (Winter-2018)
 
 ---
 
+### Projects
+
+--- Visualization and Visual Analytics in Support of Rapid Assistance in Modelling the Pandemic [(RAMP)] (Jan 2021- Feb 2022)(https://sites.google.com/view/rampvis/home) : RAMPVIS is a group of volunteers specialised in Data Visualization and Visual Analytics, who answered a call to support the modelling scientists and epidemiologists in the Scottish COVID-19 Response Consortium (SCRC). 
+
 ### Invited Talks
 
 "A Classroom-based Investigation" hosted by University of Nottingham Research Software Network, 7th August 2020
@@ -50,7 +54,7 @@ CSC061- Introduction to Programming (Winter-2018)
 ### Service to the Professional Community
 Reviewer for the IEEE Transactions on Visualization and Computer Graphics (TVCG)
 
-Reviewer for IEEE VIS 2023 EduVis Workshop
+Reviewer for IEEE VIS 2023 EduVis Workshop (as a committee member)
 
 Reviewer for VIS 2023 Full Papers
 
