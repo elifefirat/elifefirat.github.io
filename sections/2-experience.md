@@ -7,11 +7,15 @@ image: experience.jpg
 ### Work
 The Computer Engineering Department, Cukurova University, Adana, Turkey (2022- )
 
-### Invited Talks
+### Courses
 
-"A Classroom-based Investigation" hosted by University of Nottingham Research Software Network, 7th August 2020
+CEN117 -- Introduction to Computer Engineering (Winter-2023)
 
-"Data Visualization Literacy" hosted by University of Nottingham Digital Research Group, 25th of September 2020
+CEN445 -- Introduction to DataVisualization (Winter-2023)
+
+CEN202 -- Programming Languages (Spring-2022)
+
+CEN446 -- Human-Computer Interaction (Spring-2022)
 
 ---
 ### Teaching Assistant
@@ -34,6 +38,15 @@ CS110 - Programming (Winter-2018)
 
 CSC061- Introduction to Programming (Winter-2018)
 
+---
+
+### Invited Talks
+
+"A Classroom-based Investigation" hosted by University of Nottingham Research Software Network, 7th August 2020
+
+"Data Visualization Literacy" hosted by University of Nottingham Digital Research Group, 25th of September 2020
+
+--- 
 ### Service to the Professional Community
 Reviewer for the IEEE Transactions on Visualization and Computer Graphics (TVCG)
 
