@@ -1,7 +1,7 @@
 ---
 layout: section
-title: Courses
-permalink: /courses
+title: Projects
+permalink: /projects
 image: projects.jpg
 ---
 
