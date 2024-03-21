@@ -14,9 +14,9 @@ Fall Semester
 
 Spring Semester
 
-<a href="https://github.com/elifefirat/elifefirat.github.io/tree/master/sections/CompEng" target="_blank">Programming Languages</a>
+<a href="https://github.com/elifefirat/elifefirat.github.io/tree/master/sections/ProgLang" target="_blank">Programming Languages</a>
 
-<a href="https://github.com/elifefirat/elifefirat.github.io/tree/master/sections/DataVis" target="_blank">Human-Computer Interaction</a>
+<a href="https://github.com/elifefirat/elifefirat.github.io/tree/master/sections/HCI" target="_blank">Human-Computer Interaction</a>
 
 
 ---
